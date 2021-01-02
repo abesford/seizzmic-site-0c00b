@@ -27,7 +27,7 @@ sections:
             style: secondary
       - title: Public services and health
         subtitle: For very large businesses
-        price: $149/m
+        price: ''
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
