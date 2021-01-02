@@ -37,7 +37,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Public services and health
         subtitle: For very large businesses
         price: $149/m
         details: |-
