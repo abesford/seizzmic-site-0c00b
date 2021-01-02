@@ -11,18 +11,6 @@ sections:
     title: Seizzmic work with all kinds of organisations
     subtitle: 'We help public and private sector organisations, both large and small.'
     pricing_plans:
-      - title: Startups and scale-ups
-        subtitle: For small businesses
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
       - title: Mid-sized businesses
         subtitle: lorem-ipsum
         price: lorem-ipsum
@@ -62,6 +50,18 @@ sections:
           * Aenean iaculis lorem
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
+        actions:
+          - label: Order Now
+            url: /signup
+            style: secondary
+      - title: Startups and scale-ups
+        subtitle: For small businesses
+        price: $5/m
+        details: |-
+          * Lorem ipsum dolor sit amet
+          * Mauris a mi tincidunt
+          * Suspendisse ut lacus
+          * Etiam eget dui a augue
         actions:
           - label: Order Now
             url: /signup
