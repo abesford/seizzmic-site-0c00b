@@ -23,7 +23,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Mid-sized business
+      - title: Mid-sized businesses
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
