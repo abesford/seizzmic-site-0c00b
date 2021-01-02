@@ -24,7 +24,7 @@ sections:
         actions:
           - label: Find out more
             url: /signup
-            style: primary
+            style: secondary
       - title: Public services and health
         subtitle: For very large businesses
         price: $149/m
