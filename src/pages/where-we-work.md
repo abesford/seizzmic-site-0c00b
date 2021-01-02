@@ -8,7 +8,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: We help public and private sector organisations
+    title: We work with all kinds of organisations
     subtitle: 'We help public and private sector organisations, both large and small.'
     pricing_plans:
       - title: Startup and scaleup
