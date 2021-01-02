@@ -41,7 +41,7 @@ sections:
       - label: Get Started
         url: '#'
         style: secondary
-  - section_id: lorem-ipsum
+  - section_id: services
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
