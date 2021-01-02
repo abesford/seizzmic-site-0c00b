@@ -46,7 +46,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Seizzmic for small business
             url: /signup
             style: secondary
       - title: Medium-sized businesses
