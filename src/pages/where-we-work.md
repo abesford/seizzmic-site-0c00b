@@ -34,7 +34,7 @@ sections:
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
         actions:
-          - label: Order Now
+          - label: Find out more
             url: /signup
             style: secondary
       - title: Startups and scale-ups
