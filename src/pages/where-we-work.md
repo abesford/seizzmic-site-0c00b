@@ -22,7 +22,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: false
         actions:
-          - label: Seizzmic for Enterprise
+          - label: Seizzmic for enterprise
             url: /signup
             style: secondary
       - title: Public services and health
