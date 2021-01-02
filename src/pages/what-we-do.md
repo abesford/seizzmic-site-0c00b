@@ -48,7 +48,7 @@ sections:
     pricing_plans:
       - title: Change
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
