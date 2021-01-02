@@ -39,7 +39,7 @@ sections:
             style: secondary
       - title: Startups and scale-ups
         subtitle: For small businesses
-        price: $5/m
+        price: ''
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
