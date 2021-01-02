@@ -65,7 +65,7 @@ sections:
         type: pricing_plan
       - title: Data
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
