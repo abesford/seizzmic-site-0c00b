@@ -22,7 +22,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: false
         actions:
-          - label: Order Now
+          - label: Find out more
             url: /signup
             style: primary
       - title: Public services and health
