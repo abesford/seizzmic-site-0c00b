@@ -52,7 +52,7 @@ sections:
             url: /signup
             style: secondary
       - title: Medium-sized businesses
-        subtitle: 'turnover, £25m-£500m per year'
+        subtitle: 'turnover, £25m-£500m per year or around 250 employees'
         price: ''
         details: >-
           #Lorem ipsum
