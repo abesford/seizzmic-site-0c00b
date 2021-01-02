@@ -11,7 +11,7 @@ sections:
     title: We help public and private sector organisations
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Basic
+      - title: Startup and scaleup
         subtitle: For small businesses
         price: $5/m
         details: |-
