@@ -53,7 +53,7 @@ sections:
         subtitle: 250 people / revenue around £x m
         price: ''
         details: >-
-          ## Lorem ipsum
+          #Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
