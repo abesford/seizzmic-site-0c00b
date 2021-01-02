@@ -50,7 +50,7 @@ sections:
             url: /signup
             style: secondary
       - title: Mid-sized businesses
-        subtitle: lorem-ipsum
+        subtitle: 250 people / revenue around £x m
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
