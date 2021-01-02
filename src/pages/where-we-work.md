@@ -69,7 +69,7 @@ sections:
             url: lorem-ipsum
             style: secondary
             has_icon: true
-            icon: instagram
+            icon: envelope
             icon_position: right
             new_window: false
             no_follow: false
