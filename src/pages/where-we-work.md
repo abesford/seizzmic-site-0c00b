@@ -11,7 +11,7 @@ sections:
     title: We work with all kinds of organisations
     subtitle: >-
       We help public and private sector organisations, both large and small. Our
-      values are cinsisyacross all
+      values are cinsistent aross all
     pricing_plans:
       - title: Enterprise
         subtitle: For medium-sized businesses
