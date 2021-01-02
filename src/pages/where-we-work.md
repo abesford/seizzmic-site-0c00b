@@ -49,7 +49,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Mid-sized businesses
+      - title: Medium-sized
         subtitle: 250 people / revenue around £x m
         price: ''
         details: >-
