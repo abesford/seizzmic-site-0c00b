@@ -8,7 +8,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: We work with all kinds of organisations
+    title: Seizzmic work with all kinds of organisations
     subtitle: 'We help public and private sector organisations, both large and small.'
     pricing_plans:
       - title: Startups and scale-ups
