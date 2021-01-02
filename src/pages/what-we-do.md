@@ -82,7 +82,7 @@ sections:
         type: pricing_plan
       - title: The next one
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
