@@ -9,7 +9,9 @@ sections:
     type: section_pricing
     background: gray
     title: We work with all kinds of organisations
-    subtitle: 'We help public and private sector organisations, both large and small.'
+    subtitle: >-
+      We help public and private sector organisations, both large and small. Our
+      values are cinsisyacross 
     pricing_plans:
       - title: Enterprise
         subtitle: For medium-sized businesses
