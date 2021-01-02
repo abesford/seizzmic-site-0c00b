@@ -51,7 +51,7 @@ sections:
           - label: Seizzmic for small business
             url: /signup
             style: secondary
-      - title: Medium-sized businesses
+      - title: Mid-sized businesses
         subtitle: 'turnover, £25m-£500m per year or around 250 employees'
         price: ''
         details: >-
