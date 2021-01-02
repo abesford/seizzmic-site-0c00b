@@ -9,7 +9,7 @@ sections:
     type: section_pricing
     background: gray
     title: We help public and private sector organisations
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: 'We help public and private sector organisations, both large and small.'
     pricing_plans:
       - title: Startup and scaleup
         subtitle: For small businesses
