@@ -49,7 +49,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Mid
+      - title: Mid-sized
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
