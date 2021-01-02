@@ -91,7 +91,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Seizzmic for third sector
             url: lorem-ipsum
             style: link
             has_icon: false
