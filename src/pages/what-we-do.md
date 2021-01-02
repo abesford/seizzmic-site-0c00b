@@ -79,7 +79,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Find out more
             url: lorem-ipsum
             style: link
             has_icon: false
