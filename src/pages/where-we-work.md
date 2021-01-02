@@ -25,7 +25,7 @@ sections:
         highlight: false
         actions:
           - label: Seizzmic for enterprise
-            url: /signup
+            url: /s
             style: secondary
       - title: Public services and health
         subtitle: For very large businesses
