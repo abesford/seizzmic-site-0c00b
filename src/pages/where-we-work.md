@@ -11,7 +11,7 @@ sections:
     title: We work with all kinds of organisations
     subtitle: 'We help public and private sector organisations, both large and small.'
     pricing_plans:
-      - title: Startups and scale-up
+      - title: Startups and scale-ups
         subtitle: For small businesses
         price: $5/m
         details: |-
