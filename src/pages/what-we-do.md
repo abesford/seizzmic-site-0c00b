@@ -42,7 +42,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: services
-    title: Wha we do
+    title: What we do
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
