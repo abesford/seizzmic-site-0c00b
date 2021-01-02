@@ -51,7 +51,7 @@ sections:
             style: secondary
       - title: Mid-sized businesses
         subtitle: 250 people / revenue around £x m
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
