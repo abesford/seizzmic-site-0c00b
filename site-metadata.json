@@ -38,7 +38,8 @@
                 "type": "footer_text",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Stackbit theme demo",
+                "title": "seizzmic"
             },
             {
                 "type": "footer_nav",
