@@ -1,5 +1,5 @@
 ---
-title: Enterprise
+title: Enterprises need help with their blah blah blah
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
