@@ -8,8 +8,9 @@ sections:
   - section_id: banner
     title: public sector is under more pressure than ever
     content: >-
-      We can help lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      seizzmic helps public sector lorem ipsum dolor sit amet, **consectetur
+      adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore
+      magna aliqua.
     image_alt: Whitehall
     actions: []
     type: section_hero
