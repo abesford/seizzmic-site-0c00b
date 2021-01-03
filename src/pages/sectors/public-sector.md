@@ -6,7 +6,7 @@ canonical_url: ''
 no_index: false
 sections:
   - section_id: banner
-    title: public sector is under more pressure than ever
+    title: The public sector is under more pressure than ever
     content: >-
       seizzmic helps public sector lorem ipsum dolor sit amet, **consectetur
       adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore
