@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: The world is going through a profound change
+    title: The world is going through a period of profound change
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
