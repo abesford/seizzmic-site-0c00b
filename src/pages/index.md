@@ -7,12 +7,13 @@ sections:
     image_alt: App preview
     title: We are all going through a period of profound change
     content: >-
-      Organisations need to change to survive. Internet, opportunities of data,
-      cyber security.
+      In 2021, more than ever, organisations need to change the way they work to
+      survive and thrive.
 
 
-      We help you make it happen - through better use of digital, data and
-      technology.
+      We help you make it happen - by making better use of data, using
+      internet-era technology, and modernising technology - all while staying
+      secure.
     actions:
       - label: Learn More
         url: /features
