@@ -8,7 +8,7 @@ sections:
   - section_id: lorem-ipsum
     title: public sector is under more pressure than ever
     content: >-
-      ## Lorem ipsum
+      Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
