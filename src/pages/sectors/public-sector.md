@@ -17,7 +17,7 @@ sections:
     image: images/centralgov.jpg
   - section_id: services
     title: services for public sector and health
-    subtitle: lorem-ipsum
+    subtitle: we have a range of services
     background: gray
     features: []
     type: section_features
