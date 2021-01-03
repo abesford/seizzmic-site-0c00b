@@ -20,7 +20,7 @@ sections:
     subtitle: we have a range of services
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Vison
         content: >-
           ## Lorem ipsum
 
