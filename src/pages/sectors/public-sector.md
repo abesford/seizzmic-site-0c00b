@@ -22,10 +22,10 @@ sections:
     features:
       - title: Vison
         content: >-
-          ## Lorem ipsum
+          Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
