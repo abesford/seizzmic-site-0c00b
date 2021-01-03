@@ -36,7 +36,7 @@ sections:
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
         actions:
-          - label: Seizzmic for public sector
+          - label: seizzmic for public sector
             url: /sectors/public-sector
             style: secondary
       - title: Startups and scale-ups
