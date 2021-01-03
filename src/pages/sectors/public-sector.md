@@ -16,7 +16,7 @@ sections:
     type: section_hero
     image: images/centralgov.jpg
   - section_id: services
-    title: lorem-ipsum
+    title: services for public sector and health
     subtitle: lorem-ipsum
     background: gray
     features: []
