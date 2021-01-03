@@ -6,7 +6,7 @@ canonical_url: ''
 no_index: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: public sector is under more pressure than ever
     content: >-
       ## Lorem ipsum
 
