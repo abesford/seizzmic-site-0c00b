@@ -2,7 +2,7 @@
 title: Enterprise
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
-meta_title: Stackbit for Enterprise
+meta_title: seizzmic for Enterprise
 meta_description: lorem-ipsum
 canonical_url: ''
 no_index: false
