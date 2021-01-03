@@ -41,16 +41,9 @@ sections:
         image: images/12.jpg
       - title: Transformation programme set-up
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          with smart use of data at the heart. whilst staying secure lorem ipsum
+          dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
