@@ -1,7 +1,7 @@
 ---
 title: Public Sector
 meta_title: seizzmic for public sector
-meta_description: lorem-ipsum
+meta_description: ''
 canonical_url: lorem-ipsum
 no_index: false
 sections: []
