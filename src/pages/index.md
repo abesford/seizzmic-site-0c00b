@@ -7,11 +7,12 @@ sections:
     image_alt: App preview
     title: We are going through a period of profound change
     content: >-
-      Organisations need to change. Internet, opportunities of data, cyber
-      security.
+      Organisations need to change to survive. Internet, opportunities of data,
+      cyber security.
 
 
-      We help you make it happen better use of digital, data and technology.
+      We help you make it happen - through better use of digital, data and
+      technology.
     actions:
       - label: Learn More
         url: /features
