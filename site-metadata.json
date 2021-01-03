@@ -106,26 +106,6 @@
                     }
                 ],
                 "submit_label": "Subscribe"
-            },
-            {
-                "title": "lorem-ipsum",
-                "content": "keep in touch",
-                "form_id": "lorem-ipsum",
-                "form_action": "lorem-ipsum",
-                "hide_labels": false,
-                "form_fields": [
-                    {
-                        "input_type": "text",
-                        "name": "lorem-ipsum",
-                        "label": "enter personal details here",
-                        "default_value": "placeholder",
-                        "options": [],
-                        "is_required": false,
-                        "type": "form_field"
-                    }
-                ],
-                "submit_label": "lorem-ipsum",
-                "type": "footer_form"
             }
         ],
         "has_nav": true,
