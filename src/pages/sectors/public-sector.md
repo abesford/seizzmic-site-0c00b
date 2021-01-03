@@ -8,11 +8,8 @@ sections:
   - section_id: banner
     title: public sector is under more pressure than ever
     content: >-
-      Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      We can help lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
