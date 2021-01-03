@@ -6,10 +6,12 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: The world is going through a period of profound change
-    content: |-
-      Organisations need to change.
+    content: >-
+      Organisations need to change. Internet, opportunities of data, cyber
+      security.
 
-      We help you make better use of digital, data and technology.
+
+      We help you make it happen better use of digital, data and technology.
     actions:
       - label: Learn More
         url: /features
