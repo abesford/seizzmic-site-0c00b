@@ -39,7 +39,7 @@ sections:
         actions: []
         type: feature_item
         image: images/12.jpg
-      - title: lorem-ipsum
+      - title: Transformation programme set-up
         content: >-
           ## Lorem ipsum
 
