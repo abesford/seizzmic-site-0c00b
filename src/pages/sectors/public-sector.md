@@ -54,6 +54,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/3.jpg
     type: section_features
 template: landing
 ---
