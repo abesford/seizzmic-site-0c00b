@@ -15,7 +15,7 @@ sections:
     actions: []
     type: section_hero
     image: images/centralgov.jpg
-  - section_id: lorem-ipsum
+  - section_id: services
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
