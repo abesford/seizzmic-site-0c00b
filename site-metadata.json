@@ -117,7 +117,7 @@
                     {
                         "input_type": "text",
                         "name": "lorem-ipsum",
-                        "label": "lorem-ipsum",
+                        "label": "enter personal details here",
                         "default_value": "lorem-ipsum",
                         "options": [],
                         "is_required": false,
