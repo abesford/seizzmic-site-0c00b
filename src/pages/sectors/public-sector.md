@@ -15,7 +15,7 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      > - dolor sit amet
+      > dolor sit amet
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
