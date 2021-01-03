@@ -5,7 +5,7 @@ meta_description: ''
 canonical_url: ''
 no_index: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: banner
     title: public sector is under more pressure than ever
     content: >-
       Lorem ipsum
