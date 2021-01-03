@@ -10,7 +10,7 @@ sections:
     content: >-
       We can help lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
       sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    image_alt: lorem-ipsum
+    image_alt: Whitehall
     actions: []
     type: section_hero
     image: images/centralgov.jpg
