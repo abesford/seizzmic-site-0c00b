@@ -30,6 +30,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/10.jpg
       - title: Business design
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
