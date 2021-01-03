@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: The world is going through a period of profound change
+    title: We are going through a period of profound change
     content: >-
       Organisations need to change. Internet, opportunities of data, cyber
       security.
