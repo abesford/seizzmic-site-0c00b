@@ -48,9 +48,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          **Partnerships**
         highlight: false
         actions:
           - label: Find out more
