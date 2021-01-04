@@ -10,6 +10,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: post
+author: src/data/authors/person-8gt2bfyjn.json
 ---
 ## Lorem ipsum
 
