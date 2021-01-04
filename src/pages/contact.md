@@ -6,7 +6,7 @@ sections:
     subtitle: Let's begin today. Conversation and collaboration.
     background: gray
     pricing_plans:
-      - title: ''
+      - title: Contact
         subtitle: ''
         price: ''
         details: >-
