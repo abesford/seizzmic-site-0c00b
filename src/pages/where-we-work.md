@@ -44,11 +44,15 @@ sections:
       - title: Startups and scale-ups
         subtitle: For small businesses
         price: ''
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >-
+          You have a brilliant product 
+
+
+          You know selling to large enterprises / public sector can help you
+          scale / great case study / generate significant revenue stream
+
+
+          We can help you enter those markets
         actions:
           - label: seizzmic for small business
             url: /signup
