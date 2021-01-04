@@ -7,7 +7,7 @@ sections:
     background: gray
     pricing_plans:
       - title: ''
-        subtitle: ''
+        subtitle: Company
         price: Office
         details: >-
           ## Lorem ipsum
