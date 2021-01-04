@@ -50,7 +50,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Seizzmic for small business
+          - label: seizzmic for small business
             url: /signup
             style: secondary
       - title: Mid-sized businesses
