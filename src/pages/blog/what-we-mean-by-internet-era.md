@@ -1,6 +1,8 @@
 ---
 title: What we mean by Internet-era
-subtitle: The internet era is blah blah
+subtitle: >-
+  The internet era is vero eos et accusamus et iusto odio dignissimos ducimus
+  qui blanditiis
 date: '2021-01-04'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
