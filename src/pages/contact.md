@@ -20,7 +20,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: ''
+      - title: Join us
         subtitle: ''
         price: ''
         details: >-
