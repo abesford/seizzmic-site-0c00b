@@ -14,7 +14,7 @@ As we continue to grow
 
 new company with a start-up mindset as well as the credentials of operating at scale
 
-If you are interested in joining please get in touch xxxx
+If you are interested in joining please get in touch xxxx for an initial conversation.
 
 #### we're flexible but we want someone who can
 
@@ -47,3 +47,4 @@ complementary skills
 
 on the look-out for partners who share our values
 
+[Get in touch](https://)
