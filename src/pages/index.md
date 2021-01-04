@@ -57,10 +57,10 @@ sections:
       - title: We know what the future looks like
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |-
+          We have an opinion
+
+          Not here to sell blockchain blah
         actions:
           - label: Learn More
             url: /features
