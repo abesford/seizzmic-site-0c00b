@@ -39,20 +39,6 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-  - section_id: work-together
-    title: Work together
-    subtitle: lorem-ipsum
-    actions:
-      - label: Join us
-        url: /careers
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_cta
   - section_id: lorem-ipsum
     title: Office
     content: >-
