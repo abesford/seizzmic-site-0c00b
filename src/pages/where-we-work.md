@@ -39,7 +39,7 @@ sections:
           - label: seizzmic for public sector
             url: /sectors/public-sector
             style: secondary
-        highlight: true
+        highlight: false
       - title: Startups and scale-ups
         subtitle: For small businesses
         price: ''
