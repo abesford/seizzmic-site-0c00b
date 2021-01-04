@@ -47,7 +47,12 @@ sections:
       - title: Working with all kinds of organisation
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: small / medium / large etc. help them plot a course
+        content: |-
+          Working with all kinds of ambitious organisation
+
+          bring people together - build collective energy around vision
+
+          small / medium / large etc. help them plot a course
         actions:
           - label: Learn more
             url: /features
