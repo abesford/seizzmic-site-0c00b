@@ -12,20 +12,17 @@ sections:
     image_alt: App preview on a phone and tablet
     title: What we do
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      As an independent consultancy so we are on your side, and never looking to
+      "land and expand". We act impartially to best meet your needs.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Collaborative and hands-on
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Wealth of experience
+
+
+      Help you determine / be prepared for the future.
     actions:
       - label: Free Trial
         url: /signup
