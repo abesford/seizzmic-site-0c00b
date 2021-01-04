@@ -54,7 +54,7 @@ sections:
         type: action
     type: section_cta
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Office
     content: >-
       ## Lorem ipsum
 
