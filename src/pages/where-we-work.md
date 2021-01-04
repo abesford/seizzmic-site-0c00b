@@ -77,7 +77,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Voluntary and community
-        subtitle: lorem-ipsum
+        subtitle: VCSE sector
         price: ''
         details: |-
           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
