@@ -1,6 +1,6 @@
 ---
 title: Where we work
-meta_title: 'seizzmic '
+meta_title: seizzmic | Where we work
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
