@@ -10,6 +10,8 @@ canonical_url: lorem-ipsum
 no_index: false
 template: page
 ---
+new company with a start-up mindset as well as the credentials of operating at scale
+
 If you are interested in joining please get in touch xxxx
 
 ## Partnerships
