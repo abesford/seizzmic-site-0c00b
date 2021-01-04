@@ -34,6 +34,9 @@ sections:
           What we do
 
 
+          [Internet-era](/blog/what-we-mean-by-internet-era/)
+
+
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
