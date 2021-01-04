@@ -66,7 +66,7 @@ sections:
           - dolor sit amet
         highlight: false
         actions:
-          - label: Seizzmic for business
+          - label: seizzmic for business
             url: lorem-ipsum
             style: secondary
             has_icon: false
