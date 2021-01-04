@@ -7,23 +7,6 @@ sections:
     background: gray
     pricing_plans:
       - title: ''
-        subtitle: Company
-        price: Office
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - title: ''
         subtitle: ''
         price: Contact
         details: >-
@@ -60,6 +43,23 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        type: pricing_plan
+      - title: ''
+        subtitle: Company
+        price: Office
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
         type: pricing_plan
     type: section_pricing
 template: landing
