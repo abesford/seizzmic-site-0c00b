@@ -21,7 +21,9 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: get your organisation working in more modern and internet-ready
+    title: >-
+      [our goal is to] get your organisation working in more modern and
+      internet-ready
     subtitle: >-
       we are experts. we'll help you BUilding new skills and capabilities,
       implementing an architecture to accelerate move to the cloud, revising the
