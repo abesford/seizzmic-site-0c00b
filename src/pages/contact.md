@@ -41,7 +41,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: ''
+      - title: Company
         subtitle: ''
         price: ''
         details: >-
