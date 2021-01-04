@@ -45,7 +45,7 @@ sections:
             type: action
         type: pricing_plan
       - title: ''
-        subtitle: Company
+        subtitle: ''
         price: Company
         details: >-
           ## Lorem ipsum
