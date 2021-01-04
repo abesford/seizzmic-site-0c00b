@@ -31,7 +31,7 @@ sections:
           **Partnerships**
         highlight: false
         actions:
-          - label: Work together
+          - label: Learn more
             url: /careers
             style: secondary
             has_icon: false
