@@ -2,7 +2,26 @@
 title: Privacy Policy
 template: page
 ---
+https://55thparallel.uk is provided by 55th Parallel Ltd., which is a company registered in England and Wales, company number 11125102.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#### What data we collect
+We do not collect or store any personal data through this site.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+We will never share your data with any other organisation for any purpose.
+
+#### Links to and from other websites
+55thparallel.uk contains links to other websites. This privacy policy only applies to 55thparallel.uk, and does not cover other websites, such as social networking sites, which have their own terms and conditions and privacy policies.
+
+If you go to another website from this one, read the privacy policy on that website to find out what it does with your information.
+
+If you come to 55thparallel.uk from another website, we may receive information from the other website. We do not use this data. You should read the privacy policy of the website you came from to find out more about this.
+
+#### Changes to this policy
+We may change this privacy policy. In that case, the ‘last updated’ date at the bottom of this page will also change. Any changes to this privacy policy will apply to you and your data immediately.
+
+#### Contact us or make a complaint
+Contact 55th Parallel via the details at the bottom of this page if you:  
+- have a question about anything in this privacy notice
+- think that your personal data has been misused or mishandled
+
+**Last updated:** 2 April 2019
