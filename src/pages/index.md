@@ -27,7 +27,7 @@ sections:
       implementing an architecture to accelerate move to the cloud, revising the
       sourcing strategy
     features:
-      - title: What we do
+      - title: Making digital change happen
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
