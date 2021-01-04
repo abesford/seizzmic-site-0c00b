@@ -103,7 +103,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-  - section_id: lorem-ipsum
+  - section_id: partnerships
     title: Partnerships
     content: >-
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
