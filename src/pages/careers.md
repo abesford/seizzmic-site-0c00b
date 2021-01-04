@@ -1,9 +1,8 @@
 ---
 title: Join us
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  As we continue to grow we are always on the look out for the right people to
+  join the team.
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
