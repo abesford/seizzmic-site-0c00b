@@ -23,7 +23,7 @@ If you are interested in joining please get in touch xxxx
 
 #### What we're looking for
 
-- were still new so at this stage need experienced people. consultancy experience is highly desirable
+- were still new so at this stage need experienced people. consultancy experience is highly desirable. willingness to pitch in.
 
 - someone who 'gets' and is passionate about digital transformation, organisational change, and/or digital government, public service delivery
 
