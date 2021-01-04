@@ -44,7 +44,7 @@ sections:
     subtitle: lorem-ipsum
     actions:
       - label: Join us
-        url: lorem-ipsum
+        url: /
         style: link
         has_icon: false
         icon: arrow-left
