@@ -60,6 +60,8 @@ sections:
         content: |-
           We have an opinion
 
+          experience in doing this
+
           Not here to sell blockchain blah
         actions:
           - label: Learn More
