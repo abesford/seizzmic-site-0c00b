@@ -69,7 +69,7 @@ sections:
     pricing_plans:
       - title: Office
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: Office
         details: >-
           ## Lorem ipsum
 
