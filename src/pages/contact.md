@@ -43,7 +43,7 @@ sections:
     title: Work together
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Join us
         url: lorem-ipsum
         style: link
         has_icon: false
