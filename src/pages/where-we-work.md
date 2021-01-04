@@ -99,14 +99,5 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-  - section_id: partnerships
-    title: Partnerships
-    content: >-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
 template: landing
 ---
