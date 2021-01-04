@@ -49,7 +49,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         actions:
-          - label: Learn More
+          - label: Where we work
             url: /features
             style: secondary
             has_icon: true
