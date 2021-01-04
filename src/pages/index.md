@@ -27,7 +27,7 @@ sections:
       implementing an architecture to accelerate move to the cloud, revising the
       sourcing strategy
     features:
-      - title: The Best Feature of Your Services
+      - title: What we do
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
