@@ -40,7 +40,7 @@ sections:
         is_required: true
     submit_label: Send Message
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Work together
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
