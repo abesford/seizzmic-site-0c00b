@@ -45,8 +45,6 @@ sections:
           Gosforth  
           Newcastle upon Tyne  
           NE3 3UB  
-
-          **seizzmic** is a trading name of 55th Parallel Ltd.  
         highlight: false
         actions: []
         type: pricing_plan
