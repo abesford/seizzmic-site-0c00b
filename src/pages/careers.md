@@ -1,8 +1,6 @@
 ---
 title: Join us
-subtitle: >-
-  As we continue to grow we are always on the look out for the right people to
-  join the team.
+subtitle: we are always on the look out for the right people to join the team.
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
