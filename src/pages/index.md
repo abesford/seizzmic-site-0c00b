@@ -44,7 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Working with all kinds of organisation
+      - title: Solving the challenges to working better / more digitally
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: |-
