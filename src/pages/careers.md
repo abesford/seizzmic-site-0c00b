@@ -16,6 +16,28 @@ new company with a start-up mindset as well as the credentials of operating at s
 
 If you are interested in joining please get in touch xxxx
 
+#### we're flexible but we want someone who can
+
+Deliver and help lead client engagements, developing strong, trusting relationships through working with senior client teams
+
+#### What we're looking for
+
+- were still new so at this stage need experienced people. consultancy experience is highly desirable
+
+- someone who 'gets' and is passionate about digital transformation, organisational change, and/or digital government, public service delivery
+
+- Experience of working with both decision makers and delivery teams within a large, complex organisation. This might have been in a multinational corporation or the public sector
+
+-  Our credibiliity is paramount so we need people who have 'been there and done that'. E.g. helped to drive digital transformation and/or technology delivery and/or organisation change. Experience working in a digital delivery team - could be as a product owner, delivery manager, user researcher or service designer.
+
+#### What's in it for you?
+
+- chance to be entrepreneurial and develop the business from an early stage
+- flexible working and flexible hours
+- opportunity to build your expertise and profile
+- shape the develpoment of seizzmic to take it to the next level
+- space to focus on giving something back to develop the local tech community
+
 ## Partnerships
 
 our work always relies on complementary skills to get the job done for clients
