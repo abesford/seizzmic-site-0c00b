@@ -6,7 +6,9 @@ sections:
     background: gray
     title: Contact
     content: |
-      coversation and collaboration
+      **Begin today** - start with conversation
+
+      and collaboration
 
       Talk with us about how we can work together
     form_id: contactForm
