@@ -88,7 +88,7 @@ sections:
         actions:
           - label: Seizzmic for third sector
             url: lorem-ipsum
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
