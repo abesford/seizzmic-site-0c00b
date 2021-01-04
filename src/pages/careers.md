@@ -14,5 +14,9 @@ If you are interested in joining please get in touch xxxx
 
 ## Partnerships
 
+our work always relies on complementary skills to get the job done for clients
+
 complementary skills
-on the look-out for partners
+
+on the look-out for partners who share our values
+
