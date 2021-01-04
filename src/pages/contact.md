@@ -39,7 +39,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-  - section_id: lorem-ipsum
+  - section_id: work-togther
     title: Work together
     subtitle: lorem-ipsum
     actions: []
