@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: We are all going through a period of profound change
+    title: We are living through a period of profound change
     content: >-
       In 2021, more than ever, organisations need to change the way they work to
       survive and thrive.
