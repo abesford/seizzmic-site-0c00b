@@ -11,6 +11,7 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 author: src/data/authors/person-8gt2bfyjn.json
+image: images/9.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 
