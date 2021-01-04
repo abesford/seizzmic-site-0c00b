@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: We are living through a period of profound change
     content: >-
-      In 2021, more than ever, organisations need to change the way they work to
+      In 2021, more than ever, organisations need to become more digital to
       survive and thrive.
 
 
