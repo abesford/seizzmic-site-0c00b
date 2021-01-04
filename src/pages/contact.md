@@ -3,7 +3,7 @@ title: Contact
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Let's begin today. Conversation and collaboration.
     background: gray
     pricing_plans:
       - title: ''
