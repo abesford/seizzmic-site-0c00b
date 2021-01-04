@@ -22,7 +22,9 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: BUilding new skills and capabilities
+    subtitle: >-
+      BUilding new skills and capabilities, implementing an architecture to
+      accelerate move to the cloud, revising the sourcing strategy
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
