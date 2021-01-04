@@ -8,7 +8,7 @@ sections:
     pricing_plans:
       - title: ''
         subtitle: ''
-        price: Contact
+        price: ''
         details: >-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
