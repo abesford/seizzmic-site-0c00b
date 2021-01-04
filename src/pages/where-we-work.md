@@ -22,7 +22,7 @@ sections:
           * Pellentesque sit amet
           * Fusce tempus mi vitae luctus
           * Nullam sollicitudin ante
-        highlight: false
+        highlight: true
         actions:
           - label: seizzmic for enterprises
             url: /sectors/enterprise
