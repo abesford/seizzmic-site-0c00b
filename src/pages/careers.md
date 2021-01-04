@@ -11,3 +11,8 @@ no_index: false
 template: page
 ---
 If you are interested in joining please get in touch xxxx
+
+## Partnerships
+
+complementary skills
+on the look-out for partners
