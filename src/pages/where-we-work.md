@@ -104,7 +104,7 @@ sections:
             type: action
         type: pricing_plan
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Partnerships
     content: >-
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
