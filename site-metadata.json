@@ -21,16 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "Join us",
-                "url": "/careers",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Thinking",
                 "url": "/blog",
                 "style": "link",
@@ -40,6 +30,16 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Join us",
+                "url": "/careers",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
             }
         ]
     },
