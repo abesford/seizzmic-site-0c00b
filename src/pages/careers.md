@@ -8,6 +8,8 @@ canonical_url: lorem-ipsum
 no_index: false
 template: page
 ---
+As we continue to grow 
+
 new company with a start-up mindset as well as the credentials of operating at scale
 
 If you are interested in joining please get in touch xxxx
