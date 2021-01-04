@@ -45,7 +45,7 @@ sections:
     actions:
       - label: Join us
         url: /careers
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
