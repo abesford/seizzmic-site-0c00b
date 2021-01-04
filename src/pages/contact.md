@@ -103,7 +103,7 @@ sections:
         type: pricing_plan
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: Work with u
         details: >-
           ## Lorem ipsum
 
