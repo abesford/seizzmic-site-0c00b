@@ -2,7 +2,7 @@
 title: Where we work
 meta_title: seizzmic | Where we work
 meta_description: ''
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 sections:
   - section_id: pricing
