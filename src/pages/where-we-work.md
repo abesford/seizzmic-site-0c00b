@@ -24,7 +24,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: false
         actions:
-          - label: Seizzmic for enterprise
+          - label: seizzmic for enterprise
             url: /sectors/enterprise
             style: secondary
       - title: Public services and health
