@@ -27,7 +27,7 @@
             },
             {
                 "label": "Contact",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "link"
             }
         ]
