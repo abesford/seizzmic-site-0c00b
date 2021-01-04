@@ -57,9 +57,6 @@ sections:
         subtitle: 'turnover, £25m-£500m per year or around 250 employees'
         price: ''
         details: >-
-          #Lorem ipsum
-
-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
