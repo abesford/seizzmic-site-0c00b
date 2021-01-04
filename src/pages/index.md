@@ -21,7 +21,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: We help you get your organisation internet-ready
+    title: We help you get your organisation more internet-ready
     subtitle: >-
       BUilding new skills and capabilities, implementing an architecture to
       accelerate move to the cloud, revising the sourcing strategy
