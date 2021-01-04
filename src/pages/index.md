@@ -16,7 +16,7 @@ sections:
       secure.
     actions:
       - label: Learn More
-        url: /features
+        url: /what we do
         style: primary
   - section_id: features
     type: section_features
