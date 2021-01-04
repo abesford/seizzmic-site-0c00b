@@ -44,7 +44,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - title: Office
+      - title: ''
         subtitle: ''
         price: Office
         details: >-
