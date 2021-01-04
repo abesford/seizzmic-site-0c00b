@@ -1,5 +1,5 @@
 ---
-title: Where we rok
+title: Where we work
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
