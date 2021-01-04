@@ -46,7 +46,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: Company
-        price: Office
+        price: Company
         details: >-
           ## Lorem ipsum
 
