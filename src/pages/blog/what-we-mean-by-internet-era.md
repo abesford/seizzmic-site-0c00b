@@ -1,6 +1,6 @@
 ---
 title: What we mean by Internet-era
-subtitle: lorem-ipsum
+subtitle: The internet era is blah blah
 date: '2021-01-04'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
