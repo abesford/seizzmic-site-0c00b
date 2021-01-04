@@ -44,7 +44,7 @@ sections:
     subtitle: lorem-ipsum
     actions:
       - label: Join us
-        url: /
+        url: /careers
         style: link
         has_icon: false
         icon: arrow-left
