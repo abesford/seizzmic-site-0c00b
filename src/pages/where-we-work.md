@@ -79,7 +79,7 @@ sections:
         type: pricing_plan
       - title: Voluntary and community
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: |-
           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
