@@ -19,7 +19,7 @@ If you are interested in joining please get in touch xxxx
 #### we're flexible but we want someone who can
 
 - Deliver and help lead client engagements, developing strong, trusting relationships through working with senior client teams. [Read more about where we work](/where-we-work).
-- develop new business [Read more about what we ](/what-we-do).
+- develop new business [Read more about what we do](/what-we-do).
 
 #### What we're looking for
 
