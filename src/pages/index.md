@@ -117,7 +117,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Let's talk
-        url: /contact
+        url: /careers
         style: primary
   - section_id: recent-posts
     type: section_posts
