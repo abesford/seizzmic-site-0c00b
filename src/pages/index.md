@@ -91,7 +91,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: What some people have said about working with us
+    subtitle: What our clients have said about working with us
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
