@@ -113,7 +113,7 @@ sections:
     type: section_cta
     title: Curious?
     subtitle: >-
-      We're on the look out for great people to join our team, and partners to
+      We're looking for great people to join our team, and partners to
       collaborate with
     actions:
       - label: Work together
