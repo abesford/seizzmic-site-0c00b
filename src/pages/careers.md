@@ -42,8 +42,6 @@ If you are interested in joining please get in touch [info@seizzmic.com](mailto:
 
 our work always relies on complementary skills to get the job done for clients
 
-complementary skills
-
 on the look-out for partners who share our values
 
 examples of who we work with:
