@@ -84,7 +84,7 @@ sections:
           when should you automate and when should you replace
         actions:
           - label: Learn More
-            url: /features
+            url: /blog
             style: secondary
             has_icon: true
             icon: arrow-right
