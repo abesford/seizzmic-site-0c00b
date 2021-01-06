@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: Startups and scale-ups
 date: '2021-01-06'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
