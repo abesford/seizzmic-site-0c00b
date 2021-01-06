@@ -115,7 +115,7 @@ sections:
     type: section_cta
     title: Curious?
     subtitle: >-
-      We're always on the look out for people  to collaborate with, or join our
+      We're always on the look out for people to collaborate with, or join our
       team
     actions:
       - label: Join us
