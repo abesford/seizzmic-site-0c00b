@@ -21,9 +21,9 @@ sections:
       [our goal is to] get your organisation working in more modern and
       internet-ready
     subtitle: >-
-      we are experts. we'll help you BUilding new skills and capabilities,
-      implementing an architecture to accelerate move to the cloud, revising the
-      sourcing strategy
+      we are experts, understand your challenges. we'll help you BUilding new
+      skills and capabilities, implementing an architecture to accelerate move
+      to the cloud, revising the sourcing strategy
     features:
       - title: Making digital change happen
         image: images/feature1.png
