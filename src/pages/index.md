@@ -118,7 +118,7 @@ sections:
       We're on the look out for great people to collaborate with, or join our
       team
     actions:
-      - label: Find out more
+      - label: Work together
         url: /careers
         style: primary
   - section_id: recent-posts
