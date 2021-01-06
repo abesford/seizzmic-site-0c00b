@@ -115,8 +115,8 @@ sections:
     type: section_cta
     title: Curious?
     subtitle: >-
-      We're always on the look out for great people to collaborate with, or join
-      our team
+      We're on the look out for great people to collaborate with, or join our
+      team
     actions:
       - label: Find out more
         url: /careers
