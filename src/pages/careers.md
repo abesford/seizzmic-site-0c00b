@@ -35,6 +35,7 @@ If you are interested in joining please get in touch [info@seizzmic.com](mailto:
 
 - The chance to be entrepreneurial and shape the development of the business from an early stage
 - Flexible working and flexible hours, either on payroll or subcontracting as an associate
+- Home and remote working possible (obviously) with work on client sites as appropriate
 - Opportunity to build your expertise and profile
 - Space to focus on giving something back to develop the local tech community
 
