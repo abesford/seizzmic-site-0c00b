@@ -66,7 +66,7 @@ sections:
           accelerate move to the cloud, revising the sourcing strategy
         actions:
           - label: Learn more
-            url: /features
+            url: /where-we-work
             style: secondary
             has_icon: true
             icon: arrow-right
