@@ -17,9 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: >-
-      [our goal is to] get your organisation working in more modern and
-      internet-ready
+    title: "[our goal is to radically improve the way your organisation works] get you\_ working in more modern and internet-ready - in a way your customers really notice"
     subtitle: >-
       we are experts, understand your challenges. we'll help you - support
       digital transformation, help you plot out your organisation's digital
