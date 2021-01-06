@@ -65,7 +65,7 @@ sections:
           BUilding new skills and capabilities, implementing an architecture to
           accelerate move to the cloud, revising the sourcing strategy
         actions:
-          - label: Learn more
+          - label: Where we work
             url: /where-we-work
             style: secondary
             has_icon: true
