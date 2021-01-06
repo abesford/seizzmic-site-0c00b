@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The challenge of selling to enterprise and public sector
 subtitle: Startups and scale-ups
 date: '2021-01-06'
 excerpt: lorem-ipsum
