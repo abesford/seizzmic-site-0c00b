@@ -98,7 +98,7 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
     reviews:
-      - author: Chief Executive
+      - author: FTSE250 Chief Executive
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
