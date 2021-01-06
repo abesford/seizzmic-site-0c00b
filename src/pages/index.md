@@ -45,9 +45,12 @@ sections:
           Internet-era](/blog/what-we-mean-by-internet-era/)
 
 
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Building a digital business from scratch is easier than ever. But any
+          organisation that does has been around for a few years operating
+          complexity will have built up a range of twchnologies and processes
+          which can hold you back. we help unravel this and enable you to become
+          more digital - both inside your organisation and outside. [what we
+          mean by ](https://)
         actions:
           - label: Learn more
             url: /features
