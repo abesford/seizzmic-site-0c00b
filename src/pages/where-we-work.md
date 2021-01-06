@@ -28,7 +28,7 @@ sections:
           - label: seizzmic for enterprises
             url: /sectors/enterprise
             style: secondary
-      - title: Public services and health
+      - title: Public services
         subtitle: For very large businesses
         price: ''
         details: |-
