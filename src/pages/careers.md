@@ -48,6 +48,7 @@ examples of who we work with:
 - architecture
 - digital delivery teams
 - development
+- automation
 - illustrators
 - SMEs with innovative products
 
