@@ -43,7 +43,7 @@ sections:
           ](https://)
         actions:
           - label: Learn more
-            url: /features
+            url: /what-we-
             style: secondary
             has_icon: true
             icon: arrow-right
