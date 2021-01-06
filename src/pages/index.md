@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/1.jpg
+    image: images/feature1.png
     image_alt: App preview
     title: We are living through a period of profound change
     content: >-
