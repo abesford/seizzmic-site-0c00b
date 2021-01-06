@@ -33,10 +33,16 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          What we do
+          The challenges of the Covid pandemic forced a move online,
+          accelerating trends that had been emerging for many years. 
 
 
-          [Internet-era](/blog/what-we-mean-by-internet-era/)
+          Now, more than ever, there is no question that the organisations to
+          survive and thrive will be the ones that have adapted to the Internet
+          era.
+
+          [Rwad what we mean by
+          Internet-era](/blog/what-we-mean-by-internet-era/)
 
 
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
