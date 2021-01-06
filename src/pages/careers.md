@@ -51,4 +51,4 @@ examples of who we work with:
 - illustrators
 - SMEs with innovative products
 
-Get in touch via [info@seizzmic.com](mailto:info@seizzmic.com) to have a chat about this.
+Get in touch via [info@seizzmic.com](mailto:info@seizzmic.com) to have a chat about possible partnerships.
