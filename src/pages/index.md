@@ -24,7 +24,6 @@ sections:
       journey, and help you get there
     features:
       - title: Making digital change happen
-        image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
           The challenges of the Covid-19 pandemic accelerated trends that had
