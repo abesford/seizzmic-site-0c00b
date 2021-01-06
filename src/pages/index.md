@@ -93,7 +93,7 @@ sections:
     title: Testimonials
     subtitle: What some people have said about working with us
     reviews:
-      - author: FTSE250 Chief Executive
+      - author: Chief Executive
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
