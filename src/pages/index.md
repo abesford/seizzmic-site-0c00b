@@ -86,7 +86,7 @@ sections:
           - label: Our thinking
             url: /blog
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
   - section_id: reviews
