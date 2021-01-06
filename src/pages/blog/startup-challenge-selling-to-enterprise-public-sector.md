@@ -1,6 +1,8 @@
 ---
 title: The challenge of selling to enterprise and public sector
-subtitle: Startups and scale-ups
+subtitle: >-
+  there is a win-win if you get it right - Startups and scale-ups vs enterprises
+  wanting to innovate
 date: '2021-01-06'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
