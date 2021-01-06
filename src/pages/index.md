@@ -51,12 +51,18 @@ sections:
       - title: Solving the challenges to working better / more digitally
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: |-
+        content: >-
           Working with all kinds of ambitious organisation
+
 
           bring people together - build collective energy around vision
 
+
           small / medium / large etc. help them plot a course
+
+
+          BUilding new skills and capabilities, implementing an architecture to
+          accelerate move to the cloud, revising the sourcing strategy
         actions:
           - label: Learn more
             url: /features
