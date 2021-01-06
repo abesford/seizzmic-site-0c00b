@@ -46,10 +46,12 @@ complementary skills
 
 on the look-out for partners who share our values
 
-examples:
+examples of who we work with:
 - data
 - architechture
+- digital delivery teams
 - development
 - illustrators
+- SMEs with innovative products
 
 Get in touch via [info@seizzmic.com](mailto:info@seizzmic.com) to have a chat about this.
