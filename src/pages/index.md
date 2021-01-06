@@ -14,10 +14,7 @@ sections:
       We help you make it happen - by making better use of data, using
       internet-era technology, and modernising technology - all while staying
       secure.
-    actions:
-      - label: Learn More
-        url: /what we do
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
