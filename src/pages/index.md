@@ -83,7 +83,7 @@ sections:
 
           when should you automate and when should you replace
         actions:
-          - label: Learn More
+          - label: Our thinking
             url: /blog
             style: secondary
             has_icon: true
