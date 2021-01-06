@@ -20,7 +20,10 @@ sections:
     title: >-
       [our goal is to] get your organisation working in more modern and
       internet-ready
-    subtitle: 'we are experts, understand your challenges. we''ll help you '
+    subtitle: >-
+      we are experts, understand your challenges. we'll help you - support
+      digital transformation, help you plot out your organisation's digital
+      journey, and help you get there
     features:
       - title: Making digital change happen
         image: images/feature1.png
