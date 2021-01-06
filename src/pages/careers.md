@@ -2,7 +2,7 @@
 title: Join us
 subtitle: >-
   We're always on the look out for people with a brilliant blend of change,
-  technical and commercial skills to collaborate with or join our team
+  technical and commercial skills - to collaborate with, or join our team
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
