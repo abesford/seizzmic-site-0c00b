@@ -45,7 +45,7 @@ on the look-out for partners who share our values
 
 examples of who we work with:
 - data
-- architechture
+- architecture
 - digital delivery teams
 - development
 - illustrators
