@@ -10,34 +10,35 @@ canonical_url: lorem-ipsum
 no_index: false
 template: page
 ---
-new company with a start-up mindset as well as the credentials of operating at scale
+We're creating a diverse bunch of people with a blend of skills.  
 
-If you are interested in joining please get in touch xxxx for an initial conversation.
+As a new company we've got a start-up mindset as well as the credentials of operating internationally and at scale.  
 
-#### we're flexible but we want someone who can
+If you are interested in joining please get in touch [info@seizzmic.com](mailto:info@seizzmic.com) for an informal conversation.
 
-- Deliver and help lead client engagements, developing strong, trusting relationships through working with senior client teams. [Read more about where we work](/where-we-work).
-- develop new business [Read more about what we do](/what-we-do).
+#### You'll have
 
-#### What we're looking for
+- Experience delivering and helping to lead client engagements, working with senior client teams and developing strong, trusting relationships. [Read more about where we work](/where-we-work).
+- Credibility to develop new business [Read more about what we do](/what-we-do).
 
-- were still new so at this stage need experienced people. consultancy experience is highly desirable. willingness to pitch in.
+#### We're looking for
 
-- someone who 'gets' and is passionate about digital transformation, organisational change, and/or digital government, public service delivery
+- Consultancy experience and a willingness to pitch in. We're still new and our credibilty is paramount, so at this stage we need experienced people.
 
-- Experience of working with both decision makers and delivery teams within a large, complex organisation. This might have been in a multinational corporation or the public sector
+- Someone who 'gets' and is passionate about digital transformation, organisational change, and/or digital government and public service delivery
 
--  Our credibiliity is paramount so we need people who have 'been there and done that'. E.g. helped to drive digital transformation and/or technology delivery and/or organisation change. Experience working in a digital delivery team - could be as a product owner, delivery manager, user researcher or service designer.
+- Experience of working with decision makers and delivery teams within a large, complex organisation. This might have been in a multinational corporation or the public sector.
+
+-  People who have 'been there and done that', leading digital transformation, technology delivery or organisation change. Your background may be in digital delivery as a product owner, delivery manager, user researcher or service designer.
 
 #### What's in it for you?
 
-- chance to be entrepreneurial and develop the business from an early stage
-- flexible working and flexible hours
-- opportunity to build your expertise and profile
-- shape the develpoment of seizzmic to take it to the next level
-- space to focus on giving something back to develop the local tech community
+- The chance to be entrepreneurial and shape the development of the business from an early stage
+- Flexible working and flexible hours, either on payroll or subcontracting as an associate
+- Opportunity to build your expertise and profile
+- Space to focus on giving something back to develop the local tech community
 
-## Partnerships
+# Partnerships
 
 our work always relies on complementary skills to get the job done for clients
 
@@ -45,4 +46,10 @@ complementary skills
 
 on the look-out for partners who share our values
 
-[Get in touch](https://)
+examples:
+- data
+- architechture
+- development
+- illustrators
+
+Get in touch via [info@seizzmic.com](mailto:info@seizzmic.com) to have a chat about this.
