@@ -12,7 +12,7 @@ template: page
 ---
 We're creating a diverse bunch of people with a strong blend of skills. As a new company we've got a start-up mindset as well as the credentials of operating internationally and at scale.  
 
-If you are interested in joining please get in touch [info@seizzmic.com](mailto:info@seizzmic.com) for an informal conversation.
+If you are interested in working together please get in touch [info@seizzmic.com](mailto:info@seizzmic.com) for an informal conversation.
 
 #### You'll have
 
