@@ -42,7 +42,7 @@ sections:
           digital - both inside your organisation and outside. [what we mean by
           ](https://)
         actions:
-          - label: Learn more
+          - label: What we do
             url: /what-we-do
             style: secondary
             has_icon: true
