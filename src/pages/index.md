@@ -114,7 +114,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Curious?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      We're always on the look out for people with a brilliant blend of change,
+      technical and commercial skills - to collaborate with, or join our team
     actions:
       - label: Join us
         url: /careers
