@@ -80,6 +80,8 @@ sections:
           experience in doing this
 
           Not here to sell blockchain blah
+
+          when should you automate and when should you replace
         actions:
           - label: Learn More
             url: /features
