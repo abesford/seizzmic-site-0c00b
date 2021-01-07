@@ -5,12 +5,12 @@ sections:
     type: section_hero
     image_alt: App preview
     title: We are in a period of profound change
-    content: >
+    content: >-
       In 2021, more than ever, organisations need to become more digital to
       survive and thrive.
 
 
-      Being digital is about much more than your website. It's the way to
+      Being digital is about much more than your website. It is the way to
       radically improve how your organisation works, as well as how you interact
       with your customers and suppliers.
     actions: []
