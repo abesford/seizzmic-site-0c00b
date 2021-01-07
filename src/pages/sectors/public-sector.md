@@ -55,7 +55,7 @@ sections:
       **Find us on the Digital Marketplace**  
       Our services are available on the G-Cloud 11 and DOS 5 frameworks
     image_alt: Crown Commercial Service Supplier
-    background: gray
+    background: white
     actions:
       - label: Supplier details
         url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
