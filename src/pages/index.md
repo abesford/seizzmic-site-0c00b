@@ -19,8 +19,9 @@ sections:
     type: section_features
     background: gray
     title: >-
-      Being digital is far more than your website. It's the way your
-      organisation works and how you interact with customers
+      We help you make it happen - by making better use of data, using
+      internet-era technology, and modernising technology - all while staying
+      secure.
     subtitle: "[our goal is to radically improve the way your organisation works] get you\_ working in more modern and internet-ready - in a way your customers really notice -- we are experts, understand your challenges. we'll help you - support digital transformation, help you plot out your organisation's digital journey, and help you get there"
     features:
       - title: Making digital change happen
