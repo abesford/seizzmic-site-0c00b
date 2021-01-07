@@ -43,7 +43,7 @@ sections:
           will have built up a range of twchnologies and processes which can
           hold you back. we help unravel this and enable you to become more
           digital - both inside your organisation and outside. [Read what we
-          mean by inside and out](/blog/digital-inside-and-out).
+          mean by inside and out](/blog/digital-inside-and-outside).
         actions:
           - label: What we do
             url: /what-we-do
