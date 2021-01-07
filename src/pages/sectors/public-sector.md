@@ -49,5 +49,10 @@ sections:
         type: feature_item
         image: images/3.jpg
     type: section_features
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 template: landing
 ---
