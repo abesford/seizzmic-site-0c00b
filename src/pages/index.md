@@ -33,17 +33,17 @@ sections:
           been emerging for many years. 
 
 
-          Now, more than ever, it's clear that the organisations to survive and
-          thrive will be the ones that have adapted to the Internet-era. [Read
-          what we mean by Internet-era](/blog/what-we-mean-by-internet-era/).
+          The organisations to survive and thrive will be the ones that have
+          adapted to the Internet-era. [Read what we mean by
+          Internet-era](/blog/what-we-mean-by-internet-era/).
 
 
           Building a digital business from scratch is easier than ever. But any
           organisation that has been around for a few years operating complexity
           will have built up a range of twchnologies and processes which can
           hold you back. we help unravel this and enable you to become more
-          digital - both inside your organisation and outside. [what we mean by
-          ](https://)
+          digital - both inside your organisation and outside. [Read what we
+          mean by inside and out](/blog/digital-inside-and-out).
         actions:
           - label: What we do
             url: /what-we-do
