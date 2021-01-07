@@ -111,17 +111,16 @@ sections:
     type: section_reviews
     background: white
     title: Working with us
-    subtitle: What clients might say about working with us.
+    subtitle: What different roles might say about working with us.
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
-        content: "My exec team all got behind the strategy, which was stretching but within our reach.\_ We're much more digital now and it's helped us survive the pandemic. I couldn't imagine going back."
+        content: "My exec team all got behind the strategy, which was stretching but within our reach.\_ We're much more digital now. It's helped us look after our customers during the pandemic, and we now feel well positioned for growth. I couldn't imagine going back."
       - author: IT Director
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          I've really been able to shift the perception of my CEO and the board.
+          Technology had just been a cost to them before. Now
       - author: Transformation Director
         avatar: images/review3.jpg
         content: >-
