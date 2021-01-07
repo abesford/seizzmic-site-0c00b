@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image_alt: Onilne meeting
+    image_alt: Online meeting
     title: We are in a period of profound change
     content: >-
       In 2021, more than ever, organisations need to become more digital to
