@@ -57,7 +57,7 @@ sections:
     image_alt: Crown Commercial Service Supplier
     background: white
     actions:
-      - label: Supplier details
+      - label: Service details
         url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
         style: secondary
         has_icon: false
