@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image_alt: App preview
     title: We are in a period of profound change
-    content: >-
+    content: >
       In 2021, more than ever, organisations need to become more digital to
       survive and thrive.
 
@@ -13,6 +13,10 @@ sections:
       We help you make it happen - by making better use of data, using
       internet-era technology, and modernising technology - all while staying
       secure.
+
+
+      ## Being digital is far more than your website. It's the way your
+      organisation works and how you interact with customers
     actions: []
   - section_id: features
     type: section_features
