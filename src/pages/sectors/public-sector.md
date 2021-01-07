@@ -69,7 +69,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: Supplier details
         url: lorem-ipsum
         style: link
         has_icon: false
