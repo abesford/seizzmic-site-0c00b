@@ -71,7 +71,7 @@ sections:
     actions:
       - label: Supplier details
         url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: left
