@@ -56,25 +56,19 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          We understand your challenges
+          We collaborate with all kinds of ambitious organisations.  
 
 
-          Working with all kinds of ambitious organisation
+          We have a deep understanding of the technology, but it's the people
+          who make the change happen.  We can understand your challenges and
+          bring your teams together - to build collective energy around a
+          digital vision.  
 
 
-          bring people together - build collective energy around vision. We
-          understand the technology but it's the people who make the change
-          happen
-
-
-          small / medium / large etc. help them plot a course
-
-
-          Make you stronger to deal with today's challenges 
-
-
-          BUilding new skills and capabilities, implementing an architecture to
-          accelerate move to the cloud, revising the sourcing strategy
+          We'll help you plot a course and make your organisation stronger to
+          deal with today's challenges. That could include building new skills
+          and capabilities, implementing an architecture to accelerate your move
+          to the cloud, or revising your sourcing strategy.
         actions:
           - label: Where we work
             url: /where-we-work
