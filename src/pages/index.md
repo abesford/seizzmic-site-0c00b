@@ -85,7 +85,7 @@ sections:
       - title: Having a vision
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
+        content: >
           We have an opinion
 
 
@@ -96,11 +96,13 @@ sections:
           solution.
 
 
+          should you automate and when should you replace systems
+
+          should you be investing in your data warehouse
+
+
           Applying the culture, processes, business models & technologies of the
           internet era
-
-
-          when should you automate and when should you replace
         actions:
           - label: Our thinking
             url: /blog
