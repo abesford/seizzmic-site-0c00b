@@ -51,20 +51,6 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: Find us on the Digital Marketplace
-    subtitle: We're on G-Cloud 11 and DOS 5
-    actions:
-      - label: G-Cloud supplier details
-        url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: true
-        no_follow: false
-        type: action
-    type: section_cta
-  - section_id: lorem-ipsum
-    title: Find us on the Digital Marketplace
     content: We're on G-Cloud 11 and DOS 5 frameworks
     image_alt: lorem-ipsum
     background: gray
