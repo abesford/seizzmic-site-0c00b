@@ -51,7 +51,9 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: ''
-    content: Our services are available on the G-Cloud 11 and DOS 5 frameworks
+    content: |-
+      **Find us on the Digital Marketplace**  
+      Our services are available on the G-Cloud 11 and DOS 5 frameworks
     image_alt: lorem-ipsum
     background: gray
     actions:
