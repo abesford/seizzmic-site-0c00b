@@ -16,7 +16,7 @@ sections:
     type: section_hero
     image: images/centralgov.jpg
   - section_id: services
-    title: services for public sector
+    title: services for health and care
     subtitle: we have a range of services
     background: gray
     features:
