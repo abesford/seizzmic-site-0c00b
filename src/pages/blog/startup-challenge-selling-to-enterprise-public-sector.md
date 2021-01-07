@@ -2,7 +2,7 @@
 title: The challenge of selling to enterprise and public sector
 subtitle: >-
   there is a win-win if you get it right - Startups and scale-ups vs enterprises
-  wanting to innovate
+  wanting to innovate - how do you get inside the corporate HQ?
 date: '2021-01-06'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
