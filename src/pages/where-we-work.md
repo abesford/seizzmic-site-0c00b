@@ -80,25 +80,5 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Voluntary and community
-        subtitle: VCSE sector
-        price: ''
-        details: |-
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-          - dolor sit amet
-        highlight: false
-        actions:
-          - label: seizzmic for third sector
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
 template: landing
 ---
