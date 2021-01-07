@@ -22,7 +22,7 @@ sections:
     subtitle: >-
       Our goal is to get you working in more modern and internet-ready way -
       that your colleagues and customers will really notice. We're experts in
-      modernising your technology estate, making better use of data, and staying
+      modernising technology estates, making better use of data, and staying
       cyber-secure. We'll help you plot out your digital journey, and help you
       get there.
     features:
