@@ -70,7 +70,7 @@ sections:
     background: gray
     actions:
       - label: Supplier details
-        url: lorem-ipsum
+        url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
         style: link
         has_icon: false
         icon: arrow-left
