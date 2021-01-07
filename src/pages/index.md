@@ -39,11 +39,11 @@ sections:
 
 
           Building a digital business from scratch is easier than ever. But any
-          organisation that has been around for a few years operating complexity
-          will have built up a range of twchnologies and processes which can
-          hold you back. we help unravel this and enable you to become more
-          digital - both inside your organisation and outside. [Read what we
-          mean by inside and out](/blog/digital-inside-and-outside).
+          organisation that's been around for a while, doing anything
+          complicated, will have built up an array of technologies and processes
+          which can hold you back. We help unravel this and enable you to become
+          more digital [on the inside as well as the
+          outside](/blog/digital-inside-and-outside).
         actions:
           - label: What we do
             url: /what-we-do
