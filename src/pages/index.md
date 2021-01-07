@@ -111,9 +111,8 @@ sections:
       - author: Chief Executive
         avatar: images/review1.jpg
         content: >-
-          Business outcomes. Vestibulum a nunc ut eros condimentum posuere.
-          Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula,
-          gravida ac commodo eu.
+          Business outcomes. Leadership more digital. Helped us survive the
+          pandemic. I couldn't imagine going back.
       - author: Health CIO
         avatar: images/review2.jpg
         content: >-
