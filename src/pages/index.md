@@ -38,8 +38,8 @@ sections:
           Internet-era](/blog/what-we-mean-by-internet-era/).
 
 
-          Building a digital business from scratch is easier than ever. But any
-          organisation that's been around for a while, doing anything
+          Building a new digital business from scratch is easier than ever. But
+          any organisation that's been around for a while, doing anything
           complicated, will have built up an array of technologies and processes
           which can hold you back. We help unravel this and enable you to become
           more digital [on the inside as well as the
