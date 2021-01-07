@@ -30,7 +30,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/LIMS-technology-to-double-coronavirus-capacity_wrbm_large.jpg
+        image: images/2.jpg
       - title: Business design
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
