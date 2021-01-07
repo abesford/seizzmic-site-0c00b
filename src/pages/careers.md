@@ -1,5 +1,5 @@
 ---
-title: Curious?
+title: Are you curious?
 subtitle: >-
   We're always on the look out for people with a brilliant blend of change,
   technical and commercial skills - to collaborate with, or join our team
