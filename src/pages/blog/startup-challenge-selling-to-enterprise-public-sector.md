@@ -12,6 +12,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: post
+image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
 ---
 You have a brilliant product 
 
