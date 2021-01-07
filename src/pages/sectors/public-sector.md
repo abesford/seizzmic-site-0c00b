@@ -64,7 +64,7 @@ sections:
         type: action
     type: section_cta
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Find us on the Digital Marketplace
     content: ''
     image_alt: lorem-ipsum
     background: gray
