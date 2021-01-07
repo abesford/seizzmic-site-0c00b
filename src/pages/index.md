@@ -116,7 +116,7 @@ sections:
       - author: Chief Executive
         avatar: images/review1.jpg
         content: "My exec team all got behind the strategy, which was stretching but within our reach.\_ We're much more digital now and it's helped us survive the pandemic. I couldn't imagine going back."
-      - author: Health CIO
+      - author: IT Director
         avatar: images/review2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
@@ -126,9 +126,9 @@ sections:
         avatar: images/review3.jpg
         content: >-
           The big breakthrough was getting all the different teams pulling in
-          the same direction towards our vision. It really feels different now.
-          My front-line colleagues love how they can spend more time on the real
-          job helping people.
+          the same direction towards our shared vision. It really feels
+          different here now. My front-line colleagues love how they can spend
+          more time on the real job helping people.
   - section_id: call-to-action
     type: section_cta
     title: Are you curious?
