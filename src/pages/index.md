@@ -10,9 +10,7 @@ sections:
       survive and thrive.
 
 
-
-
-      ## Being digital is far more than your website. It's the way your
+      ### Being digital is far more than your website. It's the way your
       organisation works and how you interact with customers
     actions: []
   - section_id: features
