@@ -55,7 +55,7 @@ sections:
           We can help you enter those markets
         actions:
           - label: seizzmic for health
-            url: /signup
+            url: /sectors/health
             style: secondary
       - title: Mid-sized businesses
         subtitle: 'turnover, £25m-£500m per year or around 250 employees'
