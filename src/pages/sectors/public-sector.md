@@ -58,7 +58,8 @@ sections:
     background: white
     actions:
       - label: Service details
-        url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
+        url: >-
+          https://www.digitalmarketplace.service.gov.uk/g-cloud/services/792657564746209
         style: secondary
         has_icon: false
         icon: arrow-left
