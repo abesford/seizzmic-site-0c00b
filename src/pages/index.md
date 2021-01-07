@@ -75,12 +75,19 @@ sections:
       - title: Having a vision
         image: images/feature3.png
         image_alt: App user profile preview
-        content: |-
+        content: >-
           We have an opinion
+
 
           experience in doing this
 
+
           Not here to sell blockchain blah
+
+
+          Applying the culture, processes, business models & technologies of the
+          internet era
+
 
           when should you automate and when should you replace
         actions:
