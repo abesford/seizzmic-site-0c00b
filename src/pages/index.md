@@ -111,8 +111,9 @@ sections:
       - author: Chief Executive
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Business outcomes. Vestibulum a nunc ut eros condimentum posuere.
+          Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula,
+          gravida ac commodo eu.
       - author: Health CIO
         avatar: images/review2.jpg
         content: >-
@@ -122,11 +123,12 @@ sections:
       - author: Transformation Director
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Multiple stakeholders. Alignment. Integer consectetur purus neque, ac
+          porttitor enim convallis vitae. Interdum et malesuada fames ac ante
+          ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: Curious?
+    title: Are you curious?
     subtitle: >-
       We're looking for great people to join our team, and partners to
       collaborate with
