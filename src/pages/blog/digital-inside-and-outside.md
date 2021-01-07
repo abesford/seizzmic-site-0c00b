@@ -1,5 +1,5 @@
 ---
-title: What we mean by Internet-era
+title: Being digital on the inside and the outside
 subtitle: >-
   The internet era is vero eos et accusamus et iusto odio dignissimos ducimus
   qui blanditiis
