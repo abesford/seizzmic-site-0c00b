@@ -21,11 +21,10 @@ sections:
       you make it happen.
     subtitle: >-
       Our goal is to get you working in more modern and internet-ready way -
-      that your colleagues and customers will really notice. We're experts who
-      can help you - by making better use of data, using internet-era
-      technology, and modernising technology - all while staying secure. - .
-      we'll help you - support digital transformation, help you plot out your
-      digital journey, and help you get there.
+      that your colleagues and customers will really notice. We're experts in
+      modernising your technology estate, making better use of data, and staying
+      cyber-secure. We'll help you plot out your digital journey, and help you
+      get there.
     features:
       - title: Making digital change happen
         image_alt: App preview on a phone and tablet
