@@ -65,7 +65,7 @@ sections:
     type: section_cta
   - section_id: lorem-ipsum
     title: Find us on the Digital Marketplace
-    content: ''
+    content: We're on G-Cloud 11 and DOS 5 frameworks
     image_alt: lorem-ipsum
     background: gray
     actions: []
