@@ -80,5 +80,6 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/CCS-supplier-logo-blue-300dpi.jpg
 template: landing
 ---
