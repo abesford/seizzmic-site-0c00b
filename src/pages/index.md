@@ -70,6 +70,9 @@ sections:
           small / medium / large etc. help them plot a course
 
 
+          Make you stronger to deal with today's challenges 
+
+
           BUilding new skills and capabilities, implementing an architecture to
           accelerate move to the cloud, revising the sourcing strategy
         actions:
