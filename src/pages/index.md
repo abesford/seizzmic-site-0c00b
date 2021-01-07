@@ -9,8 +9,8 @@ sections:
       and thrive
     content: >-
       Being digital is about much more than your website. It is the way to
-      radically improve how your organisation works, as well as how you interact
-      with your customers and suppliers.
+      radically improve how your organisation works, and how you interact with
+      your customers and suppliers.
     actions: []
     image: images/2021.png
   - section_id: features
