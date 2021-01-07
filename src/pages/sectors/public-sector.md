@@ -53,7 +53,7 @@ sections:
     title: Find us on the Digital Marketplace
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: G-Cloud supplier details
         url: lorem-ipsum
         style: link
         has_icon: false
