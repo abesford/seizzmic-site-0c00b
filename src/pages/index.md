@@ -92,7 +92,8 @@ sections:
           experience in doing this
 
 
-          Not here to sell blockchain blah
+          We're independent and we're not here to try to sell you any one
+          solution.
 
 
           Applying the culture, processes, business models & technologies of the
