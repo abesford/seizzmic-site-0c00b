@@ -17,10 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: >-
-      We help you make it happen - by making better use of data, using
-      internet-era technology, and modernising technology - all while staying
-      secure.
+    title: We help you make it happen
     subtitle: "[our goal is to radically improve the way your organisation works] get you\_ working in more modern and internet-ready - in a way your customers really notice -- we are experts, understand your challenges. we'll help you - support digital transformation, help you plot out your organisation's digital journey, and help you get there"
     features:
       - title: Making digital change happen
