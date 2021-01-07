@@ -54,7 +54,7 @@ sections:
     subtitle: lorem-ipsum
     actions:
       - label: G-Cloud supplier details
-        url: lorem-ipsum
+        url: 'https://www.digitalmarketplace.service.gov.uk/g-cloud/supplier/709370'
         style: secondary
         has_icon: false
         icon: arrow-left
