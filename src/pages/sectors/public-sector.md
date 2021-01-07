@@ -50,7 +50,7 @@ sections:
         image: images/3.jpg
     type: section_features
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Find us on the Digital Marketplace
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
