@@ -66,8 +66,8 @@ sections:
 
           We'll help you plot a course and make your organisation stronger to
           deal with today's challenges. That might be building new skills and
-          capabilities, implementing an architecture to accelerate your move to
-          the cloud, or revising your sourcing strategy.
+          capabilities, automation, accelerating your move to the cloud, or
+          revising your sourcing strategy.
         actions:
           - label: Where we work
             url: /where-we-work
