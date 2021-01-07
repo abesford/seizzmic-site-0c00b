@@ -23,7 +23,7 @@ If you're interested in working together please get in touch [info@seizzmic.com]
 
 - Consultancy experience and a willingness to pitch in. We're still new and our credibilty is paramount, so at this stage we need experienced people.
 
-- Someone who 'gets' and is passionate about digital transformation, organisational change, and/or digital government and public service delivery.
+- Someone who 'gets' and is passionate about digital transformation, data, organisational change, and/or digital government and public service delivery.
 
 - Experience of working with decision makers and delivery teams within a large, complex organisation. This might have been in a multinational corporation or the public sector.
 
