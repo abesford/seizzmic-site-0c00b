@@ -20,11 +20,11 @@ sections:
       Leading your organisation through digital change can be difficult. We help
       you make it happen.
     subtitle: >-
-      Our goal is to get you working in more modern and internet-ready way -
-      that your colleagues and customers will really notice. We're experts in
-      business change, modernising complex technology estates, making better use
-      of data, and staying cyber-secure. We'll help you plot out your digital
-      journey, and support you to get there.
+      Our goal is to get you working in more modern way - that your colleagues
+      and customers will really notice. We're experts in business change,
+      modernising complex technology estates, making better use of data, and
+      staying cyber-secure. We'll help you plot out your digital journey, and
+      support you to get there.
     features:
       - title: Making digital change happen
         image_alt: App preview on a phone and tablet
