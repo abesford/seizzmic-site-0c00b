@@ -42,7 +42,7 @@ sections:
             style: secondary
         highlight: false
       - title: Health
-        subtitle: For small businesses
+        subtitle: For health and social care
         price: ''
         details: >-
           You have a brilliant product 
