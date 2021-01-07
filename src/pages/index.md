@@ -105,7 +105,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Working with us
     subtitle: What our clients have said about working with us
     reviews:
       - author: Chief Executive
