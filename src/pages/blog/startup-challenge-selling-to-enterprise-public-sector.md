@@ -14,6 +14,7 @@ no_index: false
 template: post
 image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
 thumb_image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
+author: src/data/authors/person-8gt2bfyjn.json
 ---
 You have a brilliant product 
 
