@@ -41,7 +41,7 @@ sections:
             url: /sectors/public-sector
             style: secondary
         highlight: false
-      - title: Startups and scale-ups
+      - title: Health
         subtitle: For small businesses
         price: ''
         details: >-
