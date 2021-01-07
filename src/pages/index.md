@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: Online meeting
-    title: We are living through a period of profound change
+    title: >-
+      Now, more than ever, organisations need to become more digital to survive
+      and thrive
     content: >-
       In 2021, more than ever, organisations need to become more digital to
       survive and thrive.
