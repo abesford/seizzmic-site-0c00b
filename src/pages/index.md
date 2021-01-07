@@ -120,14 +120,18 @@ sections:
         avatar: images/review2.jpg
         content: >-
           I've really been able to shift the perception of my CEO and the board.
-          Technology had just been a cost to them before. Now
+          Technology had just been a cost to them before. Now we're enabling
+          them to do things they never thought would be possible, and we're
+          moving fast together to do what the business needs. I sleep better now
+          we're more confident we're keeping the business safe from cyber
+          threats.
       - author: Transformation Director
         avatar: images/review3.jpg
         content: >-
           The big breakthrough was getting all the different teams pulling in
           the same direction towards our shared vision. It really feels
           different here now. My front-line colleagues love how they can spend
-          more time on the real job helping people.
+          more time on the real job of helping people.
   - section_id: call-to-action
     type: section_cta
     title: Are you curious?
