@@ -17,7 +17,9 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: "[our goal is to radically improve the way your organisation works] get you\_ working in more modern and internet-ready - in a way your customers really notice"
+    title: >-
+      Being digital is far more than your website. It's the way your
+      organisation works and how you interact with customers
     subtitle: >-
       we are experts, understand your challenges. we'll help you - support
       digital transformation, help you plot out your organisation's digital
