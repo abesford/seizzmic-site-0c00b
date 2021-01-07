@@ -55,7 +55,7 @@ sections:
     actions:
       - label: G-Cloud supplier details
         url: lorem-ipsum
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: left
