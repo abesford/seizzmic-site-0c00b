@@ -5,7 +5,7 @@ subtitle: >-
   technical and commercial skills - to collaborate with, or join our team
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+meta_description: ''
 canonical_url: ''
 no_index: false
 template: page
