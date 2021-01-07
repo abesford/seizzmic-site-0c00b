@@ -51,6 +51,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
+          We understand your challenges
+
+
           Working with all kinds of ambitious organisation
 
 
