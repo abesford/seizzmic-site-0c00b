@@ -49,5 +49,27 @@ sections:
         type: feature_item
         image: images/3.jpg
     type: section_features
+  - section_id: lorem-ipsum
+    title: ''
+    content: >-
+      **Find us on the Digital Marketplace**  
+
+      Our services are available on the G-Cloud 11 and DOS 5 frameworks for
+      public sector buyers
+    image_alt: Crown Commercial Service Supplier
+    background: white
+    actions:
+      - label: Service details
+        url: >-
+          https://www.digitalmarketplace.service.gov.uk/g-cloud/services/792657564746209
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: true
+        no_follow: false
+        type: action
+    type: section_content
+    image: images/CCS-supplier-logo.jpg
 template: landing
 ---
