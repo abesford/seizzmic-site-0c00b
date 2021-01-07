@@ -10,9 +10,6 @@ sections:
       survive and thrive.
 
 
-      We help you make it happen - by making better use of data, using
-      internet-era technology, and modernising technology - all while staying
-      secure.
 
 
       ## Being digital is far more than your website. It's the way your
