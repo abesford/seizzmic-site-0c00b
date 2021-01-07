@@ -14,6 +14,7 @@ sections:
       radically improve how your organisation works, as well as how you interact
       with your customers and suppliers.
     actions: []
+    image: images/zoom-1585269438.png
   - section_id: features
     type: section_features
     background: gray
