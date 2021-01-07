@@ -20,8 +20,8 @@ sections:
       Leading your organisation through digital change can be difficult. We help
       you make it happen.
     subtitle: >-
-      Our goal is to get you working in a way that's fit for the Internet-era -
-      that your colleagues and customers will really notice. We're experts in
+      Our goal is to get you working in a way that's fit for the Internet-era,
+      that your customers and colleagues will really notice. We're experts in
       business change, modernising complex technology estates, making better use
       of data, and staying cyber-secure. We'll help you plot out your digital
       journey, and support you to get there.
@@ -116,11 +116,10 @@ sections:
         avatar: images/review2.jpg
         content: >-
           I've really been able to shift the perception of my CEO and the board.
-          Technology had just been a cost to them before. Now we're enabling
-          them to do things they never thought would be possible, and we're
-          moving fast together to do what the business needs. I sleep better now
-          we're more confident we're keeping the business safe from cyber
-          threats.
+          Technology had just been a cost to them before. Now we're enabling the
+          business to do things they never thought would be possible, and we're
+          moving fast together to do what's needed. I sleep better now we're
+          more confident we're keeping the business safe from cyber threats.
       - author: Transformation Director
         avatar: images/review3.jpg
         content: >-
