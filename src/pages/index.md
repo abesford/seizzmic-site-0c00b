@@ -115,9 +115,7 @@ sections:
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
-        content: >-
-          Business outcomes. Leadership more digital. Helped us survive the
-          pandemic. I couldn't imagine going back.
+        content: "My exec team all got behind the strategy, which was stretching but within our reach.\_ We're much more digital now and it's helped us survive the pandemic. I couldn't imagine going back."
       - author: Health CIO
         avatar: images/review2.jpg
         content: >-
@@ -127,9 +125,10 @@ sections:
       - author: Transformation Director
         avatar: images/review3.jpg
         content: >-
-          Multiple stakeholders. Alignment. Integer consectetur purus neque, ac
-          porttitor enim convallis vitae. Interdum et malesuada fames ac ante
-          ipsum primis in faucibus.
+          The big breakthrough was getting all the different teams pulling in
+          the same direction towards our vision. It really feels different now.
+          My front-line colleagues love how they can spend more time on the real
+          job helping people.
   - section_id: call-to-action
     type: section_cta
     title: Are you curious?
