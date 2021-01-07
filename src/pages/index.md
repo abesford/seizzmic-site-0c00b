@@ -62,7 +62,9 @@ sections:
           Working with all kinds of ambitious organisation
 
 
-          bring people together - build collective energy around vision
+          bring people together - build collective energy around vision. We
+          understand the technology but it's the people who make the change
+          happen
 
 
           small / medium / large etc. help them plot a course
