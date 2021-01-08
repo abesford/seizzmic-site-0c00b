@@ -78,18 +78,15 @@ sections:
       - title: Setting out your vision
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >
+        content: >+
           And getting everyone working towards it
 
 
-          We have an opinion
+          how you are going to applying the culture, processes, business models
+          & technologies of the internet-era
 
 
-          experience in doing this
-
-
-          We're independent and we're not here to try to sell you any one
-          solution.
+          We have an opinion / experience in doing this
 
 
           should you automate and when should you replace systems
@@ -97,8 +94,9 @@ sections:
           should you be investing in your data warehouse
 
 
-          Applying the culture, processes, business models & technologies of the
-          internet era
+          We're independent and we're not here to try to sell you any one
+          solution.
+
         actions:
           - label: Our thinking
             url: /blog
