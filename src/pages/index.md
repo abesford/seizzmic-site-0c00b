@@ -8,6 +8,10 @@ sections:
       Now, more than ever, organisations need to become more digital to survive
       and thrive
     content: >-
+      Now, more than ever, organisations need to become more digital to survive
+      and thrive.  
+
+
       Being digital is about much more than your website. It is the way to
       radically improve how your organisation works, and how you interact with
       your customers and suppliers.
