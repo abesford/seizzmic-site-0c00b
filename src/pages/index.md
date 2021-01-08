@@ -77,7 +77,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Setting out your vision
+      - title: Ideas that make an impact
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
