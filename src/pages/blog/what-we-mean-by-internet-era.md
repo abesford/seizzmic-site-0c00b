@@ -6,7 +6,8 @@ subtitle: >-
 date: '2021-01-04'
 excerpt: >-
   We now all use modern digital services every day. That has changed what
-  customers and staff expect from every organisation.
+  customers and staff expect from every organisation they come into contact
+  with.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
