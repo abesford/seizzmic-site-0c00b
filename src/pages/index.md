@@ -12,7 +12,7 @@ sections:
 
       Being digital is about much more than your website. It is the way to
       radically improve how your organisation works, and how you interact with
-      your customers and suppliers.
+      your customers.
     actions: []
     image: images/2021.png
   - section_id: features
