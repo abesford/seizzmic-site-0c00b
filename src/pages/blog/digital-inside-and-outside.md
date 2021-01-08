@@ -4,7 +4,10 @@ subtitle: >-
   The internet era is vero eos et accusamus et iusto odio dignissimos ducimus
   qui blanditiis
 date: '2021-01-05'
-excerpt: lorem-ipsum
+excerpt: >-
+  Being 'digital' is about much more than having a website. The service you
+  offer to customers reveals how your whole organisation works on the inside
+  too.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
