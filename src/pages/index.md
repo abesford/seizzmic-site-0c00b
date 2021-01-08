@@ -34,8 +34,8 @@ sections:
 
 
           The organisations to survive and thrive will be the ones that have
-          adapted to the Internet-era. [Read what we mean by
-          Internet-era](/blog/what-we-mean-by-internet-era/).
+          adapted to the internet-era. [Read what we mean by
+          internet-era](/blog/what-we-mean-by-internet-era/).
 
 
           Building a new digital business from scratch is easier than ever. But
