@@ -78,7 +78,7 @@ sections:
       - title: Setting out your vision
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >+
+        content: >-
           Lasting change depends on you setting out a compelling vision for the
           future, and getting everyone working towards it.
 
@@ -87,17 +87,18 @@ sections:
           & technologies of the internet-era
 
 
-          We have an opinion / experience in doing this
+          With our experience in doing this, we can help you establish the best
+          choices for your situation.
+
+
+          We're independent and we aren't here to sell you any one solution. We
+          can help you navigate the vast array of new products and services on
+          offer, which offer advantages and drawbacks.
 
 
           should you automate and when should you replace systems
 
           should you be investing in your data warehouse
-
-
-          We're independent and we're not here to try to sell you any one
-          solution.
-
         actions:
           - label: Our thinking
             url: /blog
