@@ -79,6 +79,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
+          And getting everyone working towards it
+
+
           We have an opinion
 
 
