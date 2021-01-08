@@ -5,8 +5,8 @@ subtitle: >-
   qui blanditiis
 date: '2021-01-04'
 excerpt: >-
-  We all use modern digital services every day. That has changed what customers
-  and staff expect from every organisation.
+  We now all use modern digital services every day. That has changed what
+  customers and staff expect from every organisation.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
