@@ -79,7 +79,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >+
-          And getting everyone working towards it
+          Lasting change depends on you setting out a compelling vision for the
+          future, and getting everyone working towards it.
 
 
           how you are going to applying the culture, processes, business models
