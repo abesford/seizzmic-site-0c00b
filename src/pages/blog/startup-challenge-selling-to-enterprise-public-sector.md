@@ -4,7 +4,9 @@ subtitle: >-
   there is a win-win if you get it right - Startups and scale-ups vs enterprises
   wanting to innovate - how do you get inside the corporate HQ?
 date: '2021-01-06'
-excerpt: lorem-ipsum
+excerpt: >-
+  Startup and scale-up businesses need to get their product into larger
+  organisations, but often struggle to get through the door.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
