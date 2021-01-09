@@ -31,12 +31,12 @@ sections:
       - title: Making digital change happen
         image_alt: App preview on a phone and tablet
         content: >-
-          The challenges of the Covid-19 pandemic accelerated trends that had
-          been emerging for many years. 
+          The Covid-19 pandemic accelerated trends that had been emerging for
+          many years. 
 
 
-          The organisations to survive and thrive will be the ones that have
-          adapted to the internet-era. [Read what we mean by
+          The organisations to survive and thrive will be the ones that adapt
+          internet-era. [Read what we mean by
           internet-era](/blog/what-we-mean-by-internet-era/).
 
 
