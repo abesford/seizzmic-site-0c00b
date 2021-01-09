@@ -90,8 +90,8 @@ sections:
           choices for your situation.
 
 
-          We're independent and we aren't here to sell you any one solution.
-          We'll impartially help you navigate the vast array of approaches,
+          We're impartial and we're not here to sell you any particular
+          solution. We'll ihelp you navigate the vast array of approaches,
           products and services on offer.
         actions:
           - label: Our thinking
