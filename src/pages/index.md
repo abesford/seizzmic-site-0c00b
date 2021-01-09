@@ -86,6 +86,9 @@ sections:
           & technologies of the internet-era
 
 
+          we have a deep understanding of the technology
+
+
           With our experience in doing this, we can help you establish the best
           choices for your situation.
 
