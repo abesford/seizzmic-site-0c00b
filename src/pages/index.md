@@ -54,11 +54,11 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          We work with all kinds of ambitious organisations.
+          We work with all kinds of ambitious organisations, and understand your
+          challenges.
 
 
-          We have a deep understanding of the technology, but it's your people
-          who make change happen.  We understand your challenges and bring your
+          It's people who make change happen.  We're experienced in bringing
           teams together. We'll help you plot a course, focus your efforts, and
           make your organisation stronger to deal with today's challenges. 
 
