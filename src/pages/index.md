@@ -104,7 +104,7 @@ sections:
     type: section_reviews
     background: white
     title: Working with us
-    subtitle: What different roles might say about working with us.
+    subtitle: What the typical roles we work with might say about us.
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
