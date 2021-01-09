@@ -87,7 +87,7 @@ sections:
         type: pricing_plan
       - title: Architecture
         subtitle: Better by design
-        price: lorem-ipsum
+        price: ''
         details: >
           elit**, sed do eiusmod tempor incididunt ut labore et dolore magna
           aliqua.
