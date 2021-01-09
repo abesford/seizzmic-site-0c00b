@@ -25,7 +25,7 @@ sections:
       Help you determine / be prepared for the future.
     actions:
       - label: Get in touch
-        url: '#'
+        url: /contact
         style: secondary
   - section_id: services
     title: What we do
