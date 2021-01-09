@@ -80,7 +80,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: The next one
+      - title: Cyber-security
         subtitle: lorem-ipsum
         price: ''
         details: >-
