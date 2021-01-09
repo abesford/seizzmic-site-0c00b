@@ -79,7 +79,7 @@ sections:
         image_alt: App user profile preview
         content: >-
           Lasting change depends on you setting out a compelling vision for the
-          future, and getting everyone working towards it. With our deep
+          future, and getting everyone working towards it. We have a deep
           understanding of technology, we 
 
 
