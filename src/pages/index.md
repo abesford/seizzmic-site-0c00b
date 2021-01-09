@@ -55,18 +55,18 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          We collaborate with all kinds of ambitious organisations.  
+          We work with all kinds of ambitious organisations.
 
 
           We have a deep understanding of the technology, but it's your people
           who make change happen.  We understand your challenges and bring your
-          teams together - to build collective energy around a digital vision.  
+          teams together. We'll help you plot a course, focus your efforts, and
+          make your organisation stronger to deal with today's challenges. 
 
 
-          We'll help you plot a course and make your organisation stronger to
-          deal with today's challenges. That might be building new skills and
-          capabilities, process automation, accelerating your move to the cloud,
-          or revising your sourcing strategy.
+          That might be building new skills and capabilities, process
+          automation, accelerating your move to the cloud, or revising your
+          sourcing strategy.
         actions:
           - label: Where we work
             url: /where-we-work
