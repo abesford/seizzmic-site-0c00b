@@ -79,19 +79,17 @@ sections:
         image_alt: App user profile preview
         content: >-
           Lasting change depends on you setting out a compelling vision for the
-          future, and getting everyone working towards it.
+          future, and getting everyone working towards it. With our deep
+          understanding of technology, we 
 
 
           how you are going to applying the culture, processes, business models
-          & technologies of the internet-era
+          & technologies of the internet-era.
 
 
-          we have a deep understanding of the technology
-
-
-          Automate or rebuild? What can you do with your data? With our
-          experience, we can help you establish and weave together the best
-          choices for your situation.
+          Automate or rebuild? What can you do with your data? How to stay
+          secure? With our experience, we can help you establish and weave
+          together the best choices for your situation.
 
 
           We're independent and we aren't here to sell you any one solution. We
