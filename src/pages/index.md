@@ -90,8 +90,8 @@ sections:
 
 
           Automate or rebuild? What can you do with your data? With our
-          experience, we can help you establish the best choices for your
-          situation.
+          experience, we can help you establish and weave together the best
+          choices for your situation.
 
 
           We're independent and we aren't here to sell you any one solution. We
