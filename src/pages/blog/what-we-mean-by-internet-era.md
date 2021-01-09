@@ -1,5 +1,5 @@
 ---
-title: What we mean by Internet-era
+title: What we mean by internet-era
 subtitle: >-
   The internet era is vero eos et accusamus et iusto odio dignissimos ducimus
   qui blanditiis
