@@ -89,18 +89,14 @@ sections:
           we have a deep understanding of the technology
 
 
-          With our experience in doing this, we can help you establish the best
-          choices for your situation.
+          Automate or rebuild? What can you do with your data? With our
+          experience, we can help you establish the best choices for your
+          situation.
 
 
           We're independent and we aren't here to sell you any one solution. We
-          can help you navigate the vast array of new products and services on
-          offer, which offer advantages and drawbacks.
-
-
-          should you automate and when should you replace systems
-
-          should you be investing in your data warehouse
+          can help you navigate the vast array of approaches, products and
+          services on offer.
         actions:
           - label: Our thinking
             url: /blog
