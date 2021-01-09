@@ -10,7 +10,7 @@ canonical_url: ''
 no_index: false
 template: page
 ---
-We're building a diverse bunch of people with a strong blend of skills. As a new company we've got a start-up mindset, as well as the credentials of operating internationally and at scale.  
+At **seizzmic** we're building a diverse bunch of people with a strong blend of skills. As a new company we've got a start-up mindset, as well as the credentials of operating internationally and at scale.  
 
 If you're interested in working together please get in touch <info@seizzmic.com> for an informal conversation.
 
@@ -39,12 +39,12 @@ If you're interested in working together please get in touch <info@seizzmic.com>
 
 # Partnerships
 
-Our work always relies on complementary skills to get the job done for clients
+Serious change always relies on a range of complementary skills to get the job done. Sometimes clients have these in place, and other times we may help our clients bring in the right people.
 
-on the look-out for partners who share our values
+We're always on the look-out for partners who share our values, and can collaborate to make our clients successful.
 
-examples of who we work with:
-- data
+Typically the kind of skills we would partner with include:
+- data specialists
 - architecture
 - digital delivery teams
 - development
