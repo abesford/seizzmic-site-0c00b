@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/hero.png
-      - title: Solving the challenges to smarter working
+      - title: Solve the challenges to smarter working
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
