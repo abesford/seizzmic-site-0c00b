@@ -86,7 +86,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Architecture
-        subtitle: lorem-ipsum
+        subtitle: Better by design
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
