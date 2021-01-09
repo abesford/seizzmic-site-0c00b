@@ -28,7 +28,7 @@ sections:
       staying cyber-secure. We'll help you plot out your digital journey, and
       support you to get there.
     features:
-      - title: Making digital change happen
+      - title: Make digital change happen
         image_alt: App preview on a phone and tablet
         content: >-
           The Covid-19 pandemic accelerated trends that had been emerging for
