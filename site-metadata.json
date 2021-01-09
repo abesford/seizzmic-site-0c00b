@@ -41,7 +41,8 @@
                 "url": "/contact",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/seizzmic.png"
     },
     "footer": {
         "sections": [
