@@ -58,9 +58,10 @@ sections:
           challenges.
 
 
-          It's people who make change happen.  We're experienced in bringing
-          teams together. We'll help you plot a course, focus your efforts, and
-          make your organisation stronger to deal with today's challenges. 
+          People make change happen, not technology.  We're experienced in
+          bringing teams together, to help you plot a course, focus your
+          efforts, and make your organisation stronger to deal with today's
+          challenges. 
 
 
           That might be building new skills and capabilities, process
