@@ -32,7 +32,9 @@ sections:
         style: secondary
   - section_id: services
     title: What we do
-    subtitle: lorem-ipsum
+    subtitle: >-
+      there's no one-size-fits-all. we'll always customise this to meet your
+      needs
     background: gray
     pricing_plans:
       - title: Change
