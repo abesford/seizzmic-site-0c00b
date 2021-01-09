@@ -80,21 +80,19 @@ sections:
         content: >-
           Lasting change depends on you setting out a compelling vision for the
           future, and getting everyone working towards it. We have a deep
-          understanding of technology, we 
-
-
-          how you are going to applying the culture, processes, business models
-          & technologies of the internet-era.
+          understanding of technology, and can help you work out the
+          internet-era processes, business models and technologies that will
+          work for you.
 
 
           Automate or rebuild? What can you do with your data? How to stay
-          secure? With our experience, we can help you establish and weave
-          together the best choices for your situation.
+          secure? We use our experience to help you weave together the best
+          choices for your situation.
 
 
-          We're independent and we aren't here to sell you any one solution. We
-          can help you navigate the vast array of approaches, products and
-          services on offer.
+          We're independent and we aren't here to sell you any one solution.
+          We'll impartially help you navigate the vast array of approaches,
+          products and services on offer.
         actions:
           - label: Our thinking
             url: /blog
