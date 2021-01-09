@@ -24,9 +24,6 @@ sections:
 
       Help you determine / be prepared for the future.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
