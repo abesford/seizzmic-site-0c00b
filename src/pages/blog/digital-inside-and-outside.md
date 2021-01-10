@@ -1,8 +1,6 @@
 ---
 title: Being digital on the inside and the outside
-subtitle: >-
-  The internet era is vero eos et accusamus et iusto odio dignissimos ducimus
-  qui blanditiis
+subtitle: Digital is not just your website. It's the way your whole organisation works.
 date: '2021-01-05'
 excerpt: >-
   Being 'digital' is about much more than having a website. The service you
