@@ -88,7 +88,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Culture
-        subtitle: lorem-ipsum
+        subtitle: how do you work to be successful
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
