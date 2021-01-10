@@ -1,6 +1,6 @@
 ---
 title: Where we work
-meta_title: seizzmic | Where we work
+meta_title: ''
 meta_description: ''
 canonical_url: ''
 no_index: false
