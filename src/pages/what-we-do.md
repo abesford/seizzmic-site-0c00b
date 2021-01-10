@@ -1,6 +1,6 @@
 ---
 title: What we do
-meta_title: seismic What we do
+meta_title: seismic | What we do
 meta_description: ''
 canonical_url: ''
 no_index: false
