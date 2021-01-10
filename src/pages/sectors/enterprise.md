@@ -1,6 +1,9 @@
 ---
 title: Enterprises need to be more competitive and high-performing than ever before
-subtitle: We know how to help
+subtitle: >-
+  Every industry is facing disruption. New and innovative challengers and
+  advanced technologies are changing market structure. And revenues have been
+  impacted by the challenges of the pandemic and leaving the EU.
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
 meta_description: ''
