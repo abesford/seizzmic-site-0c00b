@@ -2,7 +2,7 @@
 title: What we do
 meta_title: What we do
 meta_description: lorem-ipsum
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 sections:
   - section_id: features
