@@ -139,6 +139,8 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: seizzmic
-meta_description: The preview of the Azimuth theme
+meta_description: >-
+  Leading your organisation through digital change can be difficult. We help you
+  make it happen.
 template: landing
 ---
