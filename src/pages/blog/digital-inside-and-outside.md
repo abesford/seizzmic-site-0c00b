@@ -2,10 +2,7 @@
 title: Being digital on the inside and the outside
 subtitle: Digital is not just your website. It's the way your whole organisation works.
 date: '2021-01-05'
-excerpt: >-
-  Being 'digital' is about much more than having a website. The service you
-  offer to customers reveals how your whole organisation works on the inside
-  too.
+excerpt: Digital is not just your website. It's the way your whole organisation works.
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
