@@ -23,6 +23,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 societies and political economy will change under the force of rapidly accelerating technologies
 
+massive, forced global experiment with remote working and services
+
+
+15 years ago etc
+This is what powers Netflix!
+
+
 employees now expect to be able to work anywhere and from any device.
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
