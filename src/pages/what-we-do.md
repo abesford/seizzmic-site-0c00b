@@ -90,17 +90,7 @@ sections:
       - title: Culture
         subtitle: how do you work to be successful
         price: ''
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: Understanding users and designing to meet their needs
         highlight: false
         actions: []
         type: pricing_plan
