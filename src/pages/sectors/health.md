@@ -11,6 +11,14 @@ sections:
       seizzmic helps public sector lorem ipsum dolor sit amet, **consectetur
       adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore
       magna aliqua.
+
+
+      digital health update during Covid-19. But still has a long way to go to
+      achieve the vision of ...
+
+
+      Working towards the promise of effective and affordable healthcare,
+      personalised, ...
     image_alt: Whitehall
     actions: []
     type: section_hero
