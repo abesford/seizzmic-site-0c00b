@@ -1,5 +1,5 @@
 ---
-title: Features
+title: What we do
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
