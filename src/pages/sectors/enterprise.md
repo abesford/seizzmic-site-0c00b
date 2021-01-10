@@ -1,5 +1,5 @@
 ---
-title: Enterprises need help with their blah blah blah
+title: Enterprises need to be more competitive and high-performing than ever before
 subtitle: We know how to help
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
