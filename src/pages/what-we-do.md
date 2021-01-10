@@ -67,14 +67,7 @@ sections:
       - title: Cyber-security
         subtitle: lorem-ipsum
         price: ''
-        details: >-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: Security by Design
         highlight: false
         actions: []
         type: pricing_plan
