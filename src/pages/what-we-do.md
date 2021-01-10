@@ -37,14 +37,7 @@ sections:
       - title: Change
         subtitle: lorem-ipsum
         price: ''
-        details: >-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: Prioritising business improvements
         highlight: false
         actions: []
         type: pricing_plan
