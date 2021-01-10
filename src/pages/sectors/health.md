@@ -14,7 +14,7 @@ sections:
     image_alt: Whitehall
     actions: []
     type: section_hero
-    image: images/centralgov.jpg
+    image: images/ward.jpg
   - section_id: services
     title: services for health and care
     subtitle: we have a range of services
