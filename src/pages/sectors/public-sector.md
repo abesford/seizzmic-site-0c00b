@@ -11,6 +11,10 @@ sections:
       seizzmic helps public sector lorem ipsum dolor sit amet, **consectetur
       adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore
       magna aliqua.
+
+
+      and citizens expectations are set by the modern digital services they use
+      every day
     image_alt: Whitehall
     actions: []
     type: section_hero
