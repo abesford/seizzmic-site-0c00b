@@ -13,7 +13,7 @@ sections:
       magna aliqua.
 
 
-      and citizens expectations are set by the modern digital services they use
+      and citizens' expectations are set by the modern digital services they use
       every day
     image_alt: Whitehall
     actions: []
