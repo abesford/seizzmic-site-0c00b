@@ -89,7 +89,7 @@ sections:
         type: pricing_plan
       - title: Culture
         subtitle: how do you work to be successful
-        price: lorem-ipsum
+        price: ''
         details: >-
           ## Lorem ipsum
 
