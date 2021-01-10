@@ -87,7 +87,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: Culture
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
