@@ -11,7 +11,7 @@ sections:
       clinicians or the back office
 
 
-      digital health update during Covid-19. But still has a long way to go to
+      digital health uptake during Covid-19. But still has a long way to go to
       achieve the vision of ...
 
 
