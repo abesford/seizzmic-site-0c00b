@@ -34,6 +34,14 @@ sections:
       needs
     background: gray
     pricing_plans:
+      - title: Strategy
+        subtitle: lorem-ipsum
+        price: ''
+        details: |
+          link to inside / outside
+        highlight: false
+        actions: []
+        type: pricing_plan
       - title: Change
         subtitle: lorem-ipsum
         price: ''
@@ -84,14 +92,6 @@ sections:
         subtitle: how do you work to be successful
         price: ''
         details: Understanding users and designing to meet their needs
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - title: Strategy
-        subtitle: lorem-ipsum
-        price: ''
-        details: |
-          link to inside / outside
         highlight: false
         actions: []
         type: pricing_plan
