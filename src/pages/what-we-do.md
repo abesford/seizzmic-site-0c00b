@@ -89,7 +89,7 @@ sections:
         type: pricing_plan
       - title: Strategy
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: |
           link to inside / outside
         highlight: false
