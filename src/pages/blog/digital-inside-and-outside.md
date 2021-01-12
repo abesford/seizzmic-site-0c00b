@@ -14,12 +14,12 @@ author: src/data/authors/person-8gt2bfyjn.json
 image: images/6.jpg
 thumb_image: images/6.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+not just the mechanics of the machine but making it better for citizens
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+modernisation is doing the process better - better sameness
+
+transformation is doing something radically different, needs to be sponsored from the top
 
 That's why we say you shouldn't have a 'digital strategy'. You should make sure that digital is at the heart of your business strategy.
-
-
 
 **seizzmic** can help you do this
