@@ -79,19 +79,19 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+      - title: Culture
+        subtitle: how do you work to be successful
+        price: ''
+        details: Understanding users and designing to meet their needs
+        highlight: false
+        actions: []
+        type: pricing_plan
       - title: Architecture
         subtitle: Better by design
         price: ''
         details: >
           elit**, sed do eiusmod tempor incididunt ut labore et dolore magna
           aliqua.
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - title: Culture
-        subtitle: how do you work to be successful
-        price: ''
-        details: Understanding users and designing to meet their needs
         highlight: false
         actions: []
         type: pricing_plan
