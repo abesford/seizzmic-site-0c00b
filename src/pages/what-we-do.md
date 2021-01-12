@@ -11,7 +11,11 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: What we do
-    content: >-
+    content: >+
+      Redefine what's possible, give shape to the future—and get there.Help you
+      determine / be prepared for the future.
+
+
       As an independent consultancy so we are on your side, and never looking to
       "land and expand". We act impartially to best meet your needs.
 
@@ -21,8 +25,6 @@ sections:
 
       Wealth of experience
 
-
-      Help you determine / be prepared for the future.
     actions:
       - label: Get in touch
         url: /contact
