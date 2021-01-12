@@ -20,6 +20,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 That's why we say you shouldn't have a 'digital strategy'. You should make sure that digital is at the heart of your business strategy.
 
-
-
-\*\*seizzmic\*\* can help you do this
+\*\***seizzmic**\*\* can help you do this
