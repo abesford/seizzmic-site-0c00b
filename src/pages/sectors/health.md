@@ -7,12 +7,17 @@ no_index: false
 sections:
   - section_id: banner
     title: Health sector
-    content: >-
+    content: >
       clinicians or the back office
 
 
       digital health uptake during Covid-19. But still has a long way to go to
       achieve the vision of ...
+
+
+      confidence, stretch ourselves even more, achieved stuff that we had
+      planned for more quickly than expected - positive future vision as we
+      recover from the huge efforts and sacrifices
 
 
       Working towards the promise of effective and affordable healthcare,
