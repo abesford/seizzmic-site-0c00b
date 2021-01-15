@@ -19,19 +19,19 @@ author: src/data/authors/person-8gt2bfyjn.json
 image: images/9.jpg
 thumb_image: images/9.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 societies and political economy will change under the force of rapidly accelerating technologies
 
 massive, forced global experiment with remote working and services
 
-
 15 years ago etc
 This is what powers Netflix!
 
-
 employees now expect to be able to work anywhere and from any device.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+public: The internet era is still young; there’s time for all of us to get better at working in it.
 
 At seizzmic we help [all kinds of organisations](https://) adapt to the internet-era. [Read more about what we do]()
