@@ -11,6 +11,8 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 ---
-makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere. 
+makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere.
+
+public procurement policy - social value
 
 So when we look back at 2020 in a few years, we will see that it was the year that everything changed for tech/startups/VC/crypto and set the stage for a decade of transformational change
