@@ -30,11 +30,14 @@ sections:
       - title: Public services
         subtitle: Central and local government
         price: ''
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          Vestibulum non eros quis
+
+          Aenean iaculis lorem
+
+          Mauris eleifend sapien
+
+          Phasellus lobortis risus laoreet quam
         actions:
           - label: seizzmic for public sector
             url: /sectors/public-sector
