@@ -10,6 +10,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: post
+thumb_image: images/Newcastle_Quayside_with_bridges.jpg
 ---
 makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere.
 
