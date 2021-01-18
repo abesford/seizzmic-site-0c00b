@@ -17,12 +17,12 @@ sections:
       - title: Enterprise
         subtitle: For large companies
         price: ''
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          Curabitur non nunc mollis
+
+          Duis a purus nec ligula pellentesque dolor
+
+          Pellentesque sit amet
         highlight: false
         actions:
           - label: seizzmic for enterprises
