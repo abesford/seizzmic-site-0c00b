@@ -49,8 +49,7 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          We work with all kinds of ambitious organisations. People make change
-          happen, not technology.
+          People make change happen, not technology.
 
 
           We bring your teams together, to plot a course, focus your efforts,
