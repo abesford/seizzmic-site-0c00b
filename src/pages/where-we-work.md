@@ -29,7 +29,7 @@ sections:
             url: /sectors/enterprise
             style: secondary
       - title: Public services
-        subtitle: For central and local government
+        subtitle: Central and local government
         price: ''
         details: |-
           * Vestibulum non eros quis
