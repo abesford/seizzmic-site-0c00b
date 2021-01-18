@@ -58,8 +58,8 @@ sections:
           organisation stronger to deal with today's challenges.
 
 
-          That might be building new skills and capabilities, process
-          automation, accelerating your move to the cloud, or revising your
+          That might be building new skills and capabilities, automating
+          processes, accelerating your move to the cloud, or revising your
           sourcing strategy.
         actions:
           - label: Where we work
