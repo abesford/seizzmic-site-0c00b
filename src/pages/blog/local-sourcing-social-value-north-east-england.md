@@ -10,7 +10,7 @@ image_alt: NewcastleGateshead Quayside
 thumb_image_alt: NewcastleGateshead Quayside
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 template: post
 thumb_image: images/Newcastle_Quayside_with_bridges.jpg
