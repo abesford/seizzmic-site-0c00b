@@ -6,7 +6,7 @@ excerpt: Digital is not just your website. It's the way your whole organisation 
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+meta_description: ''
 canonical_url: lorem-ipsum
 no_index: false
 template: post
