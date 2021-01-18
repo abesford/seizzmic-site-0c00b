@@ -7,7 +7,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 meta_title: ''
 meta_description: ''
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 template: post
 author: src/data/authors/person-8gt2bfyjn.json
