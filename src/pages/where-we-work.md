@@ -59,7 +59,7 @@ sections:
             style: secondary
       - title: Mid-sized businesses
         subtitle: >-
-          For businesses with turnover around £25m-£500m per year, or around 250
+          For businesses with turnover of £25m-£500m per year, or around 250
           employees
         price: ''
         details: >
