@@ -7,7 +7,7 @@ date: '2021-01-06'
 excerpt: >-
   Startup and scale-up businesses need to get their product into larger
   organisations, but often struggle to get through the door.
-image_alt: lorem-ipsum
+image_alt: ''
 thumb_image_alt: lorem-ipsum
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
