@@ -72,12 +72,11 @@ sections:
       - title: Ideas that make an impact
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
+        content: >
           Lasting change depends on you setting out a compelling vision for the
           future, and getting everyone working towards it. We have a deep
-          understanding of technology, and can help you work out the
-          internet-era processes, business models and technologies that will
-          work for you.
+          understanding of technology, and can help you work out the processes,
+          business models and technologies that will work for you.
 
 
           Automate or rebuild? What can you do with your data? How to stay
@@ -85,9 +84,8 @@ sections:
           choices for your situation.
 
 
-          We're impartial and we're not here to sell you any particular
-          solution. We'll help you navigate the vast array of approaches,
-          products and services on offer.
+          We're impartial and can help you navigate the vast array of
+          approaches, products and services on offer.
         actions:
           - label: Our thinking
             url: /blog
