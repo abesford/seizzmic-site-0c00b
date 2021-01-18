@@ -25,7 +25,7 @@ sections:
     features:
       - title: Make digital change happen
         image_alt: App preview on a phone and tablet
-        content: >-
+        content: >
           The Covid-19 pandemic accelerated trends that had been emerging for
           many years. The organisations to survive and thrive will be the ones
           that [adapt to the internet-era](/blog/what-we-mean-by-internet-era/).
@@ -34,8 +34,8 @@ sections:
           Building a new digital business from scratch is easier than ever. But
           any organisation that's been around for a while, doing anything
           complicated, will have built up an array of technologies and processes
-          which can hold you back. We help unravel this and enable you to become
-          more digital [on the inside as well as the
+          which can hold you back. We help you unravel this and become more
+          digital [on the inside as well as the
           outside](/blog/digital-inside-and-outside).
         actions:
           - label: What we do
