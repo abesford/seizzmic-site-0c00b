@@ -77,13 +77,12 @@ sections:
 
           Lasting change depends on you setting out a compelling vision for the
           future, and getting everyone working towards it. Automate or rebuild?
-          What can you do with your data? How to stay secure? We use our
-          experience to help you weave together the best choices for your
-          situation.
+          What can you do with your data? How to stay secure?
 
 
-          We're impartial and can help you navigate the vast array of
-          approaches, products and services on offer.
+          We're impartial. We help you weave together the best choices for your
+          situation from the vast array of approaches, products and services on
+          offer.
         actions:
           - label: Our ideas
             url: /blog
