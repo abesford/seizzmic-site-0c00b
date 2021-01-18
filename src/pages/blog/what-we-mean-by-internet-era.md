@@ -21,23 +21,18 @@ thumb_image: images/9.jpg
 ---
 societies and political economy will change under the force of rapidly accelerating technologies
 
+15 years ago etc. Software is eating the world
+
+Not just some abstract idea - this is what powers Netflix!
+
 massive, forced global experiment with remote working and services
 
-remote work becoming mainstream which means teams can be located anywhere and hire from anywhere. 
+These changes are not temporary. But the pace was forced by the response to the pandemic and may slow down depending on leadership.
 
-These changes are not temporary, although the velocity of the changes may be. Technology based services have improved significantly this year, rising to the moment when consumers needed them, and they will continue to improve relative to legacy offerings. And consumers have installed the apps, left their cards on file, and adopted different routines. The genie is out of the bottle. It is not going back in.
+Technology based services have improved significantly this year, rising to the moment when consumers needed them, and they will continue to improve relative to legacy offerings. And consumers have installed the apps, left their cards on file, and adopted different routines. The genie is out of the bottle. It is not going back in.
 
-15 years ago etc
-This is what powers Netflix!
+Even pre-pandemic, many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
 
-Software is eating the world
+The internet-era may have been around for several years now, but it is still young and rapidly changing. Recent events have highlighted how tech companies have become involved in political speech in ways they were never equipped to deal with. Early internet culture / free software etc. World in which all ideas came from within 50 miles of Silicon Valley is now over, importance of China.
 
-employees now expect to be able to work anywhere and from any device.
-
-The internet-era may have been around for several years now, but it is still young and we are all still learning.
-
-World in which all ideas came from within 50 miles of Silicon Valley is over
-
-Tech companies getting involved in political speech
-
-At seizzmic we help [all kinds of organisations](https://) adapt to the internet-era. [Read more about what we do]()
+**seizzmic** helps [all kinds of organisations](https://) adapt to the internet-era. [Read more about what we do]().
