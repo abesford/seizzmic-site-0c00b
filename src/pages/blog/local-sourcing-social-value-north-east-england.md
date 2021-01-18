@@ -2,7 +2,10 @@
 title: Local sourcing and social value
 subtitle: global perspective with local conscience
 date: '2021-01-18'
-excerpt: lorem-ipsum
+excerpt: >-
+  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+  veritatis
 image_alt: NewcastleGateshead Quayside
 thumb_image_alt: NewcastleGateshead Quayside
 meta_title: lorem-ipsum
