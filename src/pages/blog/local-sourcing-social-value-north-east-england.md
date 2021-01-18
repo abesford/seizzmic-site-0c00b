@@ -8,7 +8,7 @@ excerpt: >-
   veritatis
 image_alt: NewcastleGateshead Quayside
 thumb_image_alt: NewcastleGateshead Quayside
-meta_title: lorem-ipsum
+meta_title: ''
 meta_description: ''
 canonical_url: ''
 no_index: false
