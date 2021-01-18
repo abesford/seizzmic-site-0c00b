@@ -3,7 +3,7 @@ title: Being digital on the inside and the outside
 subtitle: Digital is not just your website. It's the way your whole organisation works.
 date: '2021-01-05'
 excerpt: Digital is not just your website. It's the way your whole organisation works.
-image_alt: lorem-ipsum
+image_alt: ''
 thumb_image_alt: ''
 meta_title: ''
 meta_description: ''
