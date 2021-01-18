@@ -60,14 +60,9 @@ sections:
       - title: Mid-sized businesses
         subtitle: 'turnover, £25m-£500m per year or around 250 employees'
         price: ''
-        details: >-
+        details: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         highlight: false
         actions:
           - label: seizzmic for business
