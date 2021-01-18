@@ -4,7 +4,7 @@ subtitle: Digital is not just your website. It's the way your whole organisation
 date: '2021-01-05'
 excerpt: Digital is not just your website. It's the way your whole organisation works.
 image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: ''
 meta_title: ''
 meta_description: ''
 canonical_url: ''
