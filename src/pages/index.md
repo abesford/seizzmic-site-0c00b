@@ -48,15 +48,14 @@ sections:
       - title: Solve the challenges to smarter working
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
+        content: >
           We work with all kinds of ambitious organisations, and understand your
           challenges.
 
 
-          People make change happen, not technology.  We're experienced in
-          bringing teams together, to help you plot a course, focus your
-          efforts, and make your organisation stronger to deal with today's
-          challenges. 
+          People make change happen, not technology.  We bring your teams
+          together, to plot a course, focus your efforts, and make your
+          organisation stronger to deal with today's challenges.
 
 
           That might be building new skills and capabilities, process
