@@ -94,7 +94,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Working with us
+    title: We work with all kinds of ambitious organisations
     subtitle: What the typical roles we work with might say about us.
     reviews:
       - author: Chief Executive
