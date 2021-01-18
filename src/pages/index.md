@@ -120,7 +120,7 @@ sections:
     title: Are you curious?
     subtitle: >-
       We're looking for great people to join our team, and partners to
-      collaborate with
+      collaborate with.
     actions:
       - label: Work together
         url: /careers
