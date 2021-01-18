@@ -72,15 +72,16 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
+          We have a deep understanding of technology, and can help you work out
+          the processes, business models and technologies that will work for
+          you.
+
+
           Lasting change depends on you setting out a compelling vision for the
-          future, and getting everyone working towards it. We have a deep
-          understanding of technology, and can help you work out the processes,
-          business models and technologies that will work for you.
-
-
-          Automate or rebuild? What can you do with your data? How to stay
-          secure? We use our experience to help you weave together the best
-          choices for your situation.
+          future, and getting everyone working towards it. Automate or rebuild?
+          What can you do with your data? How to stay secure? We use our
+          experience to help you weave together the best choices for your
+          situation.
 
 
           We're impartial and can help you navigate the vast array of
