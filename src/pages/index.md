@@ -95,7 +95,7 @@ sections:
     type: section_reviews
     background: white
     title: We work with all kinds of ambitious organisations
-    subtitle: What the typical roles we work with might say about us.
+    subtitle: Making change happen together.
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
