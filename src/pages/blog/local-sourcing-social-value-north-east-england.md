@@ -15,6 +15,7 @@ no_index: false
 template: post
 thumb_image: images/Newcastle_Quayside_with_bridges.jpg
 image: images/Newcastle_Quayside_with_bridges.jpg
+author: src/data/authors/person-8gt2bfyjn.json
 ---
 makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere.
 
