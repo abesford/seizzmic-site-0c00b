@@ -58,7 +58,9 @@ sections:
             url: /sectors/health
             style: secondary
       - title: Mid-sized businesses
-        subtitle: 'turnover, £25m-£500m per year or around 250 employees'
+        subtitle: >-
+          For businesses with turnover around £25m-£500m per year, or around 250
+          employees
         price: ''
         details: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
