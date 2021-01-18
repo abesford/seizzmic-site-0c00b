@@ -21,4 +21,8 @@ makes geography matter much less. And we have remote work becoming mainstream wh
 
 public procurement policy - social value
 
+give back to area / contribute to local tech ecosystem
+
+develop local skills - keep global perspective and skills
+
 So when we look back at 2020 in a few years, we will see that it was the year that everything changed for tech/startups/VC/crypto and set the stage for a decade of transformational change
