@@ -10,7 +10,7 @@ excerpt: >-
 image_alt: Corporate offices
 thumb_image_alt: Corporate offices
 meta_title: ''
-meta_description: lorem-ipsum
+meta_description: ''
 canonical_url: lorem-ipsum
 no_index: false
 template: post
