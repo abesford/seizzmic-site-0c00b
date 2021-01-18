@@ -46,8 +46,8 @@ sections:
       - title: Health
         subtitle: Health and social care
         price: ''
-        details: >-
-          You have a brilliant product 
+        details: >
+          You have a brilliant product
 
 
           You know selling to large enterprises / public sector can help you
