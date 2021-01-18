@@ -11,9 +11,6 @@ canonical_url: lorem-ipsum
 no_index: false
 template: post
 ---
-## Lorem ipsum
+makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere. 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+So when we look back at 2020 in a few years, we will see that it was the year that everything changed for tech/startups/VC/crypto and set the stage for a decade of transformational change
