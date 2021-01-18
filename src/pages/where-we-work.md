@@ -11,8 +11,7 @@ sections:
     title: We work with all kinds of organisations
     subtitle: >-
       We help public and private sector organisations, both large and small. Our
-      values are consistent aross all. We are based in North East England and
-      operate anywhere.
+      values are consistent across all.
     pricing_plans:
       - title: Enterprise
         subtitle: Large companies
