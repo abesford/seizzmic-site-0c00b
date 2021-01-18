@@ -87,7 +87,7 @@ sections:
           We're impartial and can help you navigate the vast array of
           approaches, products and services on offer.
         actions:
-          - label: Our thinking
+          - label: Our ideas
             url: /blog
             style: secondary
             has_icon: true
