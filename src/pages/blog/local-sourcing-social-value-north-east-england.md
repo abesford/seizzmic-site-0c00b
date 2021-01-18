@@ -1,6 +1,6 @@
 ---
 title: Local sourcing and social value
-subtitle: global perspective with local conscience
+subtitle: We have a global perspective and a local conscience.
 date: '2021-01-18'
 excerpt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
