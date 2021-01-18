@@ -15,7 +15,7 @@ sections:
       operate anywhere.
     pricing_plans:
       - title: Enterprise
-        subtitle: For large companies
+        subtitle: Large companies
         price: ''
         details: |
           Curabitur non nunc mollis
