@@ -1,6 +1,6 @@
 ---
 title: Local sourcing and social value
-subtitle: lorem-ipsum
+subtitle: global perspective with local conscience
 date: '2021-01-18'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
