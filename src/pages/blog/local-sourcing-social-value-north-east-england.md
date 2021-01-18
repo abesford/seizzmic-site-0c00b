@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Local sourcing and social value
 subtitle: lorem-ipsum
 date: '2021-01-18'
 excerpt: lorem-ipsum
