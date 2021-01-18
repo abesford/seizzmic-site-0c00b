@@ -49,11 +49,10 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          We work with all kinds of ambitious organisations, and understand your
-          challenges.
+          People make change happen, not technology.
 
 
-          People make change happen, not technology.  We bring your teams
+          We work with all kinds of ambitious organisations. We bring your teams
           together, to plot a course, focus your efforts, and make your
           organisation stronger to deal with today's challenges.
 
