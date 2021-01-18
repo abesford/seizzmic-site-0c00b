@@ -4,7 +4,7 @@ subtitle: global perspective with local conscience
 date: '2021-01-18'
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: NewcastleGateshead Quayside
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
