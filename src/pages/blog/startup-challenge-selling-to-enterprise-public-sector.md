@@ -11,7 +11,7 @@ image_alt: Corporate offices
 thumb_image_alt: Corporate offices
 meta_title: ''
 meta_description: ''
-canonical_url: lorem-ipsum
+canonical_url: ''
 no_index: false
 template: post
 image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
