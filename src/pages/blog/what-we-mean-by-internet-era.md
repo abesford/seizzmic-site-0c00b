@@ -1,8 +1,8 @@
 ---
 title: What we mean by internet-era
 subtitle: >-
-  The internet era is vero eos et accusamus et iusto odio dignissimos ducimus
-  qui blanditiis
+  The internet-era is here to stay. We help you make it work for you and your
+  organisation.
 date: '2021-01-04'
 excerpt: >-
   We now all use modern digital services every day. That has changed what
