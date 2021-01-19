@@ -27,7 +27,7 @@ The rapid development of the internet created a period in the 2010s where "Softw
 
 Behind the scenes the supporting infrastructure has evolved to change the way we consume computing resources, paying only for what you use rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers and stop spending money and attention running infrastructure.
 
-Together these rapidly accelerating technologies radically change what individuals and organisations can do. And the force of all these developments is changing societies and our political economy.
+Together these accelerating technologies radically change what individuals and organisations can do. And the force of all these developments is changing societies and our political economy.
 
 Even pre-pandemic, \*\*\*customer expectations\*\*\* - many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
 
