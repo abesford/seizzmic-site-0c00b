@@ -36,7 +36,7 @@ sections:
       needs
     background: gray
     pricing_plans:
-      - title: Strategy
+      - title: Verb strategy
         subtitle: lorem-ipsum
         price: ''
         details: |
