@@ -23,11 +23,11 @@ thumb_image: images/9.jpg
 
 When the world wide web was created in 1989, only 0.5% of the world's population were online. PCs. Now well over 4bn people have a smartphone, and there are only 5.7bn adults on earth. The old things like mainframes and PCs didn't go away but they don't set the agenda any more.
 
-societies and political economy will change under the force of rapidly accelerating technologies
-
 15 years ago etc. Software is eating the world
 
 Not just some abstract idea - this is what powers Netflix! A child born when the iPhone was announced may now have one of their own.
+
+societies and political economy will change under the force of rapidly accelerating technologies
 
 massive, forced global experiment with remote working and services
 
