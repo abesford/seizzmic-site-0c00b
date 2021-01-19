@@ -27,13 +27,13 @@ The rapid development of the internet created a period in the 2010s where "Softw
 
 Behind the scenes, the supporting infrastructure has evolved to change the way we consume computing resources, paying only for what you use rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers and stop spending money and attention running infrastructure.
 
-We are generating more data than ever about everything we do online, and becoming increasingly aware of how it can be used - both for good (to personalise services to us) and for things we are less comfortable with. Cyber-security incidents can make headline news, and has finally become a boardroom issue.
+We are generating more data than ever about everything we do online, and becoming increasingly aware of how it can be used - both for good (to personalise services to us) and for things we are less comfortable with. Hacking incidents can make headline news, and cyber-security has finally become a boardroom issue.
 
 Together these accelerating technologies radically change what individuals and organisations can do. And the force of all these developments is changing societies and our political economy.
 
 Even pre-pandemic, the expectations of customers and citizens were being set by the best of the online services which they used on a day-to-day basis. Many employees already wanted to be able to work anywhere and from any device. Now, following the massive, forced global experiment during the pandemic, remote work has become completely mainstream. We now have more confidence that teams can be located anywhere, and that we could hire from anywhere.
 
-Technology based services also improved significantly during the Covid crisis, rising to the moment when consumers needed them. They will continue to improve relative to the previous offerings. Consumers have now tried buying different categories of products online, installed the apps, saved their credit cards, and adopted different routines. These changes are not temporary.
+Technology based services also improved significantly during the Covid crisis, rising to the moment when consumers needed them. They will continue to improve relative to the previous offerings. Consumers have now tried buying different categories of products online, installed the apps, saved their credit cards, and adopted different routines. Patients had remote consultations with their GPs. These changes are not temporary.
 
 Forced by the pandemic, we have shown the incredible pace of change that can be achieved. Whether we can sustain that pace in future is down to the leadership of our organisations.
 
