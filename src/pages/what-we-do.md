@@ -44,7 +44,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Verb change
+      - title: Assess your change readiness
         subtitle: lorem-ipsum
         price: ''
         details: Prioritising business improvements
