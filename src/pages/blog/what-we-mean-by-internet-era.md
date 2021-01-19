@@ -27,7 +27,7 @@ The rapid development of the internet created a period in the 2010s where "Softw
 
 Behind the scenes the supporting infrastructure has evolved to change the way we consume computing resources, paying only for what you use rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers and stop spending money and attention running infrastructure.
 
-Our use of data and our 
+We are generating more data than ever about everything we do online, and becoming increasingly aware of how it can be used - both for good (to personalise services to us) and for things we are less comfortable with. Cyber-security incidents can make headline news, and has finally become a boardroom issue.
 
 Together these accelerating technologies radically change what individuals and organisations can do. And the force of all these developments is changing societies and our political economy.
 
