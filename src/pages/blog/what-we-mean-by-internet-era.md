@@ -21,7 +21,7 @@ thumb_image: images/9.jpg
 ---
 **The internet used to be a niche interest for academics and enthusiasts. Now it is part of almost everyone's day-to-day life.**
 
-When the world wide web was created in 1989, only 0.5% of the world's population were online. We're now well past the PC-era of the early 2000s. Today, over 4bn people have a smartphone, and there are only 5.7bn adults on earth. A child born when the iPhone was announced may now have one of their own.
+When the world wide web was created in 1989, only 0.5% of the world's population were online. We're now well past the PC-era of the early 2000s. Today, over 4bn people have a smartphone, and there are only 5.7bn adults on earth. A child born when the first iPhone was announced may now have one of their own.
 
 Software is eating the world
 
