@@ -31,10 +31,10 @@ Together these accelerating technologies radically change what individuals and o
 
 Even pre-pandemic, the expectations of customers and citizens were being set by the best of the online services which they used on a day-to-day basis. Many employees already wanted to be able to work anywhere and from any device. Now, following the massive, forced global experiment during the pandemic, remote work has become completely mainstream. We now have more confidence that teams can be located anywhere, and that we could hire from anywhere.
 
-Technology based services have improved significantly this year, rising to the moment when consumers needed them, and they will continue to improve relative to legacy offerings. And consumers have installed the apps, left their cards on file, and adopted different routines. The genie is out of the bottle. It is not going back in.
+Technology based services also improved significantly during the Covid crisis, rising to the moment when consumers needed them. They will continue to improve relative to legacy offerings. Consumers have now tried buying different categories of products online, installed the apps, saved their credit cards, and adopted different routines. These changes are not temporary.
 
-These changes are not temporary. But the pace was forced by the response to the pandemic and may slow down depending on leadership.
+Forced by the pandemic, we have shown the incredible pace of change that can be achieved. Whether we can sustain that pace in future is down to the leadership of our organisations.
 
-Many of us can't imagine what life would be like now without the services that run over the internet. It completely changed the way we could cope with the events of 2020-21. But the internet's history has just begun. it is still young and rapidly changing. Recent events have highlighted how tech companies have become involved in political speech in ways they were never equipped to deal with. Early internet culture / free software etc. World in which all ideas came from within 50 miles of Silicon Valley is now over, importance of China.
+Many of us can't imagine what life would be like now without the services that run over the internet. But the history of the internet-era has just begun. It is still comparatively young and is changing rapidly. Recent events have highlighted how tech companies have become involved in political speech in ways they were never equipped to deal with. Early internet culture / free software etc. World in which all ideas came from within 50 miles of Silicon Valley is now over, importance of China.
 
 **seizzmic** helps [all kinds of organisations](https://) adapt to the internet-era. [Read more about what we do]().
