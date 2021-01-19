@@ -25,17 +25,17 @@ When the world wide web was created in 1989, only 0.5% of the world's population
 
 Software is eating the world
 
-Not just some abstract idea - this is what powers Netflix! 
+Not just some abstract idea - this is what powers Netflix!
 
 societies and political economy will change under the force of rapidly accelerating technologies
 
-massive, forced global experiment with remote working and services
+Even pre-pandemic, \*\*\*customer expectations\*\*\* - many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
 
-These changes are not temporary. But the pace was forced by the response to the pandemic and may slow down depending on leadership.
+massive, forced global experiment with remote working and services
 
 Technology based services have improved significantly this year, rising to the moment when consumers needed them, and they will continue to improve relative to legacy offerings. And consumers have installed the apps, left their cards on file, and adopted different routines. The genie is out of the bottle. It is not going back in.
 
-Even pre-pandemic, many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
+These changes are not temporary. But the pace was forced by the response to the pandemic and may slow down depending on leadership.
 
 Many of us can't imagine what life would be like now without the services that run over the internet. It completely changed the way we could cope with the events of 2020-21. But the internet's history has just begun. it is still young and rapidly changing. Recent events have highlighted how tech companies have become involved in political speech in ways they were never equipped to deal with. Early internet culture / free software etc. World in which all ideas came from within 50 miles of Silicon Valley is now over, importance of China.
 
