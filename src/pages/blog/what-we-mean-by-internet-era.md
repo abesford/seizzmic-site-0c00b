@@ -1,8 +1,8 @@
 ---
 title: What we mean by internet-era
 subtitle: >-
-  The internet-era is here to stay. Understanding it is critical to make it work
-  for you and your organisation.
+  Understanding the internet-era is critical to make it work for you and your
+  organisation.
 date: '2021-01-04'
 excerpt: >-
   We now all use modern digital services every day. That has changed what
