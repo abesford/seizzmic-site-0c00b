@@ -19,11 +19,15 @@ author: src/data/authors/person-8gt2bfyjn.json
 image: images/9.jpg
 thumb_image: images/9.jpg
 ---
+**The internet used to be a niche interest for academics and enthusiasts. Now it is part of almost everyone's day-to-day life.**
+
+When the world wide web was created in 1989, only 0.5% of the world's population were online. PCs. Now well over 4bn people have a smartphone, and there are only 5.7bn adults on earth. The old things like mainframes and PCs didn't go away but they don't set the agenda any more.
+
 societies and political economy will change under the force of rapidly accelerating technologies
 
 15 years ago etc. Software is eating the world
 
-Not just some abstract idea - this is what powers Netflix!
+Not just some abstract idea - this is what powers Netflix! A child born when the iPhone was announced may now have one of their own.
 
 massive, forced global experiment with remote working and services
 
@@ -33,6 +37,6 @@ Technology based services have improved significantly this year, rising to the m
 
 Even pre-pandemic, many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
 
-The internet-era may have been around for several years now, but it is still young and rapidly changing. Recent events have highlighted how tech companies have become involved in political speech in ways they were never equipped to deal with. Early internet culture / free software etc. World in which all ideas came from within 50 miles of Silicon Valley is now over, importance of China.
+Many of us can't imagine what life would be like now without the services that run over the internet. It completely changed the way we could cope with the events of 2020-21. But the internet's history has just begun. it is still young and rapidly changing. Recent events have highlighted how tech companies have become involved in political speech in ways they were never equipped to deal with. Early internet culture / free software etc. World in which all ideas came from within 50 miles of Silicon Valley is now over, importance of China.
 
 **seizzmic** helps [all kinds of organisations](https://) adapt to the internet-era. [Read more about what we do]().
