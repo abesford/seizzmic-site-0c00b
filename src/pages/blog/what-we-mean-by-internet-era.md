@@ -23,7 +23,7 @@ thumb_image: images/9.jpg
 
 When the world wide web was created in 1989, only 0.5% of the world's population were online. During the early 2000s people got online with a PC, and maybe there are now about 1bn PCs globally. But over 4bn people have a smartphone, and there are only 5.7bn adults on earth.
 
-The rapid development of the internet created a period in the 2010s where "Software ate the world", with businesses in all industries being disrupted, bringing winners (Amazon, Netflix, Spotify, PayPal) and losers (Blockbuster, Borders, Kodak). Since then, communication and commerce via the internet have become a central focus for businesses, consumers, government, and the media. The computer and communications industries have been converging, and smartphones are basically 'done'.
+The rapid development of the internet created a period in the 2010s where "Software ate the world", with businesses in all industries being disrupted, bringing winners (Amazon, Netflix, Spotify, PayPal) and losers (Blockbuster, Borders, Kodak). Communication and commerce via the internet have become a central focus for businesses, consumers, government, and the media. The computer and communications industries have been converging, and smartphones are basically 'done'.
 
 Behind the scenes the supporting infrastructure has evolved to change the way we consume computing resources, paying only for what you use rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers and stop spending money and attention running infrastructure.
 
