@@ -44,7 +44,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Change
+      - title: Verb change
         subtitle: lorem-ipsum
         price: ''
         details: Prioritising business improvements
