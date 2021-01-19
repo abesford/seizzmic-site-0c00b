@@ -21,15 +21,13 @@ thumb_image: images/9.jpg
 ---
 **The internet used to be a niche interest for academics and enthusiasts. Now it is part of almost everyone's day-to-day life.**
 
-When the world wide web was created in 1989, only 0.5% of the world's population were online. During the early 2000s people got online with a PC, and maybe there are now about 1bn PCs globally. But over 4bn people have a smartphone, and there are only 5.7bn adults on earth. A child born when the first iPhone was announced may now have one of their own.
+When the world wide web was created in 1989, only 0.5% of the world's population were online. During the early 2000s people got online with a PC, and maybe there are now about 1bn PCs globally. But over 4bn people have a smartphone, and there are only 5.7bn adults on earth.
 
 Software is eating the world
 
-Not just some abstract idea - this is what powers Netflix!
+Now smartphones are basically 'done'.
 
-Now smartphones are basically 'done' and the next fundamental trends will be different again.
-
-societies and political economy will change under the force of rapidly accelerating technologies
+radically changes what you can do. societies and political economy will change under the force of rapidly accelerating technologies
 
 Even pre-pandemic, \*\*\*customer expectations\*\*\* - many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
 
