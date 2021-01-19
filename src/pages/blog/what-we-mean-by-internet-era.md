@@ -29,9 +29,7 @@ Behind the scenes the supporting infrastructure has evolved to change the way we
 
 Together these accelerating technologies radically change what individuals and organisations can do. And the force of all these developments is changing societies and our political economy.
 
-Even pre-pandemic, \*\*\*customer expectations\*\*\* - many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
-
-massive, forced global experiment with remote working and services
+Even pre-pandemic, the expectations of customers and citizens were being set by the best of the online services which they used on a day-to-day basis. Many employees already wanted to be able to work anywhere and from any device. Now, following the massive, forced global experiment during the pandemic, remote work has become completely mainstream. We now have more confidence that teams can be located anywhere, and that we could hire from anywhere.
 
 Technology based services have improved significantly this year, rising to the moment when consumers needed them, and they will continue to improve relative to legacy offerings. And consumers have installed the apps, left their cards on file, and adopted different routines. The genie is out of the bottle. It is not going back in.
 
