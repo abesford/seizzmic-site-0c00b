@@ -27,6 +27,8 @@ This created a period in the 2010s where "Software ate the world", bringing winn
 
 Now smartphones are basically 'done'.
 
+Behind the scenes the supporting infrastructure has evolved to change the way we consume computing resources, paying only for what you use rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers and stop spending money and attention running infrastructure.
+
 radically changes what you can do. societies and political economy will change under the force of rapidly accelerating technologies
 
 Even pre-pandemic, \*\*\*customer expectations\*\*\* - many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
