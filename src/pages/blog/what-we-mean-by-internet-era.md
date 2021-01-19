@@ -27,6 +27,8 @@ Software is eating the world
 
 Not just some abstract idea - this is what powers Netflix!
 
+Now smartphones are basically 'done' and the next fundamental trends will be different again.
+
 societies and political economy will change under the force of rapidly accelerating technologies
 
 Even pre-pandemic, \*\*\*customer expectations\*\*\* - many employees expected to be able to work anywhere and from any device. Now, remote work has become completely mainstream which means teams can be located anywhere and hire from anywhere.
