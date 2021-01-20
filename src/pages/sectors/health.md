@@ -67,7 +67,7 @@ sections:
 
 
       Our services are available on G-Cloud 11 and DOS 5 frameworks for public
-      sector buyers
+      sector buyers.
     image_alt: Crown Commercial Service Supplier
     background: white
     actions:
