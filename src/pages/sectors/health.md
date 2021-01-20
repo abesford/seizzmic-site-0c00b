@@ -62,11 +62,12 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: ''
-    content: >-
-      **Find us on the Digital Marketplace**  
+    content: >
+      **Find us on the Digital Marketplace**
 
-      Our services are available on the G-Cloud 11 and DOS 5 frameworks for
-      public sector buyers
+
+      Our services are available on G-Cloud 11 and DOS 5 frameworks for public
+      sector buyers
     image_alt: Crown Commercial Service Supplier
     background: white
     actions:
