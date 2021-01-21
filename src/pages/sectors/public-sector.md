@@ -7,14 +7,16 @@ no_index: false
 sections:
   - section_id: banner
     title: The public sector is under more pressure than ever
-    content: >-
-      seizzmic helps public sector lorem ipsum dolor sit amet, **consectetur
-      adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore
-      magna aliqua.
-
-
-      and citizens' expectations are set by the modern digital services they use
+    content: >
+      citizens' expectations are set by the modern digital services they use
       every day
+
+
+      public sector running like any modern and well-equipped digital business
+
+
+      most importantly, enable fundamentally better ways of addressing the
+      social challenges they are tasked to address
     image_alt: Whitehall
     actions: []
     type: section_hero
