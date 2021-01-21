@@ -16,7 +16,9 @@ sections:
     actions: []
     image: images/2021.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: >-
+      Leading your organisation through digital change can be difficult. We help
+      you make it happen.
     content: >-
       ## Lorem ipsum
 
