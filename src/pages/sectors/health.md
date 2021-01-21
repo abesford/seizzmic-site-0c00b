@@ -42,7 +42,7 @@ sections:
         actions: []
         type: feature_item
         image: images/LIMS-technology-to-double-coronavirus-capacity_wrbm_large.jpg
-      - title: Business design
+      - title: Making it normal
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
