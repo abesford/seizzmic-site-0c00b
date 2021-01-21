@@ -15,7 +15,7 @@ sections:
       your customers.
     actions: []
     image: images/2021.png
-  - section_id: lorem-ipsum
+  - section_id: we-help-you
     title: >-
       Leading your organisation through digital change can be difficult. We help
       you make it happen.
