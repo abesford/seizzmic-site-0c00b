@@ -19,17 +19,7 @@ sections:
     title: >-
       Leading your organisation through digital change can be difficult. We help
       you make it happen.
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Our goal is to get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
