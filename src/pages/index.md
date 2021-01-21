@@ -27,9 +27,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: >-
-      Leading your organisation through digital change can be difficult. We help
-      you make it happen.
+    title: ''
     subtitle: ''
     features:
       - title: Make digital change happen
