@@ -52,7 +52,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Data
-        subtitle: lorem-ipsum
+        subtitle: 'strategy, identify key areas, collect and analyse, insight into action'
         price: ''
         details: >
           we're all on a journey with data - hep you move along - identify where
