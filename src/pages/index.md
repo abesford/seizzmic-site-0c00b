@@ -44,7 +44,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature1.png
       - title: Solve the challenges to smarter working
         image: images/feature2.png
         image_alt: App users welcoming a new member
