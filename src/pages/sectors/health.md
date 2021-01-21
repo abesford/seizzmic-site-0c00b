@@ -43,9 +43,11 @@ sections:
         type: feature_item
         image: images/LIMS-technology-to-double-coronavirus-capacity_wrbm_large.jpg
       - title: Making it normal
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >
+          After the sudden and unprecedented transformation in the use of
+          digital health services and healthtech in response to COVID-19, it’s
+          vital to get together to lock in the gains and progress made over the
+          last 12 months.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
