@@ -54,14 +54,9 @@ sections:
       - title: Data
         subtitle: lorem-ipsum
         price: ''
-        details: >-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          we're all on a journey with data - hep you move along - identify where
+          to get results and how this can reshape your business model
         highlight: false
         actions:
           - label: Find out more
