@@ -17,7 +17,7 @@ sections:
     image: images/2021.png
   - section_id: features
     type: section_features
-    background: white
+    background: gray
     title: >-
       Leading your organisation through digital change can be difficult. We help
       you make it happen.
