@@ -55,6 +55,9 @@ sections:
         subtitle: 'strategy, identify key areas, collect and analyse, insight into action'
         price: ''
         details: >
+          strategy, identify key areas, collect and analyse, insight into action
+
+
           we're all on a journey with data - hep you move along - identify where
           to get results and how this can reshape your business model.
           demonstrate progress quickly and establish the bigger vision. "what if
