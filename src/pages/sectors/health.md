@@ -8,7 +8,7 @@ sections:
   - section_id: banner
     title: Health sector
     content: >
-      clinicians or the back office have shown incredible resilience
+      clinicians and the back office have shown incredible resilience
 
 
       digital health uptake during Covid-19. But still has a long way to go to
