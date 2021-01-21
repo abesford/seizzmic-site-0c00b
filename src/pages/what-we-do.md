@@ -11,7 +11,7 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: What we do
-    content: >+
+    content: >
       Redefine what's possible, give shape to the future—and get there.Help you
       determine / be prepared for the future.
 
@@ -21,10 +21,6 @@ sections:
 
 
       Collaborative and hands-on
-
-
-      Wealth of experience
-
     actions:
       - label: Get in touch
         url: /contact
