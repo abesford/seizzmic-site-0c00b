@@ -12,11 +12,12 @@ sections:
       every day
 
 
-      public sector running like any modern and well-equipped digital business
+      get public sector orgs running like any modern and well-equipped digital
+      business
 
 
-      most importantly, enable fundamentally better ways of addressing the
-      social challenges they are tasked to address
+      most importantly, digital can enable fundamentally better ways of
+      addressing the social challenges they are tasked to address
     image_alt: Whitehall
     actions: []
     type: section_hero
