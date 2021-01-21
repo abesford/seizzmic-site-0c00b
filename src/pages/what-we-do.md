@@ -52,7 +52,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Data
-        subtitle: 'strategy, identify key areas, collect and analyse, insight into action'
+        subtitle: 'establish your vision for data, get quick results'
         price: ''
         details: >
           strategy, identify key areas, collect and analyse, insight into action
