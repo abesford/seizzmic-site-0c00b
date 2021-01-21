@@ -55,7 +55,7 @@ sections:
           we're all on a journey with data - hep you move along - identify where
           to get results and how this can reshape your business model.
           demonstrate progress quickly and establish the bigger vision. "what if
-          we could ..."
+          we could ...", build predictive models
         highlight: false
         actions:
           - label: Find out more
