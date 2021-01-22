@@ -39,9 +39,15 @@ sections:
         type: feature_item
         image: images/2.jpg
       - title: Business design
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >
+          iterative strategy, focusing on real outcomes for residents, 
+          businesses,  visitors and  staff.
+
+
+          focusing not on show-off technology and futuristic promises, but on
+          the solid building blocks of a modern public sector organisation which
+          uses digital technology as a means to better serve the public and meet
+          its mission, not as an end in itself.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
