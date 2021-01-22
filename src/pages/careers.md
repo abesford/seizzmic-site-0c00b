@@ -55,7 +55,6 @@ Typically the kind of skills we work alongside include:
 *   technical architects
 *   user researchers
 *   digital delivery teams
-*   developers
 *   automation specialists
 *   illustrators
 *   SMEs with innovative products
