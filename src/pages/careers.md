@@ -18,10 +18,10 @@ If you're interested in working together please get in touch <info@seizzmic.com>
 
 #### You'll have
 
-*   Experience delivering and helping to lead client engagements, working with senior client teams and developing strong, trusting relationships. 
+*   Experience delivering and helping to lead client engagements, working with senior client teams and developing strong, trusting relationships.
     [Read more about where we work](/where-we-work)
     .
-*   Credibility to develop new business 
+*   Credibility to develop new business
     [Read more about what we do](/what-we-do)
     .
 
@@ -49,13 +49,14 @@ Serious change always relies on a range of complementary skills to get the job d
 
 We're always on the look-out for partners who share our values, and can collaborate to make our clients successful.
 
-Typically the kind of skills we would partner with include:
+Typically the kind of skills we work alongside include:
 
 *   data specialists
-*   architecture
+*   technical architects
+*   user researchers
 *   digital delivery teams
-*   development
-*   automation
+*   developers
+*   automation specialists
 *   illustrators
 *   SMEs with innovative products
 
