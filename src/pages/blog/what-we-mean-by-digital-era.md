@@ -8,7 +8,7 @@ excerpt: >-
   We now all use modern digital services every day. That has changed what
   customers and staff expect from every organisation they come into contact
   with.
-image_alt: lorem-ipsum
+image_alt: ''
 thumb_image_alt: ''
 meta_title: ''
 meta_description: ''
