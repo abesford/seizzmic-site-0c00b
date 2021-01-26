@@ -37,8 +37,8 @@ Technology-based services also improved significantly during the Covid crisis, r
 
 Forced by the pandemic, we have shown the incredible pace of change that can be achieved. Whether we can sustain that pace in future is down to the leadership of our organisations.
 
-Many of us can't now imagine what life would be like without the services that run over the internet. But the history of the internet-era has just begun. It is still comparatively young and is changing rapidly.
+Many of us can't now imagine what life would be like without the services that run over the internet. But the history of the digital era has just begun. It is still comparatively young and is changing rapidly.
 
-Recent events have highlighted how tech companies have become involved in new areas, like political speech, in ways they were never equipped to deal with. We are necessarily now moving into a period of regulation, which will be at odds with the early culture of the internet - that information should be free to distribute and share, or that users can remain anonymous. The world in which all ideas came from within 50 miles of Silicon Valley is now over. China has more people online than the USA and Europe combined.
+Recent world events highlight how tech companies have become involved in new areas, like political speech, they were never equipped to deal with. We are necessarily now moving into a period of regulation, which will be at odds with the early culture of the internet - that information should be free to distribute and share, or that users can remain anonymous. The world in which all ideas came from within 50 miles of Silicon Valley is now over. China has more people online than the USA and Europe combined.
 
-**seizzmic** helps [all kinds of organisations](https://) adapt to the internet-era. [Read more about what we do]().
+**seizzmic** helps [all kinds of organisations](https://) adapt to the digital era. [Read more about what we do]().
