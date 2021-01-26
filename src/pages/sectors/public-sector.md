@@ -28,12 +28,9 @@ sections:
     background: gray
     features:
       - title: Vison
-        content: >-
-          Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >
+          what is different about governing in an era filled with pervasive
+          digital technologies
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
