@@ -33,7 +33,7 @@ Together these accelerating technologies have enabled completely new business mo
 
 Even pre-pandemic, the expectations of customers and citizens were being set by the best of the online services which they used on a day-to-day basis. Many employees already wanted to be able to work anywhere and from any device. Now, following the massive, forced global experiment during the pandemic, remote work has become completely mainstream. We now have more confidence that teams can be located anywhere, and that we could hire from anywhere.
 
-Technology-based services also improved significantly during the Covid crisis, rising to the moment when consumers needed them. They will continue to improve relative to the previous offerings. Consumers have now tried buying different categories of products online, installed the apps, saved their credit cards, and adopted different routines. Patients had remote consultations with their GPs. These changes are not temporary.
+Technology-based services also improved significantly during the Covid crisis, rising to the moment when consumers needed them. They will continue to improve relative to the previous offerings. Consumers have now tried buying different categories of products online, installed the apps, saved their credit cards, and adopted different routines. Patients had remote consultations with their GPs. We have broken habits like flying to business meetings. These changes are not temporary.
 
 Forced by the pandemic, we have shown the incredible pace of change that can be achieved. Whether we can sustain that pace in future is down to the leadership of our organisations.
 
