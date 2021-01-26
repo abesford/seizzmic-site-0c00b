@@ -1,5 +1,5 @@
 ---
-title: What we mean by internet-era
+title: What we mean by digital era
 subtitle: >-
   Understanding the internet-era is critical to make it work for you and your
   organisation.
