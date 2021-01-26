@@ -35,7 +35,7 @@ Even pre-pandemic, the expectations of customers and citizens were being set by 
 
 Technology-based services also improved significantly during the Covid crisis, rising to the needs of their users. They will continue to improve relative to the previous offerings. Consumers have now tried buying different categories of products online, installed the apps, saved their credit cards, and adopted different routines. Patients had remote consultations with their GPs. We have broken habits like flying to business meetings. These changes are not temporary.
 
-Forced by the pandemic, we have shown the incredible pace of change that can be achieved. Whether we can sustain that pace in future is down to the leadership of our organisations.
+Forced by the pandemic, we have shown the incredible pace of change that can be achieved. Whether we can sustain that pace in future will depend on the leadership of our organisations.
 
 Many of us can't now imagine what life would be like without the services that run over the internet. But the history of the digital era has just begun. It is still comparatively young and is changing rapidly.
 
