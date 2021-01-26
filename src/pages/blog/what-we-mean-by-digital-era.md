@@ -1,7 +1,7 @@
 ---
 title: What we mean by digital era
 subtitle: >-
-  Understanding the internet-era is critical to make it work for you and your
+  Understanding the digital era is critical to make it work for you and your
   organisation.
 date: '2021-01-04'
 excerpt: >-
