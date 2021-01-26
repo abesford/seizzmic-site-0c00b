@@ -105,7 +105,7 @@ sections:
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
-        content: "My exec team all got behind the strategy, which was stretching but within our reach.\_ We're much more digital now. It's helped us look after our customers during the pandemic, and we now feel well positioned for growth. I couldn't imagine going back."
+        content: "My exec team all got behind the strategy, which is stretching but within our reach.\_ We're much more digital now. It's helped us look after our customers during the pandemic, and we now feel well positioned for growth. I couldn't imagine going back."
       - author: IT Director
         avatar: images/review2.jpg
         content: >-
