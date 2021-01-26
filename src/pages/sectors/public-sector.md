@@ -13,7 +13,7 @@ sections:
 
 
       get public sector orgs running like any modern and well-equipped digital
-      business
+      business, with a strong focus on their users.
 
 
       most importantly, digital can enable fundamentally better ways of
