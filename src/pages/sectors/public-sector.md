@@ -51,8 +51,13 @@ sections:
         type: feature_item
         image: images/12.jpg
       - title: Transformation programme set-up
-        content: |
+        content: >
           with smart use of data at the heart. whilst staying secure
+
+
+          not acting as though a change programme is a way of migrating from one
+          stable state to another stable state, which is an illusion
+
 
           Experience operating in departments and the centre (and between both)
         image_alt: lorem-ipsum
