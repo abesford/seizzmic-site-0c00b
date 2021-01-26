@@ -50,10 +50,10 @@ sections:
         type: feature_item
         image: images/12.jpg
       - title: Transformation programme set-up
-        content: >-
-          with smart use of data at the heart. whilst staying secure lorem ipsum
-          dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua.
+        content: |
+          with smart use of data at the heart. whilst staying secure
+
+          Experience operating in departments and the centre (and between both)
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
