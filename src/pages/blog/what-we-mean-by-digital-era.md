@@ -1,5 +1,5 @@
 ---
-title: What we mean by digital era
+title: What we mean by the 'digital era'
 subtitle: >-
   Understanding the digital era is critical to make it work for you and your
   organisation.
