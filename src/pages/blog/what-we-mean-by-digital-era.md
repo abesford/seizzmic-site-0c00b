@@ -1,7 +1,7 @@
 ---
 title: What is the 'digital era'?
 subtitle: >-
-  Understanding the digital era is critical to make it work for you and your
+  Understanding the digital era is crucial to making it work for you and your
   organisation.
 date: '2021-01-04'
 excerpt: >-
