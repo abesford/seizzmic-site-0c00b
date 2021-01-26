@@ -31,6 +31,10 @@ sections:
         content: >
           what is different about governing in an era filled with pervasive
           digital technologies
+
+
+          not acting as though a change programme is a way of migrating from one
+          stable state to another stable state, which is an illusion
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
