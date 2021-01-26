@@ -28,10 +28,14 @@ sections:
     background: gray
     features:
       - title: Vison
-        content: >+
+        content: >
           what is different about governing in an era filled with pervasive
           digital technologies
 
+
+          Digital transformation means designing services based on user needs,
+          making it easier for the citizen to do what they need to do, and
+          reducing the cost for government to provide those services.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
