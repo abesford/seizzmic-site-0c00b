@@ -47,7 +47,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/12.jpg
+        image: images/Nervecentre_news_screens-1.jpg
       - title: Transformation programme set-up
         content: >-
           with smart use of data at the heart. whilst staying secure lorem ipsum
