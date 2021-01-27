@@ -27,7 +27,12 @@ sections:
     background: gray
     features:
       - title: Vison
-        content: |
+        content: >
+          confidence, stretch ourselves even more, achieved stuff that we had
+          planned for more quickly than expected - positive future vision as we
+          recover from the huge efforts and sacrifices
+
+
           Make infrastructure modern and interoperable.
         image_alt: lorem-ipsum
         actions: []
