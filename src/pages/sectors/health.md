@@ -15,11 +15,6 @@ sections:
       achieve the vision of ...
 
 
-      confidence, stretch ourselves even more, achieved stuff that we had
-      planned for more quickly than expected - positive future vision as we
-      recover from the huge efforts and sacrifices
-
-
       Working towards the promise of effective and affordable healthcare,
       personalised, ...
     image_alt: Whitehall
