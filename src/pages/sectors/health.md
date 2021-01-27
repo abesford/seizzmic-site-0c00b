@@ -72,6 +72,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/106825225-1610724539531-gettyimages-1230596211-AFP_8YT9JE.jpeg
     type: section_features
   - section_id: lorem-ipsum
     title: ''
