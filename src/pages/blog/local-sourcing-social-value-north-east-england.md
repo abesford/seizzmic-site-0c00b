@@ -23,6 +23,8 @@ makes geography matter much less. And we have remote work becoming mainstream wh
 
 public procurement policy - social value
 
+big procurers can use their influence locally
+
 give back to area / contribute to local tech ecosystem
 
 develop local skills - keep global perspective and skills
