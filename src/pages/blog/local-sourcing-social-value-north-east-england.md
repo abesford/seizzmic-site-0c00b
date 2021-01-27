@@ -29,4 +29,4 @@ give back to area / contribute to local tech ecosystem
 
 develop local skills - keep global perspective and skills
 
-So when we look back at 2020 in a few years, we will see that it was the year that everything changed for tech/startups/VC/crypto and set the stage for a decade of transformational change
+when we look back at 2020 in a few years, we will see that it was the year that everything changed for tech/startups/VC/crypto and set the stage for a decade of transformational change
