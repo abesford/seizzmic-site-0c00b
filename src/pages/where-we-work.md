@@ -99,6 +99,5 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - {}
 template: landing
 ---
