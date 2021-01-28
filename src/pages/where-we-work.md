@@ -71,7 +71,7 @@ sections:
         highlight: false
         actions:
           - label: seizzmic for business
-            url: /sectors/business
+            url: /sectors/enterprise
             style: secondary
             has_icon: false
             icon: arrow-left
