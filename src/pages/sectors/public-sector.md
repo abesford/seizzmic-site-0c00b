@@ -45,20 +45,6 @@ sections:
         actions: []
         type: feature_item
         image: images/2.jpg
-      - title: Business design
-        content: >
-          iterative strategy, focusing on real outcomes for residents, 
-          businesses,  visitors and  staff.
-
-
-          focusing not on show-off technology and futuristic promises, but on
-          the solid building blocks of a modern public sector organisation which
-          uses digital technology as a means to better serve the public and meet
-          its mission, not as an end in itself.
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/12.jpg
       - title: Transformation programme set-up
         content: >
           with smart use of data at the heart. whilst staying secure
@@ -87,6 +73,20 @@ sections:
         actions: []
         type: feature_item
         image: images/6.jpg
+      - title: Business design
+        content: >
+          iterative strategy, focusing on real outcomes for residents, 
+          businesses,  visitors and  staff.
+
+
+          focusing not on show-off technology and futuristic promises, but on
+          the solid building blocks of a modern public sector organisation which
+          uses digital technology as a means to better serve the public and meet
+          its mission, not as an end in itself.
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+        image: images/12.jpg
     type: section_features
   - section_id: lorem-ipsum
     title: ''
