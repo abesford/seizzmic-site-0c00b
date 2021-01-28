@@ -31,7 +31,7 @@ sections:
           - label: Find out more
             url: /sectors/enterprise
             style: secondary
-      - title: Public services
+      - title: Public sector
         subtitle: Central and local government
         price: ''
         details: |
