@@ -53,8 +53,8 @@ sections:
         subtitle: ''
         price: ''
         details: >
-          Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore
-          et dolore magna aliqua.
+          Businesses with turnover of £25m-£500m per year, or around 250
+          employees
         highlight: false
         actions:
           - label: Find out more
