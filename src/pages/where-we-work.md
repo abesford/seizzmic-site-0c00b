@@ -18,13 +18,15 @@ sections:
         subtitle: ''
         price: ''
         details: >
-          Enterprises need to be more competitive and high-performing than ever
-          before. Just becoming a better, more digital version of what you have
-          been in the past isn’t enough to turn the tide.
+          Across all industries, enterprises need to be more competitive and
+          high-performing than ever before. Just becoming a better, more digital
+          version of what you have been in the past isn’t enough to turn the
+          tide.
 
 
           We help enterprises rethink their vision and business models and take
-          courageous steps to become more digital.
+          courageous steps to win in the digital economy and get ready for
+          what's next.
         highlight: false
         actions:
           - label: Find out more
