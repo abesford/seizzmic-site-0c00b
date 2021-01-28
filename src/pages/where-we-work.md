@@ -89,7 +89,7 @@ sections:
         type: pricing_plan
       - title: Health
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: ''
         details: >
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
           dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
