@@ -47,6 +47,26 @@ sections:
             url: /sectors/public-sector
             style: secondary
         highlight: false
+      - title: Health
+        subtitle: ''
+        price: ''
+        details: >
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est
+          laborum.
+        highlight: false
+        actions:
+          - label: Find out more
+            url: /sectors/health
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+        type: pricing_plan
       - title: Mid-sized businesses
         subtitle: ''
         price: ''
@@ -79,25 +99,6 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Health
-        subtitle: ''
-        price: ''
-        details: >
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.
-        highlight: false
-        actions:
-          - label: Find out more
-            url: /sectors/health
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
+      - {}
 template: landing
 ---
