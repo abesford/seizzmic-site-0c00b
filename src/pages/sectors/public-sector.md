@@ -28,8 +28,8 @@ sections:
       Creating modern and efficient public institutions with users at their
       heart
     subtitle: >-
-      We can support you with a range of advisory services building on our deep
-      public sector digital and transformation expertise.
+      We can support your change journey, building on our deep public sector
+      digital and transformation expertise.
     background: gray
     features:
       - title: Vison
