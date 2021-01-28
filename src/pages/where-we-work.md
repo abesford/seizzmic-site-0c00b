@@ -32,7 +32,7 @@ sections:
             url: /sectors/enterprise
             style: secondary
       - title: Public sector
-        subtitle: Central and local government
+        subtitle: ''
         price: ''
         details: |
           Vestibulum non eros quis
