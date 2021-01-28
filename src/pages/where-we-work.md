@@ -70,7 +70,7 @@ sections:
           et dolore magna aliqua.
         highlight: false
         actions:
-          - label: seizzmic for business
+          - label: Find out more
             url: /sectors/enterprise
             style: secondary
             has_icon: false
