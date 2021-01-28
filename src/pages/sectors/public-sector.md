@@ -13,7 +13,7 @@ sections:
       and reform agenda.
 
 
-      We help to get public sector orgs running like a modern and well-equipped
+      We help public sector organisations run like a modern and well-equipped
       digital business, with a strong focus on their users.
 
 
