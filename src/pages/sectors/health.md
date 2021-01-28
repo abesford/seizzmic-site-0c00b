@@ -47,7 +47,7 @@ sections:
 
 
           Patient Experience. Find the right and sustainable balance between
-          online and face-to-face consultations.
+          online/phone and face-to-face consultations.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
