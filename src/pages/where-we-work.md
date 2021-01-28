@@ -40,7 +40,7 @@ sections:
 
           Phasellus lobortis risus laoreet quam
         actions:
-          - label: seizzmic for public sector
+          - label: Find out more
             url: /sectors/public-sector
             style: secondary
         highlight: false
