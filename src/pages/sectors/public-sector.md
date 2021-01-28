@@ -86,6 +86,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/6.jpg
     type: section_features
   - section_id: lorem-ipsum
     title: ''
