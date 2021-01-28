@@ -32,7 +32,7 @@ sections:
       digital and transformation expertise.
     background: gray
     features:
-      - title: Vison
+      - title: Setting a vison
         content: >
           what is different about governing in an era filled with pervasive
           digital technologies
