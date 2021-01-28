@@ -53,8 +53,35 @@ sections:
         subtitle: ''
         price: ''
         details: >
-          Businesses with turnover of £25m-£500m per year, or around 250
-          employees
+          Mid-cap companies play an important role in the economy, may be
+          focussed on machinery, chemicals, construction or electrical
+          equipment.
+
+
+
+
+          may be in family ownership, long-term continuity, investment into the
+          workforce, and close involvement with local social and cultural
+          institution
+
+
+          successful mid-cap companies suggests that British firms are far more
+          short-term orientated in terms of management and policy raising the
+          question whether the UK Mittelstand can endure over time in the same
+          manner as the German equivalent, something the British government
+          hopes to work on by embracing a longer term place
+
+
+          Globalisation opens up new and exciting opportunities for businesses,
+          but for many it can be more of a death sentence. Larger multinationals
+          may sometimes thrive, but many smaller players become victims of
+          increasing global consolidation. One winning strategy, particularly
+          appropriate for smaller businesses is to pursue a global niche
+          strategy.
+
+
+          We help businesses with turnover of around £25m-£500m per year, or
+          around 250 employees
         highlight: false
         actions:
           - label: Find out more
