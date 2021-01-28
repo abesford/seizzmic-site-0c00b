@@ -45,8 +45,8 @@ sections:
           lock in the gains and progress that have been made.
 
 
-          This needs to flow from the patient experience, for example finding a
-          safe and sustainable balance between online/phone and face-to-face
+          This must flow from the patient experience, for example finding a safe
+          and sustainable balance between online/phone and face-to-face
           consultations.
         image_alt: lorem-ipsum
         actions: []
