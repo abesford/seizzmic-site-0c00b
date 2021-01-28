@@ -67,7 +67,7 @@ sections:
 
           We help businesses with turnover of around £25m-£500m per year, or
           around 250 employees, set out a more digital vision appropriate to
-          their size and ambitions, and put actions in place to ensure their
+          their size and ambitions, and put actions in place to support their
           long-term success.
         highlight: false
         actions:
