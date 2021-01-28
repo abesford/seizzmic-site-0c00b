@@ -17,7 +17,9 @@ sections:
       - title: Enterprise
         subtitle: Large companies
         price: ''
-        details: ''
+        details: >
+          Enterprises need to be more competitive and high-performing than ever
+          before
         highlight: false
         actions:
           - label: Find out more
