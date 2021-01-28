@@ -47,15 +47,7 @@ sections:
       - title: Health
         subtitle: Health and social care
         price: ''
-        details: >
-          You have a brilliant product
-
-
-          You know selling to large enterprises / public sector can help you
-          scale / great case study / generate significant revenue stream
-
-
-          We can help you enter those markets
+        details: ''
         actions:
           - label: Find out more
             url: /sectors/health
