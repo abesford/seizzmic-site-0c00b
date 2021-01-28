@@ -40,14 +40,14 @@ sections:
         image: images/LIMS-technology-to-double-coronavirus-capacity_wrbm_large.jpg
       - title: Finding the new normal
         content: >
-          After the sudden and unprecedented transformation in the use of
-          digital health services and healthtech in response to COVID-19, it’s
-          vital to get together to lock in the gains and progress made over the
-          last 12 months.
+          After the sudden increase in the use of digital health services and
+          healthtech in response to Covid-19, we now need to get together to
+          lock in the gains and progress that have been made.
 
 
-          Patient Experience. Find the right and sustainable balance between
-          online/phone and face-to-face consultations.
+          This needs to flow from the patient experience, for example finding a
+          safe and sustainable balance between online/phone and face-to-face
+          consultations.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
