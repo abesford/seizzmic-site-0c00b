@@ -73,7 +73,7 @@ sections:
         actions: []
         type: feature_item
         image: images/10.jpg
-      - title: lorem-ipsum
+      - title: Staying secure
         content: >-
           ## Lorem ipsum
 
