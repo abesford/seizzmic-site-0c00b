@@ -23,7 +23,7 @@ sections:
     type: section_hero
     image: images/centralgov.jpg
   - section_id: services
-    title: services for public sector
+    title: We help build
     subtitle: >-
       We can support you with a range of advisory services focussed on the
       public sector.
