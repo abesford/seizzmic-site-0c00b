@@ -14,6 +14,22 @@ sections:
       small. Understand the different challenges. Our values are consistent
       across all.
     pricing_plans:
+      - title: Public sector
+        subtitle: ''
+        price: ''
+        details: >
+          Central and local government
+
+
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+          proident, sunt in culpa qui officia deserunt mollit anim id est
+          laborum.
+        actions:
+          - label: Find out more
+            url: /sectors/public-sector
+            style: secondary
+        highlight: false
       - title: Enterprise
         subtitle: ''
         price: ''
@@ -31,22 +47,6 @@ sections:
           - label: Find out more
             url: /sectors/enterprise
             style: secondary
-      - title: Public sector
-        subtitle: ''
-        price: ''
-        details: >
-          Central and local government
-
-
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.
-        actions:
-          - label: Find out more
-            url: /sectors/public-sector
-            style: secondary
-        highlight: false
       - title: Health
         subtitle: ''
         price: ''
