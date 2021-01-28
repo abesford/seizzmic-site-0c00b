@@ -23,7 +23,9 @@ sections:
     type: section_hero
     image: images/centralgov.jpg
   - section_id: services
-    title: We help build
+    title: >-
+      Creating modern and efficient public institutions with users at their
+      heart
     subtitle: >-
       We can support you with a range of advisory services focussed on the
       public sector.
