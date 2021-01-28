@@ -23,7 +23,7 @@ sections:
     image: images/ward.jpg
   - section_id: services
     title: services for health and care
-    subtitle: we have a range of services
+    subtitle: We can support you with a range of services focussed on the health sector.
     background: gray
     features:
       - title: Vison
