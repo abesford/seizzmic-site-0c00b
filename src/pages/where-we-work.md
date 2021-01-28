@@ -99,7 +99,7 @@ sections:
         actions:
           - label: Find out more
             url: /sectors/health
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
