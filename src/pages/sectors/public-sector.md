@@ -80,7 +80,7 @@ sections:
         actions: []
         type: feature_item
         image: images/11_thumb.jpg
-      - title: lorem-ipsum
+      - title: Better use of data
         content: >-
           ## Lorem ipsum
 
