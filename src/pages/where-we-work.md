@@ -15,7 +15,7 @@ sections:
       across all.
     pricing_plans:
       - title: Enterprise
-        subtitle: Large companies
+        subtitle: ''
         price: ''
         details: >
           Enterprises need to be more competitive and high-performing than ever
