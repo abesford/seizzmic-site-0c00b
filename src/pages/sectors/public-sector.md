@@ -24,7 +24,9 @@ sections:
     image: images/centralgov.jpg
   - section_id: services
     title: services for public sector
-    subtitle: we have a range of services
+    subtitle: >-
+      We can support you with a range of advisory services focussed on the
+      public sector.
     background: gray
     features:
       - title: Vison
