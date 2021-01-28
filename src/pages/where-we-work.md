@@ -43,7 +43,7 @@ sections:
         highlight: false
       - title: Health
         subtitle: ''
-        price: £
+        price: ''
         details: ''
         actions:
           - label: Find out more
