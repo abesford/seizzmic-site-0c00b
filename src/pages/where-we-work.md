@@ -57,7 +57,7 @@ sections:
 
           We can help you enter those markets
         actions:
-          - label: seizzmic for health
+          - label: Find out more
             url: /sectors/health
             style: secondary
       - title: Mid-sized businesses
