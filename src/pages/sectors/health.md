@@ -44,6 +44,10 @@ sections:
           digital health services and healthtech in response to COVID-19, it’s
           vital to get together to lock in the gains and progress made over the
           last 12 months.
+
+
+          Patient Experience. Find the right and sustainable balance between
+          online and face-to-face consultations.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
