@@ -42,7 +42,7 @@ sections:
             style: secondary
         highlight: false
       - title: Health
-        subtitle: Health and social care
+        subtitle: ''
         price: ''
         details: ''
         actions:
