@@ -35,13 +35,7 @@ sections:
         subtitle: ''
         price: ''
         details: |
-          Vestibulum non eros quis
-
-          Aenean iaculis lorem
-
-          Mauris eleifend sapien
-
-          Phasellus lobortis risus laoreet quam
+          Central and local government
         actions:
           - label: Find out more
             url: /sectors/public-sector
