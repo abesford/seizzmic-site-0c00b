@@ -20,8 +20,7 @@ sections:
         details: >
           Across all industries, enterprises need to be more competitive and
           high-performing than ever before. Just becoming a better, more digital
-          version of what you have been in the past isn’t enough to turn the
-          tide.
+          version of what you have been in the past isn’t enough.
 
 
           We help enterprises rethink their vision and business models and take
