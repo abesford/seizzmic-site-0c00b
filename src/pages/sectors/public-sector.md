@@ -8,16 +8,17 @@ sections:
   - section_id: banner
     title: The public sector is under more pressure than ever
     content: >
-      citizens' expectations are set by the modern digital services they use
-      every day
+      Citizens' expectations are constantly raised by the modern digital
+      services they use every day. The civil service has a strong modernisation
+      and reform agenda.
 
 
-      get public sector orgs running like any modern and well-equipped digital
-      business, with a strong focus on their users.
+      We help to get public sector orgs running like a modern and well-equipped
+      digital business, with a strong focus on their users.
 
 
-      most importantly, digital can enable fundamentally better ways of
-      addressing the social challenges they are tasked to address
+      Most importantly, digital can enable fundamentally better ways of
+      addressing the social challenges our institutions are tasked to address.
     image_alt: Whitehall
     actions: []
     type: section_hero
