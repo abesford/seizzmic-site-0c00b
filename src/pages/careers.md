@@ -45,7 +45,7 @@ If you're interested in working together please get in touch <info@seizzmic.com>
 
 # Partnerships
 
-Serious change always relies on a range of complementary skills to get the job done. Sometimes clients have these in place, and other times we may help our clients bring in the right people.
+Serious change always relies on a range of complementary skills to get the job done. Sometimes our clients have these in place, and other times we may help bring in the right people.
 
 We're always on the look-out for partners who share our values, and can collaborate to make our clients successful.
 
