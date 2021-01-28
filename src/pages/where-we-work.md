@@ -47,14 +47,6 @@ sections:
             url: /sectors/public-sector
             style: secondary
         highlight: false
-      - title: Health
-        subtitle: ''
-        price: ''
-        details: ''
-        actions:
-          - label: Find out more
-            url: /sectors/health
-            style: secondary
       - title: Mid-sized businesses
         subtitle: ''
         price: ''
