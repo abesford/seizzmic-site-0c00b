@@ -25,7 +25,7 @@ sections:
           Pellentesque sit amet
         highlight: false
         actions:
-          - label: seizzmic for enterprises
+          - label: Find out more
             url: /sectors/enterprise
             style: secondary
       - title: Public services
