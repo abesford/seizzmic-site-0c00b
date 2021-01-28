@@ -17,12 +17,7 @@ sections:
       - title: Enterprise
         subtitle: Large companies
         price: ''
-        details: |
-          Curabitur non nunc mollis
-
-          Duis a purus nec ligula pellentesque dolor
-
-          Pellentesque sit amet
+        details: ''
         highlight: false
         actions:
           - label: Find out more
