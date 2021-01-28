@@ -53,10 +53,8 @@ sections:
         type: feature_item
         image: images/Nervecentre_news_screens-1.jpg
       - title: Transformation programme set-up
-        content: >-
-          with smart use of data at the heart. whilst staying secure lorem ipsum
-          dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua.
+        content: |
+          with smart use of data at the heart. whilst staying secure
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
