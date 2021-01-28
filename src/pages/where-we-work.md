@@ -88,7 +88,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Health
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: ''
         details: >
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
