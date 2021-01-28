@@ -38,7 +38,7 @@ sections:
         actions: []
         type: feature_item
         image: images/LIMS-technology-to-double-coronavirus-capacity_wrbm_large.jpg
-      - title: Making it normal
+      - title: Finding the new normal
         content: >
           After the sudden and unprecedented transformation in the use of
           digital health services and healthtech in response to COVID-19, it’s
