@@ -98,7 +98,7 @@ sections:
         highlight: false
         actions:
           - label: Find out more
-            url: lorem-ipsum
+            url: /sectors/health
             style: link
             has_icon: false
             icon: arrow-left
