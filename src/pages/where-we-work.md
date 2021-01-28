@@ -24,7 +24,7 @@ sections:
 
 
           We help enterprises rethink their vision and business models and take
-          courageous steps to win in the digital economy and get ready for
+          courageous steps - to win in the digital economy and get ready for
           what's next.
         highlight: false
         actions:
