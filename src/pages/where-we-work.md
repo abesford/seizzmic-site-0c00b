@@ -11,8 +11,8 @@ sections:
     title: We work with all kinds of organisations
     subtitle: >-
       We help ambitious public and private sector organisations, and understand
-      the very different challenges they face. Our values are consistent across
-      all.
+      the very different challenges they face. Wherever we work, we bring our
+      deep expertise to help in your specific context.
     pricing_plans:
       - title: Enterprise
         subtitle: ''
