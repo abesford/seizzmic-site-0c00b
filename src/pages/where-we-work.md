@@ -10,9 +10,9 @@ sections:
     background: gray
     title: We work with all kinds of organisations
     subtitle: >-
-      We help ambitious public and private sector organisations, both large and
-      small. Understand the different challenges. Our values are consistent
-      across all.
+      We help ambitious public and private sector organisations, and understand
+      the very different challenges they face. Our values are consistent across
+      all.
     pricing_plans:
       - title: Enterprise
         subtitle: ''
