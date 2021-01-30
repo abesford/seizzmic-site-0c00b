@@ -23,9 +23,9 @@ sections:
           version of what you have been in the past isn’t enough.
 
 
-          We help enterprises rethink their vision and business models and take
-          courageous steps - to win in the digital economy and get ready for
-          what's next.
+          We help enterprises rethink their vision and business models, take the
+          right steps to win in the digital economy, and get ready for what's
+          next.
         highlight: false
         actions:
           - label: Find out more
