@@ -8,7 +8,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: We work with all kinds of organisations
+    title: We work with all kinds of ambitious organisations
     subtitle: >-
       We help ambitious public and private sector organisations, large and
       small, and we understand the very different challenges they face. Wherever
