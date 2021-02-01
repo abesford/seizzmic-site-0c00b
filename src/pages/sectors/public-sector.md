@@ -48,6 +48,8 @@ sections:
       - title: Staying secure
         content: |
           Lorem ipsum dolor sit amet
+
+          **identity and trust**
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
