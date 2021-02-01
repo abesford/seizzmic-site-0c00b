@@ -113,6 +113,11 @@ sections:
         type: feature_item
     type: section_features
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
+  - section_id: lorem-ipsum
     title: ''
     content: >
       **Find us on the Digital Marketplace**
@@ -135,10 +140,5 @@ sections:
         type: action
     type: section_content
     image: images/CCS-supplier-logo.jpg
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 template: landing
 ---
