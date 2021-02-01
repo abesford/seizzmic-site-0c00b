@@ -94,7 +94,6 @@ sections:
         image: images/10.jpg
       - title: interesting areas
         content: >
-          identity and trust
 
 
           channels
@@ -104,8 +103,6 @@ sections:
 
 
           notifications
-
-
 
 
           customer experience, human centred, data-led - personalisation and
