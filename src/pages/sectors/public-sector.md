@@ -113,7 +113,7 @@ sections:
         type: feature_item
     type: section_features
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: our experience
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
