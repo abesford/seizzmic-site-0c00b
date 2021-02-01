@@ -114,7 +114,7 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: our experience
-    subtitle: lorem-ipsum
+    subtitle: 'GDS experience, spend controls, service standards. Major programme reviews'
     actions: []
     type: section_cta
   - section_id: lorem-ipsum
