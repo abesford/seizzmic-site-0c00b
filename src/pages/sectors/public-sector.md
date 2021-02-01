@@ -114,7 +114,7 @@ sections:
   - section_id: Our experience
     title: our experience
     subtitle: >-
-      centre and departments. GDS experience, spend controls, service standards.
+      centre and departments. GDS experience, spend controls, service standard.
       Major programme reviews, MPLA , procurement, senior leaders
     actions: []
     type: section_cta
