@@ -90,7 +90,7 @@ sections:
         actions: []
         type: feature_item
         image: images/10.jpg
-      - title: ''
+      - title: interesting areas
         content: >
           identity and trust
 
