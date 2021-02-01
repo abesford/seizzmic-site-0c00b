@@ -91,17 +91,23 @@ sections:
         type: feature_item
         image: images/10.jpg
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          identity and trust
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          channels
 
 
-          - Lorem ipsum
+          robotics and automation
 
-          - dolor sit amet
+
+          notifications
+
+
+
+
+          customer experience, human centred, data-led - personalisation and
+          segmentation
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
