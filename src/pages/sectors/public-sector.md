@@ -117,7 +117,7 @@ sections:
     subtitle: 'GDS experience, spend controls, service standards. Major programme reviews'
     actions: []
     type: section_cta
-  - section_id: lorem-ipsum
+  - section_id: Digital Marketplace
     title: ''
     content: >
       **Find us on the Digital Marketplace**
