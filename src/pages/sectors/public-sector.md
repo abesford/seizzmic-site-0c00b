@@ -112,7 +112,7 @@ sections:
         type: feature_item
     type: section_features
   - section_id: Our experience
-    title: With the experience you need
+    title: The experience you need
     subtitle: >-
       centre and departments. GDS experience, spend controls, service standard.
       Major programme reviews, MPLA , procurement, senior leaders
