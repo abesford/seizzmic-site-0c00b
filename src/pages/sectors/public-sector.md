@@ -116,7 +116,7 @@ sections:
     subtitle: >-
       We have deep experience of centre and departments. GDS experience, spend
       controls, service standard. Major programme reviews, MPLA , procurement,
-      functions, senior leaders
+      functions, working with senior leaders.
     actions: []
     type: section_cta
   - section_id: Digital Marketplace
