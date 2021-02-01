@@ -114,8 +114,9 @@ sections:
   - section_id: Our experience
     title: The experience you need
     subtitle: >-
-      centre and departments. GDS experience, spend controls, service standard.
-      Major programme reviews, MPLA , procurement, senior leaders
+      We have deep experience of centre and departments. GDS experience, spend
+      controls, service standard. Major programme reviews, MPLA , procurement,
+      functions, senior leaders
     actions: []
     type: section_cta
   - section_id: Digital Marketplace
