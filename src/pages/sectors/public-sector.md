@@ -116,7 +116,7 @@ sections:
     title: our experience
     subtitle: >-
       GDS experience, spend controls, service standards. Major programme
-      reviews, MPLA , procurement
+      reviews, MPLA , procurement, senior leaders
     actions: []
     type: section_cta
   - section_id: Digital Marketplace
