@@ -85,9 +85,8 @@ sections:
       - title: Architecture
         subtitle: Better by design
         price: ''
-        details: >
-          elit**, sed do eiusmod tempor incididunt ut labore et dolore magna
-          aliqua.
+        details: |
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         highlight: false
         actions: []
         type: pricing_plan
