@@ -119,5 +119,6 @@
         "content": "&copy; 55th Parallel Ltd."
     },
     "title": "seizzmic",
-    "favicon": "images/S.png"
+    "favicon": "images/S.png",
+    "domain": "https://seizzmic.com"
 }
