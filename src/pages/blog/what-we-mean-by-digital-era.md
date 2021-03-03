@@ -23,11 +23,11 @@ thumb_image: images/9.jpg
 
 When the world wide web was created in 1989, only 0.5% of the world's population were online.
 
-By the 2010s, the rapid development of the internet created a period where "Software ate the world", with businesses in all industries being disrupted, bringing winners (Amazon, Netflix, Spotify, PayPal) and losers (Blockbuster, Borders, Kodak). Communication and commerce via the internet have become a central focus for businesses, consumers, government, and the media.
+By the 2010s, the rapid development of the internet created a period where "[Software ate the world](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)", with businesses in all industries being disrupted, bringing winners (Amazon, Netflix, Spotify, PayPal) and losers (Blockbuster, Borders, Kodak). Communication and commerce via the internet have become a central focus for businesses, consumers, government, and the media.
 
 The computer and communications industries have been converging, We used to get online with a PC, and there are now about 1 billion PCs globally. But over 4 billion people have a smartphone (and there are only 5.7 billion adults on earth). And smartphones are basically 'done', with improvements becoming smaller and more incremental.
 
-Behind the scenes, the supporting infrastructure of the internet has evolved to change the way we consume computing resources, paying only for what you use rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers and stop spending money and attention running infrastructure.
+Behind the scenes, the supporting infrastructure of the internet has evolved to change the way we consume computing resources. Now you only need to pay for what you use, rather than having to invest in data centres and servers. We benefit from massive economies of scale, and can be more flexible than ever, adding computing resources with just a click. Cloud computing lets us focus on customers, and stop spending money and attention running infrastructure.
 
 We are generating more data than ever about everything we do online, and becoming increasingly aware of how it can be used - both for good (to personalise services to us) and for things we are less comfortable with. Hacking incidents can make headline news, and cyber-security has finally become a boardroom issue.
 
