@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: Online meeting
-    title: Do extraordinary things.
+    title: Do extraordinary things
     content: >
       More than ever, organisations need to become more digital to survive and
       thrive.
