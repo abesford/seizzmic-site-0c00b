@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image_alt: Online meeting
     title: Get your digital plans right. Do extraordinary things.
-    content: >-
-      **Now, more than ever, organisations need to become more digital to
-      survive and thrive.**
+    content: >
+      More than ever, organisations need to become more digital to survive and
+      thrive.
 
 
       Being digital is about much more than your website. It is the way to
