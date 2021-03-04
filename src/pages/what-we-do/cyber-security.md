@@ -1,5 +1,5 @@
 ---
-title: Enterprises need to be more competitive and high-performing than ever before
+title: Cyber-security
 subtitle: >-
   Every industry is facing disruption. New and innovative challengers are
   fundamentally changing market structures. And revenues have been impacted by
