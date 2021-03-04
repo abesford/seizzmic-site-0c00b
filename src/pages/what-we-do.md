@@ -32,7 +32,7 @@ sections:
     background: gray
     pricing_plans:
       - title: See what's next
-        subtitle: lorem-ipsum
+        subtitle: create a strategy for success
         price: ''
         details: |
           link to inside / outside
