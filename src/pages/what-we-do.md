@@ -13,7 +13,7 @@ sections:
     title: What we do
     content: >
       We help companies get their strategy for digital change right, and we help
-      you make it happen.
+      make it happen.
 
 
       As an independent consultancy we're on your side. ,  We act impartially to
