@@ -30,7 +30,7 @@ sections:
     background: gray
     pricing_plans:
       - title: See what's next
-        subtitle: create a strategy for success
+        subtitle: Create a strategy for success.
         price: ''
         details: >
           We do the hard work to make it simple
