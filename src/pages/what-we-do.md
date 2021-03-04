@@ -16,9 +16,8 @@ sections:
       you make it happen.
 
 
-      As an independent consultancy we're on your side. , there's plenty to get
-      on with and we want to "put ourselves out of a job" and never looking to
-      "land and expand". We act impartially to best meet your needs.
+      As an independent consultancy we're on your side. ,  We act impartially to
+      best meet your needs.
     actions:
       - label: Get in touch
         url: /contact
