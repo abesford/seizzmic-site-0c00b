@@ -98,17 +98,9 @@ sections:
     type: section_pricing
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      There's plenty of work to get on with, and we want to "put ourselves out
+      of a job", not "land and expand".
     image_alt: lorem-ipsum
     background: gray
     actions: []
