@@ -12,11 +12,11 @@ sections:
     image_alt: App preview on a phone and tablet
     title: What we do
     content: >
-      We help companies and public sector organisations get their strategy
-      right, and we help you get there.
+      We help companies get their strategy for digital change right, and we help
+      you get there.
 
 
-      As an independent consultancy we are on your side, there's plenty to get
+      As an independent consultancy we're on your side. , there's plenty to get
       on with and we want to "put ourselves out of a job" and never looking to
       "land and expand". We act impartially to best meet your needs.
     actions:
