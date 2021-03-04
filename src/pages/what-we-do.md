@@ -31,7 +31,7 @@ sections:
     subtitle: "there's no one-size-fits-all. we'll always customise this to meet your needs.\_Wealth of experience"
     background: gray
     pricing_plans:
-      - title: Verb strategy
+      - title: See what's next
         subtitle: lorem-ipsum
         price: ''
         details: |
