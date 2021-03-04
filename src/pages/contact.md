@@ -3,9 +3,7 @@ title: Contact
 sections:
   - section_id: lorem-ipsum
     title: Get in touch
-    subtitle: >-
-      Let's begin today. We're all about having a conversation and working in
-      collaboration.
+    subtitle: We're all about having a conversation and working in collaboration.
     background: gray
     pricing_plans:
       - title: Contact
