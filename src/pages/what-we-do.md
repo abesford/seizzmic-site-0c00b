@@ -16,8 +16,8 @@ sections:
       make it happen.
 
 
-      As an independent consultancy we're on your side.  We act impartially to
-      best meet your needs.
+      As an independent consultancy we're collaborative, hands-on, and most
+      importantly, on your side.  We act impartially to best meet your needs.
     actions:
       - label: Get in touch
         url: /contact
