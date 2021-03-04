@@ -16,10 +16,6 @@ sections:
       right, and we help you get there.
 
 
-      Redefine what's possible, give shape to the future—and get there.Help you
-      determine / be prepared for the future.
-
-
       As an independent consultancy we are on your side, there's plenty to get
       on with and we want to "put ourselves out of a job" and never looking to
       "land and expand". We act impartially to best meet your needs.
