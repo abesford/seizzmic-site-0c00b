@@ -83,7 +83,7 @@ sections:
         details: Security by Design
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Our cyber-security services
             url: lorem-ipsum
             style: link
             has_icon: false
