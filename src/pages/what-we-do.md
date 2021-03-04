@@ -98,8 +98,9 @@ sections:
     type: section_pricing
   - section_id: lorem-ipsum
     content: >
-      There's plenty of work to get on with, and we want to "put ourselves out
-      of a job", not "land and expand".
+      All of these can be tailored to as much or as little as you need. There's
+      plenty of work to get on with, and we want to "put ourselves out of a
+      job", not "land and expand".
     image_alt: lorem-ipsum
     background: gray
     actions: []
