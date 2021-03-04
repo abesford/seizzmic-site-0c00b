@@ -88,7 +88,7 @@ sections:
         subtitle: Better by design
         price: ''
         details: |
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Set up a Business Design team.
         highlight: false
         actions: []
         type: pricing_plan
