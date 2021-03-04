@@ -30,7 +30,7 @@ sections:
     background: gray
     pricing_plans:
       - title: See what's next
-        subtitle: Create a strategy for success.
+        subtitle: Create a strategy for success in the digital era.
         price: ''
         details: >
           We do the hard work to make it simple
