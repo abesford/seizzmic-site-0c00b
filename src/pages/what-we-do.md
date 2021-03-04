@@ -31,8 +31,13 @@ sections:
       - title: See what's next
         subtitle: create a strategy for success
         price: ''
-        details: |
+        details: >
           We do the hard work to make it simple
+
+
+          Redefine what's possible, give shape to the future—and get there.Help
+          you determine / be prepared for the future.
+
 
           link to inside / outside
         highlight: false
