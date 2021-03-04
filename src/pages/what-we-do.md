@@ -39,6 +39,14 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+      - title: Culture
+        subtitle: how do you work to be successful
+        price: ''
+        details: |
+          Understanding your customers/users and  meet their needs
+        highlight: false
+        actions: []
+        type: pricing_plan
       - title: Assess your change readiness
         subtitle: lorem-ipsum
         price: ''
@@ -73,14 +81,6 @@ sections:
         subtitle: lorem-ipsum
         price: ''
         details: Security by Design
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - title: Culture
-        subtitle: how do you work to be successful
-        price: ''
-        details: |
-          Understanding your customers/users and  meet their needs
         highlight: false
         actions: []
         type: pricing_plan
