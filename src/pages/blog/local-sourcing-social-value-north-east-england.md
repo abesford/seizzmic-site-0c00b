@@ -17,6 +17,10 @@ thumb_image: images/Newcastle_Quayside_with_bridges.jpg
 image: images/Newcastle_Quayside_with_bridges.jpg
 author: src/data/authors/person-8gt2bfyjn.json
 ---
+The post-Covid world is [likely to be less globalised, more regionalised and more fractious](https://www.economist.com/leaders/2020/05/14/has-covid-19-killed-globalisation).
+
+
+
 We are based in North East England and operate anywhere.
 
 makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere.
