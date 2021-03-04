@@ -97,7 +97,6 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >
       There's plenty of work to get on with, and we want to "put ourselves out
       of a job", not "land and expand".
