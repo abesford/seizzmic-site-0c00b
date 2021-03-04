@@ -49,6 +49,8 @@ sections:
         price: ''
         details: |
           Understanding your customers/users and  meet their needs
+
+          Prioritising business improvements
         highlight: false
         actions: []
         type: pricing_plan
