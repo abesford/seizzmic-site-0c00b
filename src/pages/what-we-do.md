@@ -35,6 +35,8 @@ sections:
         subtitle: create a strategy for success
         price: ''
         details: |
+          We do the hard work to make it simple
+
           link to inside / outside
         highlight: false
         actions: []
