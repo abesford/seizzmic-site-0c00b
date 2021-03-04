@@ -11,7 +11,7 @@ sections:
     image: images/responsive-web-design.png
     image_alt: App preview on a phone and tablet
     title: What we do
-    content: >
+    content: >+
       We help companies and public sector organisations get their strategy
       right, and help you get there.
 
@@ -24,8 +24,6 @@ sections:
       on with and we want to "put ourselves out of a job" and never looking to
       "land and expand". We act impartially to best meet your needs.
 
-
-      Collaborative and hands-on
     actions:
       - label: Get in touch
         url: /contact
