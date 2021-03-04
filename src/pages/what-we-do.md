@@ -54,12 +54,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Assess your change readiness
-        subtitle: lorem-ipsum
-        price: ''
-        highlight: false
-        actions: []
-        type: pricing_plan
       - title: Data
         subtitle: 'establish your vision for data, get quick results'
         price: ''
