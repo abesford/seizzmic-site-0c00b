@@ -79,7 +79,8 @@ sections:
       - title: Culture
         subtitle: how do you work to be successful
         price: ''
-        details: Understanding users and designing to meet their needs
+        details: |
+          Understanding your customers/users and  meet their needs
         highlight: false
         actions: []
         type: pricing_plan
