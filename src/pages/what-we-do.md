@@ -28,7 +28,7 @@ sections:
         style: secondary
   - section_id: services
     title: ''
-    subtitle: "there's no one-size-fits-all. we'll always customise this to meet your needs.\_Wealth of experience."
+    subtitle: "there's no one-size-fits-all. we'll always customise this to meet your needs.\_Wealth of experience. These are the things we could explore together."
     background: gray
     pricing_plans:
       - title: See what's next
