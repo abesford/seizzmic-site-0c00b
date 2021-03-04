@@ -67,7 +67,7 @@ sections:
           we could ...", build predictive models
         highlight: false
         actions:
-          - label: Find out more
+          - label: Our data services
             url: lorem-ipsum
             style: secondary
             has_icon: false
