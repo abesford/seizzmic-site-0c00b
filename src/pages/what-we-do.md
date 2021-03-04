@@ -24,7 +24,10 @@ sections:
         style: secondary
   - section_id: services
     title: ''
-    subtitle: "there's no one-size-fits-all. we'll always customise this to meet your needs.\_Wealth of experience. Collaborative and hands-on. These are the things we could explore together."
+    subtitle: >-
+      We have a wealth of experience in digital change. These are the things we
+      could explore together. There's no one-size-fits-all and we'll always
+      customise this to meet your needs.
     background: gray
     pricing_plans:
       - title: See what's next
