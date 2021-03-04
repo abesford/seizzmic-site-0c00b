@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - section_id: lorem-ipsum
-    title: Let's talk
+    title: Get in touch
     subtitle: Let's begin today. Conversation and collaboration.
     background: gray
     pricing_plans:
