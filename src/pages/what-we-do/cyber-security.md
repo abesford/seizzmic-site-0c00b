@@ -1,9 +1,6 @@
 ---
 title: Cyber-security
-subtitle: >-
-  Every industry is facing disruption. New and innovative challengers are
-  fundamentally changing market structures. And revenues have been impacted by
-  the challenges of the pandemic and leaving the EU.
+subtitle: Cyber-security is integral to delivering digital change.
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
 meta_description: ''
