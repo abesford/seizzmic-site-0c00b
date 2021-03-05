@@ -65,6 +65,11 @@ sections:
           to get results and how this can reshape your business model.
           demonstrate progress quickly and establish the bigger vision. "what if
           we could ...", build predictive models
+
+
+
+
+          data is the underlying capability that makes all this stuff possible
         highlight: false
         actions:
           - label: Our data services
