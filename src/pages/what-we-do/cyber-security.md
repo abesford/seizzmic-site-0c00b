@@ -15,17 +15,13 @@ Any vision for digital change needs to include security at its heart, and not ju
 
 have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles. Your organisation could be targeted by organised criminals, hacktivists or state actors, who may use attacks based on social engineering or spear phishing.
 
-
-
 ### We help senior leaders understand cyber-security better
 
 Transformation is a leadership problem and sits in the realm of the boardroom; it is made possible by leaders understanding what it means, and setting out a vision for the organisation. Those people generally don’t have a deep understanding of cybersecurity, but increasingly recognise how critical it is, because they have heard of WannaCry ransomware, Cambridge Analytica data mining, and British Airways/Marriott fines under GDPR.
 
-There is a fine trade off between making a service useful and making it safe. Often, senior leaders of organisations need help to understand the risks and the choices they face, so it was a big part of my job to clearly communicate the risks associated with projects and the mitigations that can be put in place.
+There is a fine trade off between making a service useful and making it safe. We help senior leaders of organisations understand the risks and the choices they face, and clearly communicate the mitigations that can be put in place.
 
 My view is that transformation leaders always have a role to play in security. This could be helping board members understand what good looks like, and helping them understand options and consequences. Equally it could be helping to raise colleagues’ awareness and understanding as part of a more general digital upskilling.
-
-
 
 ### We help you understand the human factors
 
@@ -37,15 +33,11 @@ Criminals might impersonate these services without the victim ever contacting th
 
 Within government agencies, for those who advise on policy, build technology solutions, and deliver front-line operations, there are also threats at the human level.
 
-
-
 ### We help you create the right conditions in your organisation for delivering new services
 
 Of course boards will always want to know “Are we secure, and compliant?” But when you are leading digital change, they probably also want to know “Why are we not more of a “digital business yet?”. So there has to be a security perspective on the organisation of the future. Frequently this means evolving the security focus so that it is not just about securing networks and endpoints, but extends to designing secure services.
 
 This means enabling people and empowering teams. Someone in your organisation is eventually going to end up attempting to do secure service design themselves – with or without any guidance from specialists. Cybersecurity practitioners need to collaborate across the organisation, avoid creating factions, and make sure it gets done right and integrates with your other layers of defence.
-
-
 
 ### We help you embrace digital change and experiment
 
