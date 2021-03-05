@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/feature1.png
-      - title: Solve the challenges to smarter working
+      - title: Solve the challenges to working digitally
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
