@@ -13,15 +13,13 @@ template: page
 ---
 Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through your plans, especially around people and technology.
 
-
-
-### Setting the vision fo cyber-security
+### Setting the vision for cyber-security
 
 Different organisations naturally handle different amounts of sensitive data and have different threat profiles. Your organisation could be targeted by organised criminals, hacktivists or state actors, who may use attacks based on social engineering or spear phishing.
 
-Digital services rely on balancing a low-friction user journey, with the need for proportionate controls to limit business risk. Designing this successfully can only be done by putting the users at the centre of the design. For public services this will touch on user identity, data ownership and sharing, minimising risk and administrative errors that could cause significant damage – all while respecting people’s privacy and rights.
+Digital services face a trade-off between being highly usable, and the need for controls that limit the risks faced by the organisation. To design this successfully it's vital to start with the needs of the users of the service. Done right, it can reduce the risks from fraud and administrative errors.
 
-
+Your future vision will need to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights.
 
 ### We help senior leaders understand cyber-security better
 
