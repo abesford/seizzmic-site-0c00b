@@ -19,19 +19,17 @@ Different organisations naturally handle different amounts of sensitive data and
 
 But all digital services face a trade-off between being highly usable, and the need for controls that limit the risks faced by the organisation. To design this successfully it's vital to start with the needs of the users of the service. Done right, it can reduce the risks from fraud and administrative errors.
 
-There are human factors that apply to the people who use your services, as well as the people working in your organisation. Your concerns could even extend to people you had no previous relationship with, for example if criminals impersonate your services without the victim ever contacting you. 
+There are human factors that apply to the people who use your services, as well as the people working in your organisation. Your concerns could even extend to people you had no previous relationship with, for example if criminals impersonate your services without the victim ever contacting you.
 
 Your future vision will need to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights. Success of this vision depends on the right infrastructure, for example to ensure that when people see an email from an address at your organisation, they can trust it.
 
 ### We help senior leaders understand cyber-security better
 
-Transformation is a leadership problem and sits in the realm of the boardroom; it is made possible by leaders understanding what it means, and setting out a vision for the organisation. Those people generally don’t have a deep understanding of cybersecurity, but increasingly recognise how critical it is, because they have heard of WannaCry ransomware, Cambridge Analytica data mining, and British Airways/Marriott fines under GDPR.
+Digital change is a leadership problem and sits in the realm of the boardroom; it is made possible by leaders understanding what it means, and setting out a vision for the organisation. Those people generally don’t have a deep understanding of cyber-security, but increasingly recognise how critical it is, because they have heard of WannaCry ransomware, Cambridge Analytica data mining, and British Airways/Marriott fines under GDPR.
 
-There is a fine trade off between making a service useful and making it safe. We help senior leaders of organisations understand the risks and the choices they face, and clearly communicate the mitigations that can be put in place.
+There is a fine trade off between making things useful and making them safe. We help senior leaders of organisations understand the risks and the choices they face, and clearly communicate the mitigations that can be put in place.
 
 We help digital change leaders play the right role in security. This could be helping board members understand what good looks like. Or it could be helping to raise colleagues’ awareness and understanding as part of a more general digital upskilling.
-
-
 
 ### We help you create the right conditions in your organisation for delivering new services
 
