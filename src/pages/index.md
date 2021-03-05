@@ -19,7 +19,7 @@ sections:
     title: >-
       Leading your organisation through digital change can be difficult. We help
       you make it happen.
-    content: "Our goal is to get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
+    content: "Our goal is to help get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
     image_alt: lorem-ipsum
     background: white
     actions: []
