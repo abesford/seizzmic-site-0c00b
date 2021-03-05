@@ -19,7 +19,7 @@ author: src/data/authors/person-8gt2bfyjn.json
 image: images/9.jpg
 thumb_image: images/9.jpg
 ---
-**The internet used to be a niche interest for academics and enthusiasts. Now it is part of almost everyone's day-to-day life.**
+**The internet used to be a niche interest for academics and enthusiasts. Now it's part of almost everyone's day-to-day life.**
 
 When the world wide web was created in 1989, only 0.5% of the world's population were online.
 
