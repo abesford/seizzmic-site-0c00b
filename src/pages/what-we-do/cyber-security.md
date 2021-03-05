@@ -21,7 +21,7 @@ The scale may be vast, but other challenges of transformation are the same as yo
 
 ## How does cybersecurity factor into your work?
 
- Different parts of the public sector have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles – for example DWP is a unique environment in that it pays out such a big percentage of our GDP directly to citizens.
+Different parts of the public sector have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles – for example DWP is a unique environment in that it pays out such a big percentage of our GDP directly to citizens.
 
 One key factor when you are building new digital services in this environment is that you have to be careful with which parts need an iterative test-and-learn approach, and which parts need a high-volume, stable and auditable approach. Sometimes this experimentation is essential, for example when creating new online services which you hope will change people’s behaviors. Other times this can be risky or impossible, for example if you consider the interface to the banking system. Using appropriate methods can be very hard if there is a context of “agile everywhere”, which has sometimes been dogmatic.
 
@@ -55,8 +55,16 @@ Within government agencies, for those who advise on policy, build technology sol
 
 As always this depends on the context, but there are three common themes I would highlight from recent work.
 
-Firstly, we need to help senior leaders understand cybersecurity better. Transformation is a leadership problem and sits in the realm of the boardroom; it is made possible by leaders understanding what it means, and setting out a vision for the organization. Those people generally don’t have a deep understanding of cybersecurity, but increasingly recognize how critical it is, because they have heard of WannaCry ransomware, Cambridge Analytica data mining, and British Airways/Marriott fines under GDPR.
 
-Secondly, we need to focus on creating the right conditions in the organization for delivering new services. This means enabling people and empowering teams. Someone in your organization is eventually going to end up attempting to do secure service design themselves – with or without any guidance from specialists. Cybersecurity practitioners need to collaborate across the organization, avoid creating factions, and make sure it gets done right and integrates with your other layers of defence.
 
-Finally, we need to embrace digital change and experiment. Any big organization needs to be able to operate while under persistent threats and sophisticated attacks. And you need your teams to be enabled to experiment (safely), test and learn what works, and continuously evolve services to deal with the evolving landscape they operate in. Security leaders can and should be at the heart of safely delivering the transformation ambition.
+# We help senior leaders understand cyber-security better
+
+Transformation is a leadership problem and sits in the realm of the boardroom; it is made possible by leaders understanding what it means, and setting out a vision for the organisation. Those people generally don’t have a deep understanding of cybersecurity, but increasingly recognize how critical it is, because they have heard of WannaCry ransomware, Cambridge Analytica data mining, and British Airways/Marriott fines under GDPR.
+
+# We help you create the right conditions in your organisation for delivering new services
+
+This means enabling people and empowering teams. Someone in your organization is eventually going to end up attempting to do secure service design themselves – with or without any guidance from specialists. Cybersecurity practitioners need to collaborate across the organization, avoid creating factions, and make sure it gets done right and integrates with your other layers of defence.
+
+# We help you embrace digital change and experiment
+
+Any big organization needs to be able to operate while under persistent threats and sophisticated attacks. And you need your teams to be enabled to experiment (safely), test and learn what works, and continuously evolve services to deal with the evolving landscape they operate in. Security leaders can and should be at the heart of safely delivering the transformation ambition.
