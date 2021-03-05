@@ -2,7 +2,8 @@
 title: Cyber-security
 subtitle: >-
   Staying cyber-secure is integral to delivering digital change. We help you
-  understand what's
+  understand what's going on, so you can keep your organisation and your
+  customers safe.
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
 meta_description: ''
