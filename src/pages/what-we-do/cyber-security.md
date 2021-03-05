@@ -35,7 +35,7 @@ We help digital change leaders play the right role in security. This could be he
 
 Of course boards will always want to know “Are we secure, and compliant?” But when you are leading digital change, they probably also want to know “Why are we not more of a “digital business yet?”. So there has to be a security perspective on the organisation of the future. Frequently this means evolving the security focus so that it is not just about securing networks and endpoints, but extends to designing secure services.
 
-This means enabling people and empowering teams. Someone in your organisation is eventually going to end up attempting to do secure service design themselves – with or without any guidance from specialists. Cybersecurity practitioners need to collaborate across the organisation, avoid creating factions, and make sure it gets done right and integrates with your other layers of defence.
+This means enabling people and empowering teams. Someone in your organisation is eventually going to end up attempting to do secure service design themselves – with or without any guidance from specialists. Cyber-security practitioners need to collaborate across the organisation, avoid creating factions, and make sure it gets done right and integrates with your other layers of defence.
 
 ### We help you embrace digital change and experiment
 
