@@ -19,7 +19,9 @@ Different organisations naturally handle different amounts of sensitive data and
 
 But all digital services face a trade-off between being highly usable, and the need for controls that limit the risks faced by the organisation. To design this successfully it's vital to start with the needs of the users of the service. Done right, it can reduce the risks from fraud and administrative errors.
 
-Your future vision will need to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights.
+There are human factors that apply to the people who use your services, as well as the people working in your organisation. Your concerns could even extend to people you had no previous relationship with, for example if criminals impersonate your services without the victim ever contacting you. 
+
+Your future vision will need to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights. Success of this vision depends on the right infrastructure, for example to ensure that when people see an email from an address at your organisation, they can trust it.
 
 ### We help senior leaders understand cyber-security better
 
@@ -29,13 +31,7 @@ There is a fine trade off between making a service useful and making it safe. We
 
 We help digital change leaders play the right role in security. This could be helping board members understand what good looks like. Or it could be helping to raise colleagues’ awareness and understanding as part of a more general digital upskilling.
 
-### We help you understand the human factors
 
-It’s impossible to overstate the human factor. In government terms this applies to the people who use government services, as well as the people working within government agencies.
-
-Criminals might impersonate these services without the victim ever contacting the agency in question, so this is in part a national problem, not an organisational one. For example, the UK’s tax, payments and customs authority (HMRC) has experienced significant criminal use of their brand, highlighting the need for a national response to protect citizens and ensure that when people see an email from an email address at your organisation they can trust it.
-
-Within government agencies, for those who advise on policy, build technology solutions, and deliver front-line operations, there are also threats at the human level.
 
 ### We help you create the right conditions in your organisation for delivering new services
 
