@@ -11,8 +11,6 @@ canonical_url: ''
 no_index: false
 template: page
 ---
-
-
 ## What pressures and dynamics were unique to digital transformation in the public sector?
 
 Public sector digital transformation programs tend to be driven by a mix of three key drivers – making efficiency improvements, improving the customer/citizen/user experience, and implementing the government’s policy agenda. Sometimes a new government policy can be an opportunity to modernize the way the whole of something works. Other times the policy might stay the same but there is an opportunity to deliver it in a modern and efficient way, which means making the best use of today’s digital delivery approaches and technologies. Eventually it will also mean adopting more internet business models but we are still in the very early stages of governments thinking in this way.
@@ -23,7 +21,7 @@ The scale may be vast, but other challenges of transformation are the same as yo
 
 ## How does cybersecurity factor into your work?
 
-Although my job title doesn’t say cybersecurity, it is absolutely integral to leading business transformation in this environment. Different parts of the public sector have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles – for example DWP is a unique environment in that it pays out such a big percentage of our GDP directly to citizens.
+ Different parts of the public sector have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles – for example DWP is a unique environment in that it pays out such a big percentage of our GDP directly to citizens.
 
 One key factor when you are building new digital services in this environment is that you have to be careful with which parts need an iterative test-and-learn approach, and which parts need a high-volume, stable and auditable approach. Sometimes this experimentation is essential, for example when creating new online services which you hope will change people’s behaviors. Other times this can be risky or impossible, for example if you consider the interface to the banking system. Using appropriate methods can be very hard if there is a context of “agile everywhere”, which has sometimes been dogmatic.
 
