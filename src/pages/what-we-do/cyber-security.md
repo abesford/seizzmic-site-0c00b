@@ -21,7 +21,7 @@ Transformation is a leadership problem and sits in the realm of the boardroom; i
 
 There is a fine trade off between making a service useful and making it safe. We help senior leaders of organisations understand the risks and the choices they face, and clearly communicate the mitigations that can be put in place.
 
-My view is that transformation leaders always have a role to play in security. This could be helping board members understand what good looks like, and helping them understand options and consequences. Equally it could be helping to raise colleagues’ awareness and understanding as part of a more general digital upskilling.
+We help digital change leaders play the right role in security. This could be helping board members understand what good looks like. Or it could be helping to raise colleagues’ awareness and understanding as part of a more general digital upskilling.
 
 ### We help you understand the human factors
 
