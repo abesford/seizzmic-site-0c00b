@@ -28,8 +28,15 @@ sections:
       Creating modern and efficient public institutions with users at their
       heart
     subtitle: >-
-      We can support your change journey, building on our deep public sector
-      digital and transformation expertise.
+      something changed during the pandemic, and that the need to accelerate
+      digital and data-enabled transformation of public services was more
+      universally accepted than ever. Interestingly, the strong Social Value
+      theme to the conference also accepted that we need to Do Digital
+      Differently post-pandemic, which means addressing a range of issues about
+      how we use data, how we behave collectively yet delivery locally, and how
+      we ensure a systemic approach to digitally-enabled public services that
+      leaves no-one behind. We can support your change journey, building on our
+      deep public sector digital and transformation expertise.
     background: gray
     features:
       - title: Setting a vison
