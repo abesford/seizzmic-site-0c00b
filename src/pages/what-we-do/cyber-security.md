@@ -11,9 +11,9 @@ canonical_url: ''
 no_index: false
 template: page
 ---
-Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through the story, especially around people and technology.
+Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through your plans, especially around people and technology.
 
- have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles. Your organisation could be targeted by organised criminals, hacktivists or state actors, who may use attacks based on social engineering or spear phishing.
+have aspects in common, for example the need to handle sensitive personal data. But different areas naturally have different threat profiles. Your organisation could be targeted by organised criminals, hacktivists or state actors, who may use attacks based on social engineering or spear phishing.
 
 Of course boards will always want to know “Are we secure, and compliant?” But when you are working on transformation, they probably also want to know “Why are we not more of a “digital business yet?”. So there has to be a security perspective on the organisation of the future. Frequently this means evolving the security focus so that it is not just about securing networks and endpoints, but extends to designing secure services.
 
@@ -31,9 +31,9 @@ It’s impossible to overstate the human factor. In government terms this applie
 
 Digital services rely on balancing a low-friction user journey, with the need for proportionate controls to limit business risk. Designing this successfully can only be done by putting the users at the centre of the design. For public services this will touch on user identity, data ownership and sharing, minimising risk and administrative errors that could cause significant damage – all while respecting people’s privacy and rights.
 
-Criminals might impersonate these services without the victim ever contacting the agency in question, so this is in part a national problem, not an organisational one. For example, the UK’s tax, payments and customs authority (HMRC) has experienced significant criminal use of their brand, highlighting the need for a national response to protect citizens and ensure that when people see an email from an email address at your organisation they can trust it. 
+Criminals might impersonate these services without the victim ever contacting the agency in question, so this is in part a national problem, not an organisational one. For example, the UK’s tax, payments and customs authority (HMRC) has experienced significant criminal use of their brand, highlighting the need for a national response to protect citizens and ensure that when people see an email from an email address at your organisation they can trust it.
 
-Within government agencies, for those who advise on policy, build technology solutions, and deliver front-line operations, there are also threats at the human level. 
+Within government agencies, for those who advise on policy, build technology solutions, and deliver front-line operations, there are also threats at the human level.
 
 ### We help you create the right conditions in your organisation for delivering new services
 
