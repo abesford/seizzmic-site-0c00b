@@ -1,6 +1,6 @@
 ---
 title: Cyber-security
-subtitle: Cyber-security is integral to delivering digital change.
+subtitle: Staying cyber-secure is integral to delivering digital change.
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
 meta_description: ''
