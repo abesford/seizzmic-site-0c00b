@@ -13,7 +13,7 @@ template: page
 ---
 Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through your plans, especially around people and technology.
 
-### Setting the vision for cyber-security
+### We help you build cyber-security into your vision
 
 Different organisations naturally handle different amounts of sensitive data and have different threat profiles.
 
