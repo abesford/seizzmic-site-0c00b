@@ -39,6 +39,6 @@ This means enabling people and empowering teams. Someone in your organisation is
 
 ### We help you embrace digital change and experiment
 
-Any big organisation needs to be able to operate while under persistent threats and sophisticated attacks. And you need your teams to be enabled to experiment (safely), test and learn what works, and continuously evolve services to deal with the evolving landscape they operate in. Security leaders can and should be at the heart of safely delivering the transformation ambition.
+Any big organisation needs to be able to operate while under persistent threats and sophisticated attacks. And you need your teams to be enabled to experiment safely, test and learn what works, and continuously evolve services to deal with the evolving landscape they operate in. Security leaders can and should be at the heart of safely delivering the transformation ambition.
 
 One key factor when you are building new digital services in this environment is that you have to be careful with which parts need an iterative test-and-learn approach, and which parts need a high-volume, stable and auditable approach. Sometimes this experimentation is essential, for example when creating new online services which you hope will change people’s behaviours. Other times this can be risky or impossible, for example if you  interface to the banking system. Trying to be "Agile everywhere" is normally too simplistic.
