@@ -11,13 +11,7 @@ canonical_url: ''
 no_index: false
 template: page
 ---
-Andrew Besford has over 20 years’ experience in technology-enabled business transformation. His early career was in the telecoms industry, in both in-house and consultancy roles in a number of countries, most recently at UK mobile operator O2. Andrew joined the UK Civil Service at the start of 2014, initially to set up business transformation at the Department for Work and Pensions, where he was responsible for developing a compelling vision for the future of the organization. Andrew then joined the [Cabinet Office](https://www.gov.uk/government/organisations/cabinet-office) as deputy director of the Government Digital Service, and led the creation of the Government Transformation Strategy, which was published in February 2017. Andrew holds a degree in Computer Science from Cambridge.
 
-## As we have a global readership, can you give a brief explanation of your work with the Department for Work and Pensions and UK government?
-
-My first job as a civil servant was in 2014, where I established the business transformation programme to modernize the Department for Work and Pensions (DWP).  DWP is the UK’s biggest public service delivery department, and has a long history of administering the state pension and a range of benefits. Its operation distributes around £167bn of benefits per year (£650m per day, in 2.8m separate payments). The business costs around £8bn per year to run, employs 95,000 people, and delivers face-to-face services through 720 Job Centres. The big themes of the transformation were around secure self-service wherever possible, intelligent use of data, and process automation. I later moved to the Government Digital Service to work on the portfolio of digitally-enabled transformation programs across UK government.
-
-Across all of these themes of transformation, we were constantly balancing the pace of technological change with the ability of the organization to adapt to new ways of working. With public services that people depend on, it’s always vital to consider how the organization will continue to serve people reliably whilst it is changing. Sometimes this means you need to make incremental changes, because a major technological overhaul and starting from the ground up would be too high risk, even though it may appear to be a better technology solution.
 
 ## What pressures and dynamics were unique to digital transformation in the public sector?
 
