@@ -91,7 +91,7 @@ sections:
           situation from the vast array of approaches, products and services on
           offer.
         actions:
-          - label: Our ideas
+          - label: Our thinking
             url: /blog
             style: secondary
             has_icon: true
