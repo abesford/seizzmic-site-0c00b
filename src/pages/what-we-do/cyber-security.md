@@ -21,7 +21,7 @@ But all digital services face a trade-off between being highly usable, and the n
 
 There are human factors that apply to the people who use your services, as well as the people working in your organisation. Your concerns could even extend to people you had no previous relationship with, for example if criminals impersonate your services without the victim ever contacting you.
 
-Your future vision will need to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights. Success of this vision depends on the right infrastructure, for example to ensure that when people see an email from an address at your organisation, they can trust it.
+Your future vision needs to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights. Success of this vision depends on the right infrastructure, for example to ensure that when people see an email from an address at your organisation, they can trust it.
 
 ### We help senior leaders understand cyber-security better
 
