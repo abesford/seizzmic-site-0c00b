@@ -47,7 +47,7 @@ sections:
           - label: Our work in public sector
             url: /sectors/public-sector
             style: secondary
-        highlight: true
+        highlight: false
       - title: Health
         subtitle: ''
         price: ''
