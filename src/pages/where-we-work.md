@@ -91,7 +91,7 @@ sections:
         highlight: false
         actions:
           - label: Our work in mid-sized businesses
-            url: /sectors/enterprise
+            url: /sectors/business
             style: secondary
             has_icon: false
             icon: arrow-left
