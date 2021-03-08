@@ -85,8 +85,8 @@ sections:
           What can you do with your data? How to stay secure?
 
 
-          We're impartial. We help you weave together the best choices for your
-          situation from the vast array of approaches, products and services on
+          We're impartial. We help you bring together the best choices for your
+          situation, from the vast array of approaches, products and services on
           offer.
         actions:
           - label: Our thinking
