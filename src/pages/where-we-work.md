@@ -90,7 +90,7 @@ sections:
           long-term success.
         highlight: false
         actions:
-          - label: Find out more
+          - label: Our work in mid-sized businesses
             url: /sectors/enterprise
             style: secondary
             has_icon: false
