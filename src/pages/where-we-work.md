@@ -29,7 +29,7 @@ sections:
           next.
         highlight: false
         actions:
-          - label: Find out more
+          - label: Our work in enterprises
             url: /sectors/enterprise
             style: secondary
       - title: Public sector
