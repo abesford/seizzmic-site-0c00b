@@ -58,7 +58,7 @@ sections:
           laborum.
         highlight: false
         actions:
-          - label: What we do in health
+          - label: Our work in health
             url: /sectors/health
             style: secondary
             has_icon: false
