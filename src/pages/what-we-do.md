@@ -79,7 +79,7 @@ sections:
         details: Security by Design
         highlight: false
         actions:
-          - label: More about our cyber-security services
+          - label: Our cyber-security services
             url: /what-we-do/cyber-security
             style: secondary
             has_icon: false
