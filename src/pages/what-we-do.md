@@ -71,16 +71,7 @@ sections:
 
           data is the underlying capability that makes all this stuff possible
         highlight: false
-        actions:
-          - label: Our data services
-            url: /what-we-do/data
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: pricing_plan
       - title: Cyber-security
         subtitle: lorem-ipsum
