@@ -56,11 +56,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          People make change happen, not technology.
-
-
-          We bring your teams together, to plot a course, focus your efforts,
-          and make your organisation stronger to deal with today's challenges.
+          People make change happen. We bring your teams together, to plot a
+          course, focus your efforts, and make your organisation stronger to
+          deal with today's challenges.
 
 
           That might be building new skills and capabilities, automating
