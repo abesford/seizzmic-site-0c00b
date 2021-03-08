@@ -1,9 +1,9 @@
 ---
 title: Enterprises need to be more competitive and high-performing than ever before
 subtitle: >-
-  Every industry is facing disruption. New and innovative challengers are
-  fundamentally changing market structures. And revenues have been impacted by
-  the challenges of the pandemic and leaving the EU.
+  Globalisation opens up new and exciting opportunities for mid-cap businesses.
+  But many smaller players become victims of increasing global consolidation by
+  larger multinationals.
 image_alt: lorem-ipsum
 meta_title: seizzmic for Enterprise
 meta_description: ''
