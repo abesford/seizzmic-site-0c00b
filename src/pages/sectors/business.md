@@ -15,7 +15,7 @@ Mid-sized businesses play an important role in the economy, whether focussed on 
 
 We help businesses with turnover of around £25m-£500m per year, or around 250 employees, set out a more digital vision appropriate to their size and ambitions, and put actions in place to support their long-term success.
 
-Things we typically help enterprises with.
+Things we typically help mid-sized businesses with.
 
 ### Lorem ipsum
 
