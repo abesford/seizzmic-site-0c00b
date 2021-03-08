@@ -72,18 +72,6 @@ sections:
         subtitle: ''
         price: ''
         details: >
-          Mid-sized businesses play an important role in the economy, whether
-          focussed on machinery, chemicals, construction or electrical
-          equipment. They may be in family ownership, and are known for their
-          long-term continuity, investment into the workforce, and close
-          involvement with local communities.
-
-
-          Globalisation opens up new and exciting opportunities for mid-cap
-          businesses. But many smaller players become victims of increasing
-          global consolidation by larger multinationals.
-
-
           We help businesses with turnover of around £25m-£500m per year, or
           around 250 employees, set out a more digital vision appropriate to
           their size and ambitions, and put actions in place to support their
