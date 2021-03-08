@@ -44,7 +44,7 @@ sections:
           proident, sunt in culpa qui officia deserunt mollit anim id est
           laborum.
         actions:
-          - label: Find out more
+          - label: Our work in public sector
             url: /sectors/public-sector
             style: secondary
         highlight: false
