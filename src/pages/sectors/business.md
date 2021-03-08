@@ -1,5 +1,5 @@
 ---
-title: Enterprises need to be more competitive and high-performing than ever before
+title: 'Mid-sized businesses lorem ipsum dolor, sit amet sed'
 subtitle: >-
   Globalisation opens up new and exciting opportunities for mid-cap businesses.
   But many smaller players become victims of increasing global consolidation by
