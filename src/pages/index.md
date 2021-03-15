@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/feature1.png
-      - title: Work and think digitally
+      - title: Think and work digitally
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
