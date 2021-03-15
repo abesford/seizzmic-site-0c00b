@@ -16,8 +16,8 @@ sections:
       make it happen.
 
 
-      As an independent consultancy we're collaborative and hands-on. We're
-      impartial and can be "on your side" working with you and your suppliers.
+      We're independent and impartial, and "on your side" working with you and
+      your suppliers.
     actions:
       - label: Get in touch
         url: /contact
