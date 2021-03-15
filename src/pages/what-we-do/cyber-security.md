@@ -1,5 +1,5 @@
 ---
-title: Cyber-security
+title: Secure by design
 subtitle: >-
   Staying cyber-secure is integral to delivering digital change. We help you
   understand what's going on, so you can keep your organisation and your
