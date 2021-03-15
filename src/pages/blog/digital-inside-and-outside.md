@@ -14,7 +14,7 @@ author: src/data/authors/person-8gt2bfyjn.json
 image: images/6.jpg
 thumb_image: images/6.jpg
 ---
-not just the mechanics of the machine but making it better for citizens
+not just the mechanics of the machine but making it better for users/citizens
 
 modernisation is doing the process better - better sameness
 
