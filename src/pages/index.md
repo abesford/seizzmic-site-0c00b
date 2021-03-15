@@ -83,9 +83,8 @@ sections:
           What can you do with your data? How to stay secure?
 
 
-          We're impartial. We help you bring together the best choices for your
-          situation, from the vast array of approaches, products and services on
-          offer.
+          We're impartial, and help you make the best choices for your
+          situation.
         actions:
           - label: Our thinking
             url: /blog
