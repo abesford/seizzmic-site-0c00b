@@ -25,7 +25,7 @@ There are human factors that apply to the people who use your services, as well 
 
 Your future vision needs to have a clear position on areas like user identity, data ownership and sharing, and respect for people’s privacy and rights. Success of this vision depends on the right infrastructure, for example to ensure that when people see an email from an address at your organisation, they can trust it.
 
-### Help senior leaders understand cyber-security better
+### Ensure senior leaders understand enough about cyber-security
 
 Digital change is a leadership problem and sits in the realm of the boardroom; it is made possible by leaders understanding what it means, and setting out a vision for the organisation. Those people generally don’t have a deep understanding of cyber-security, but increasingly recognise how critical it is, because they have heard of WannaCry ransomware, Cambridge Analytica data mining, and British Airways/Marriott fines under GDPR.
 
