@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/feature1.png
-      - title: Solve the challenges to working digitally
+      - title: Work and think digitally
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
