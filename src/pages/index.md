@@ -73,9 +73,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          We have a deep understanding of technology, and can help you work out
-          the processes, business models and technologies that will work for
-          you.
+          We bring together digital strategy and technology expertise. We help
+          you identify the processes, business models and technologies that will
+          work best for your business.
 
 
           Lasting change depends on you setting out a compelling vision for the
