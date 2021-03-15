@@ -101,9 +101,10 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
-    content: >
-      All of these can be tailored to as much or as little as you need. We don't
-      "land and expand".
+    content: |
+      All of these can be tailored to as much or as little as you need.
+
+      We don't "land and expand".
     image_alt: lorem-ipsum
     background: gray
     actions: []
