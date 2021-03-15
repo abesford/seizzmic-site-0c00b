@@ -50,6 +50,8 @@ sections:
         details: |
           Understanding your customers/users and  meet their needs
 
+          We know how to deliver change in complex environments
+
           Prioritising business improvements
         highlight: false
         actions: []
