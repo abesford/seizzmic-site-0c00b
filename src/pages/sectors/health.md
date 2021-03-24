@@ -63,8 +63,8 @@ sections:
         image: images/nerve-centre.png
       - title: lorem-ipsum
         content: >
-          Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore
-          et dolore magna aliqua.
+          e.g. cyber-security across the health enterprise - impact of a cyber
+          attack can be very significant.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
