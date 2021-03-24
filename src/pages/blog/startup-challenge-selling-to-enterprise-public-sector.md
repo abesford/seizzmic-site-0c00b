@@ -18,8 +18,8 @@ image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
 thumb_image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
 author: src/data/authors/person-8gt2bfyjn.json
 ---
-You have a brilliant product
-
-You know selling to large enterprises / public sector can help you scale / great case study / generate significant revenue stream
+You have a brilliant product - You know selling to large enterprises / public sector can help you scale / great case study / generate significant revenue stream
 
 issues bringing a startup into a large enterprise due to their lack of experience dealing with large enterprise processes and governance
+
+help grow your business
