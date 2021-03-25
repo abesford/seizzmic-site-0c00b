@@ -4,16 +4,21 @@ subtitle: >-
   Staying cyber-secure is integral to delivering digital change. We help you
   understand what's going on, so you can keep your organisation and your
   customers safe.
-image_alt: lorem-ipsum
-meta_title: seizzmic for Enterprise
-meta_description: ''
+meta_title: seizzmic Cyber-security
+meta_description: >-
+  Staying cyber-secure is integral to delivering digital change. We help you
+  understand what's going on, so you can keep your organisation and your
+  customers safe.
 canonical_url: ''
 no_index: false
 template: page
+image: >-
+  images/benefits-of-managed-IT-services-types-of-managed-services-IT-service-management-computer-management-services.jpeg
+image_alt: Cyber-security
 ---
 Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through your plans, especially around people and technology.
 
-We can help:
+Here's how we can help you be more secure by design:
 
 ### Build cyber-security into your vision
 
