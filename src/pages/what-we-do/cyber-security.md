@@ -14,6 +14,7 @@ no_index: false
 template: page
 image: >-
   images/benefits-of-managed-IT-services-types-of-managed-services-IT-service-management-computer-management-services.jpeg
+image_alt: Cyber-security
 ---
 Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through your plans, especially around people and technology.
 
