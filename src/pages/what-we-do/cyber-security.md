@@ -50,4 +50,4 @@ Any big organisation needs to be able to operate while under persistent threats 
 
 One key factor when you are building new digital services in this environment is that you have to be careful with which parts need an iterative test-and-learn approach, and which parts need a high-volume, stable and auditable approach. Sometimes this experimentation is essential, for example when creating new online services which you hope will change people’s behaviours. Other times this can be risky or impossible, for example if you  interface to the banking system. Trying to be "Agile everywhere" is normally too simplistic.
 
-[Contact us](https://seizzmic.com/contact)
+**seizzmic** helps [all kinds of organisations](https://) be more confident in their cyber-security. [Contact us](https://seizzmic.com/contact).
