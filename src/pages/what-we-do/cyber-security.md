@@ -5,7 +5,10 @@ subtitle: >-
   understand what's going on, so you can keep your organisation and your
   customers safe.
 meta_title: seizzmic Cyber-security
-meta_description: ''
+meta_description: >-
+  Staying cyber-secure is integral to delivering digital change. We help you
+  understand what's going on, so you can keep your organisation and your
+  customers safe.
 canonical_url: ''
 no_index: false
 template: page
