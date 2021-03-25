@@ -13,7 +13,7 @@ template: page
 ---
 Any vision for digital change needs to include security at its heart, and not just include it as an afterthought. This can be a juggle because other themes must also run strongly through your plans, especially around people and technology.
 
-We can help:
+Here's how we can help you be more secure by design:
 
 ### Build cyber-security into your vision
 
