@@ -14,7 +14,7 @@ canonical_url: ''
 no_index: false
 template: post
 thumb_image: images/Newcastle_Quayside_with_bridges_thumb.jpg
-image: images/Newcastle_Quayside_with_bridges.jpg
+image: images/Newcastle_Quayside_with_bridges_post.jpg
 author: src/data/authors/person-8gt2bfyjn.json
 ---
 The post-Covid world is [likely to be less globalised, more regionalised and more fractious](https://www.economist.com/leaders/2020/05/14/has-covid-19-killed-globalisation).
