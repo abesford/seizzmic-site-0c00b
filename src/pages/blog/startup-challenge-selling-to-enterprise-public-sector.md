@@ -15,7 +15,7 @@ canonical_url: ''
 no_index: false
 template: post
 image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
-thumb_image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
+thumb_image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009_thumb.jpeg'
 author: src/data/authors/person-8gt2bfyjn.json
 ---
 You have a brilliant product - You know selling to large enterprises / public sector can help you scale / great case study / generate significant revenue stream
