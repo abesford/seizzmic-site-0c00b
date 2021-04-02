@@ -13,7 +13,7 @@ meta_description: ''
 canonical_url: ''
 no_index: false
 template: post
-thumb_image: images/Newcastle_Quayside_with_bridges.jpg
+thumb_image: images/Newcastle_Quayside_with_bridges_thumb.jpg
 image: images/Newcastle_Quayside_with_bridges.jpg
 author: src/data/authors/person-8gt2bfyjn.json
 ---
