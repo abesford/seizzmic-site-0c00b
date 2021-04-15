@@ -101,8 +101,6 @@ sections:
         image: images/10.jpg
       - title: interesting areas
         content: >
-
-
           channels
 
 
@@ -114,6 +112,57 @@ sections:
 
           customer experience, human centred, data-led - personalisation and
           segmentation
+
+
+          "A lot of governments still think about technology as something they
+          can graft onto their existing ways of working to make things run a
+          little bit faster and / or cheaper. What many fail to grasp is that
+          real digital transformation runs much deeper: not just seeking to
+          improve industrial-era bureaucracies at the margins but rather to
+          re-imagine them altogether for the internet era."
+
+
+          "This is where the comparison between running a country and running a
+          company is most instructive. A company put in charge of the business
+          of government would view the citizen as the customer — and
+          consequently build government services around them based on a
+          sophisticated understanding of user needs."
+
+
+          "delivering on user needs isn’t about changing websites but rather
+          about changing government itself.After all, an obsolete operating
+          model made incrementally better is still an obsolete operating model
+          (if you don’t believe me, ask Blockbuster)."
+
+
+          "There is huge potential to improve public services by fusing digital
+          technologies with a laser focus on user needs. There are also some
+          important considerations that weigh more heavily on the state than on
+          private companies."
+
+
+          "Unlike companies, governments can’t choose their customers or opt out
+          of serving difficult demographics.
+
+
+          "For too long now, governments’ monopolies on public service delivery
+          have insulated them from the internet revolution.
+
+
+
+
+          "At first, as the gap between our experiences as citizens and as
+          internet-era consumers started to widen, it was easy to shrug it off.
+          Being on the cutting edge of innovation is exciting but also risky and
+          expensive, and not where we expect most public services to be.
+
+
+          "Now that great digital experiences are commonplace in our lives,
+          however, a yawning chasm between the user experience in public
+          services and everything else may be a bigger risk that many political
+          leaders realise — particularly if repeated disappointment causes some
+          people seriously to question the point of speaking up, showing up to
+          vote or paying the tax they owe."
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
