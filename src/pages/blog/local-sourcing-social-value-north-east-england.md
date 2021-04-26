@@ -19,13 +19,13 @@ author: src/data/authors/person-8gt2bfyjn.json
 ---
 The post-Covid world is [likely to be less globalised, more regionalised and more fractious](https://www.economist.com/leaders/2020/05/14/has-covid-19-killed-globalisation).
 
-
-
-We are based in North East England and operate anywhere.
+We are based in North East England and operate anywhere. (demonstrate how we will add social value and support delivery.)
 
 makes geography matter much less. And we have remote work becoming mainstream which means startups can be located anywhere and hire from anywhere.
 
-public procurement policy - social value
+public procurement policy - social value - buyers evaluate social value when awarding contracts, which is now a mandatory requirement for central government contracts this year. drive to open up public procurement to more SMEs
+
+"enable public sector buyers across Central Government, Local Government, Housing Associations, Blue Light, NHS, Universities, Schools and Non-Departmental Public Bodies to deliver against their social value goals
 
 big procurers can use their influence locally
 
