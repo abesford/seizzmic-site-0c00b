@@ -101,6 +101,12 @@ sections:
         image: images/10.jpg
       - title: interesting areas
         content: >
+          understand importance of digital. we have realised the value of good
+          digitally-enabled services - grounds for optimism
+
+
+
+
           channels
 
 
@@ -147,8 +153,6 @@ sections:
 
           "For too long now, governments’ monopolies on public service delivery
           have insulated them from the internet revolution.
-
-
 
 
           "At first, as the gap between our experiences as citizens and as
