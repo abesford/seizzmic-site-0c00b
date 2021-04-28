@@ -3,17 +3,14 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     title: Do extraordinary things
-    content: >-
-      ## Lorem ipsum
+    content: >
+      More than ever, organisations need to become more digital to survive and
+      thrive.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Being digital is about much more than your website. It is the way to
+      radically improve how your organisation works, and how you interact with
+      your customers.
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
