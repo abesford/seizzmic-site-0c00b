@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/photo-1601735479770-bb5de9dbe844.jpeg
+        image: images/responsive-web-design.png
       - title: Think and work digitally
         image: images/responsive-web-design.png
         image_alt: App users welcoming a new member
