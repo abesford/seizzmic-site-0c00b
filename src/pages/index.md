@@ -8,6 +8,7 @@ sections:
     background: white
     actions: []
     type: section_content
+    image: images/photo-1615153633888-da0f14b3c2fe.jpeg
   - section_id: features
     type: section_features
     background: gray
