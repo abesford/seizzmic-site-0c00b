@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Do extraordinary things
     content: >-
       ## Lorem ipsum
 
