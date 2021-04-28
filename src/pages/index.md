@@ -11,7 +11,7 @@ sections:
       Being digital is about much more than your website. It is the way to
       radically improve how your organisation works, and how you interact with
       your customers.
-    image_alt: lorem-ipsum
+    image_alt: Navigation
     actions: []
     type: section_hero
     image: images/photo-1615153633888-da0f14b3c2fe.jpeg
