@@ -51,7 +51,7 @@ sections:
             icon_position: right
         image: images/photo-1601735479770-bb5de9dbe844.jpeg
       - title: Think and work digitally
-        image: images/feature2.png
+        image: images/responsive-web-design.png
         image_alt: App users welcoming a new member
         content: >
           People make change happen. We bring your teams together, to plot a
