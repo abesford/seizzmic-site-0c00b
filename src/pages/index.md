@@ -1,20 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    image_alt: Online meeting
-    title: Do extraordinary things
-    content: >
-      More than ever, organisations need to become more digital to survive and
-      thrive.
-
-
-      Being digital is about much more than your website. It is the way to
-      radically improve how your organisation works, and how you interact with
-      your customers.
-    actions: []
-    image: images/photo-1601735479770-bb5de9dbe844.jpeg
   - section_id: we-help-you
     title: Lead your organisation through digital change.
     content: "Our goal is to help get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
