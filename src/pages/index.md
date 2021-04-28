@@ -1,13 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: we-help-you
-    title: Lead your organisation through digital change.
-    content: "Our goal is to help get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
-    image_alt: lorem-ipsum
-    background: white
-    actions: []
-    type: section_content
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
@@ -24,6 +17,13 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+  - section_id: we-help-you
+    title: Lead your organisation through digital change.
+    content: "Our goal is to help get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
+    image_alt: lorem-ipsum
+    background: white
+    actions: []
+    type: section_content
   - section_id: features
     type: section_features
     background: gray
