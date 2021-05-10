@@ -69,7 +69,7 @@ sections:
         subtitle: 'Turnover £25m-£500m per year, or around 250 employees'
         price: ''
         details: >
-          We help mid-size businesses set out a digital vision appropriate to
+          We help mid-size businesses create a digital vision appropriate to
           their size and ambitions, and put actions in place to support their
           long-term success.
         highlight: false
