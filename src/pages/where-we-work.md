@@ -33,7 +33,7 @@ sections:
             url: /sectors/enterprise
             style: secondary
       - title: Public sector
-        subtitle: ''
+        subtitle: Central and local government
         price: ''
         details: >
           Central and local government
