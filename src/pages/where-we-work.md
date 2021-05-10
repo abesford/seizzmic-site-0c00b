@@ -66,7 +66,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Mid-sized businesses
-        subtitle: 'Turnover around £25m-£500m per year, or around 250 employees'
+        subtitle: Turnover around £25m-£500m per year / or around 250 employees
         price: ''
         details: >
           We help businesses with turnover of around £25m-£500m per year, or
