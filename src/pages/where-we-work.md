@@ -76,7 +76,7 @@ sections:
           around 250 employees, set out a more digital vision appropriate to
           their size and ambitions, and put actions in place to support their
           long-term success.
-        highlight: false
+        highlight: true
         actions:
           - label: Our work in mid-sized businesses
             url: /sectors/business
