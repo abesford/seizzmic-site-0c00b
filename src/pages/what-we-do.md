@@ -33,8 +33,9 @@ sections:
           to make it simple. See what's next
 
 
-          Redefine what's possible, give shape to the future—and get there.Help
-          you determine / be prepared for the future.
+          Redefine what's possible, give shape to the future—and get there.
+          improve the way you deliver your products and services. Help you
+          determine / be prepared for the future.
 
 
           link to inside / outside
