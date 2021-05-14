@@ -53,7 +53,10 @@ sections:
       - title: Make better use of data
         price: ''
         details: >
-          **Establish your vision for data.**
+          **Get greater insight and make better decisions.**
+
+
+          Establish your vision for data.
 
 
           get quick results
