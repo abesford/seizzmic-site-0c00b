@@ -93,7 +93,12 @@ sections:
         type: pricing_plan
       - title: Stay cyber-secure
         price: ''
-        details: Security by Design
+        details: >
+          **Keep your organisation and your customers safe as you deliver
+          services online.**
+
+
+          We'll help you ... Security by Design
         highlight: false
         actions:
           - label: Our cyber-security services
