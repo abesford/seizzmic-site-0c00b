@@ -105,11 +105,9 @@ sections:
     type: section_pricing
   - section_id: lorem-ipsum
     content: >
-      We don't "land and expand".
-
-
-      We're independent and impartial, and "on your side" working with you and
-      your suppliers.
+      Because we're independent and impartial, we can be "on your side" working
+      with you and your suppliers. We will give you advice that makes sense in
+      your organisation, and we'll support your teams to take action.
     image_alt: lorem-ipsum
     background: gray
     actions: []
