@@ -96,7 +96,6 @@ sections:
             type: action
         type: pricing_plan
       - title: Architecture
-        subtitle: Better by design
         price: ''
         details: |
           Set up a Business Design team.
