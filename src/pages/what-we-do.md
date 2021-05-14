@@ -104,8 +104,8 @@ sections:
       - title: Design your future
         price: ''
         details: >
-          We help make sense of how your business needs to change to meet its
-          biggest challenges and deliver your vision.
+          **Make sense of how your business needs to change to meet its biggest
+          challenges and deliver your vision.**
 
 
           We'll help you get all the elements of your business working
