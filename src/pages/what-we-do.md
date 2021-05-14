@@ -102,12 +102,31 @@ sections:
         type: pricing_plan
       - title: Design your future
         price: ''
-        details: |
+        details: >
           Be better by design
+
 
           Architecture
 
+
           Set up a Business Design team.
+
+
+          We help you get all the elements of your business working brilliantly
+          together 
+
+
+          so that your organisation is ready to meet its biggest challenges.
+
+
+          make sense of how your  business operations need to change in response
+
+          bring together all the elements of your business in a seamless design,
+          including how you serve your customers, organise and operate, use
+          technology, and make money
+
+          deliver your plans by ensuring the improvements are embedded deep in
+          your business so they have lasting impact.
         highlight: false
         actions: []
         type: pricing_plan
