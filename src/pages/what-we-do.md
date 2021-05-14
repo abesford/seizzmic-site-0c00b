@@ -57,7 +57,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Assess your digital readiness
+      - title: Support your digital leadership
         subtitle: Culture / how do you work to be successful
         price: ''
         details: >
