@@ -39,7 +39,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: "Culture /\_Assess your change readiness"
-        subtitle: how do you work to be successful
+        subtitle: Culture / how do you work to be successful
         price: ''
         details: |
           Understanding your customers/users and  meet their needs
