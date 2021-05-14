@@ -78,7 +78,7 @@ sections:
           We know how to deliver change in complex environments
 
 
-          Prioritising business improvements
+          Prioritising business improvements, how you do procurement
 
 
           Help your leadership be more digital and confident about their
