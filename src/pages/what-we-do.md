@@ -40,7 +40,7 @@ sections:
           link to inside / outside
 
 
-          create a compelling vision and bring it to life around your
+          create a compelling vision, and bring it to life around your
           organisation.
         highlight: false
         actions: []
