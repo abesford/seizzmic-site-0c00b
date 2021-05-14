@@ -77,24 +77,29 @@ sections:
         type: pricing_plan
       - title: Support your digital leadership
         price: ''
-        details: |
+        details: >
           **Help your leadership be more digital.**
 
-           and confident about their decisions.
+
+          and confident about their decisions.
+
 
           Culture / how do you work to be successful
 
+
           Understanding your customers/users and  meet their needs
 
+
           We know how to deliver change in complex environments
+
 
           Prioritising business improvements, how you do procurement
 
 
 
-          Continuously innovate and think digitally.
 
-          Understand the skills you need to develop
+          We'll help you understand the skills your teams need to develop, so
+          that you can continuously innovate and think digitally.
         highlight: false
         actions: []
         type: pricing_plan
