@@ -50,7 +50,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Data
+      - title: Make best use of data
         subtitle: 'establish your vision for data, get quick results'
         price: ''
         details: >
