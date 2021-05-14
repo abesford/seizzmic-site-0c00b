@@ -45,8 +45,8 @@ sections:
           link to inside / outside
 
 
-          create a compelling vision, and bring it to life around your
-          organisation.
+          We'll help you create a compelling vision, and bring it to life around
+          your organisation.
         highlight: false
         actions: []
         type: pricing_plan
