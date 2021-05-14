@@ -29,7 +29,8 @@ sections:
       - title: Develop your digital strategy
         price: ''
         details: >
-          We do the hard work to make it simple. See what's next
+          Create a strategy for success in the digital era. We do the hard work
+          to make it simple. See what's next
 
 
           Redefine what's possible, give shape to the future—and get there.Help
