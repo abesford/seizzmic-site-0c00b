@@ -22,8 +22,8 @@ sections:
     title: ''
     subtitle: >-
       We have a wealth of experience to support your digital change journey.
-      There's no one-size-fits-all and we'll always tailor what we do to as much
-      or as little as you need.
+      There's no "one-size-fits-all" and we'll always tailor what we do to as
+      much or as little as you need.
     background: gray
     pricing_plans:
       - title: Develop your digital strategy
