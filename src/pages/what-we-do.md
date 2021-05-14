@@ -88,6 +88,9 @@ sections:
 
           Help your leadership be more digital and confident about their
           decisions.
+
+
+          Continuously innovate and think digitally.
         highlight: false
         actions: []
         type: pricing_plan
