@@ -38,7 +38,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: "Culture /\_Assess your change readiness"
+      - title: Assess your digital readiness
         subtitle: Culture / how do you work to be successful
         price: ''
         details: |
