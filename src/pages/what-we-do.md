@@ -105,8 +105,12 @@ sections:
         price: ''
         details: >
           We help you get all the elements of your business working brilliantly
-          together, especially around your technology architecture and
-          organisation design.
+          together, 
+
+
+          bring together all the elements of your business in a seamless design,
+          including the ways you serve your customers, how you operate, your
+          organisation design, and your technology architecture.
 
 
           so that your organisation is ready to meet its biggest challenges as
@@ -114,10 +118,6 @@ sections:
 
 
           make sense of how your  business operations need to change in response
-
-          bring together all the elements of your business in a seamless design,
-          including how you serve your customers, organise and operate, use
-          technology
 
 
           We can help you set up a Business Design team to make sure these
