@@ -44,6 +44,9 @@ sections:
       - title: Make better use of data
         price: ''
         details: >
+          establish your vision for data, get quick results
+
+
           strategy, identify key areas, collect and analyse, insight into action
 
 
@@ -51,8 +54,6 @@ sections:
           to get results and how this can reshape your business model.
           demonstrate progress quickly and establish the bigger vision. "what if
           we could ...", build predictive models
-
-
 
 
           data is the underlying capability that makes all this stuff possible
