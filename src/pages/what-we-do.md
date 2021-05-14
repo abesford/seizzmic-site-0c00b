@@ -104,12 +104,9 @@ sections:
       - title: Design your future
         price: ''
         details: >
-          We work with you to design your organisation. Be better by design
-
-
-          We help you get all the elements of your business working brilliantly
-          together, especially around your technology architecture and
-          organisation design.
+          We help you design your organisation to get all the elements of your
+          business working brilliantly together, especially around your
+          technology architecture and organisation design.
 
 
           so that your organisation is ready to meet its biggest challenges.
@@ -125,10 +122,8 @@ sections:
           your business so they have lasting impact.
 
 
-
-
-          set up a Business Design team to make sure these skills are embedded
-          in your organisation so they have lasting impact.
+          We can help you set up a Business Design team to make sure these
+          skills are embedded in your organisation so they have lasting impact.
         highlight: false
         actions: []
         type: pricing_plan
