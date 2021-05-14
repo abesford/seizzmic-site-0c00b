@@ -132,9 +132,11 @@ sections:
   - section_id: lorem-ipsum
     content: >
       Because we're independent and impartial, we can be "on your side" working
-      with you and your suppliers. We'll give you advice that makes sense in
-      your organisation, and we'll support your teams to prioritise and take
-      action.
+      with you and your suppliers.
+
+
+      We'll give you advice that makes sense in your organisation, and we'll
+      support your teams to prioritise and take action.
     image_alt: lorem-ipsum
     background: gray
     actions: []
