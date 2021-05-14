@@ -69,7 +69,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Cyber-security
+      - title: Stay cyber-secure
         subtitle: lorem-ipsum
         price: ''
         details: Security by Design
