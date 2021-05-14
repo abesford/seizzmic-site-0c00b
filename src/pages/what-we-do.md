@@ -104,12 +104,8 @@ sections:
       - title: Design your future
         price: ''
         details: >
-          We help you make sense of how your  business operations need to change
-          in response
-
-
-          so that your organisation is ready to meet its biggest challenges as
-          you deliver your plans.
+          We help you make sense of how your business needs to change to meet
+          its biggest challenges and deliver your vision.
 
 
           We help you get all the elements of your business working brilliantly
