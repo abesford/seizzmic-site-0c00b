@@ -52,7 +52,10 @@ sections:
       - title: Make better use of data
         price: ''
         details: >
-          establish your vision for data, get quick results
+          **Establish your vision for data.**
+
+
+          get quick results
 
 
           strategy, identify key areas, collect and analyse, insight into action
