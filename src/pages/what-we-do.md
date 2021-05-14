@@ -23,7 +23,7 @@ sections:
     subtitle: "We have a wealth of experience in these digital change themes. There's no one-size-fits-all and we'll always customise this to meet your needs.\_All of these can be tailored to as much or as little as you need."
     background: gray
     pricing_plans:
-      - title: See what's next
+      - title: Develop your digital strategy
         subtitle: Create a strategy for success in the digital era.
         price: ''
         details: >
