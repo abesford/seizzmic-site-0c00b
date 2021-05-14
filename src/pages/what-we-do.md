@@ -103,39 +103,32 @@ sections:
         type: pricing_plan
       - title: Design your future
         price: ''
-        details: >+
+        details: >
           We work with you to design your organisation. Be better by design
 
 
-          Architecture
+          We help you get all the elements of your business working brilliantly
+          together, especially around your technology architecture and
+          organisation design.
 
 
-          We can help you
+          so that your organisation is ready to meet its biggest challenges.
 
 
-          *   We help you get all the elements of your business working
-          brilliantly together
+          make sense of how your  business operations need to change in response
+
+          bring together all the elements of your business in a seamless design,
+          including how you serve your customers, organise and operate, use
+          technology, and make money
+
+          deliver your plans by ensuring the improvements are embedded deep in
+          your business so they have lasting impact.
 
 
-          <!---->
 
 
-          *   so that your organisation is ready to meet its biggest challenges.
-
-
-          <!---->
-
-
-          *   make sense of how your  business operations need to change in
-          response
-              bring together all the elements of your business in a seamless design, including how you serve your customers, organise and operate, use technology, and make money
-              deliver your plans by ensuring the improvements are embedded deep in your business so they have lasting impact.
-
-          <!---->
-
-
-          *   set up a Business Design team to make sure you
-
+          set up a Business Design team to make sure these skills are embedded
+          in your organisation so they have lasting impact.
         highlight: false
         actions: []
         type: pricing_plan
