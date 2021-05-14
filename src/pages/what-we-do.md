@@ -14,10 +14,6 @@ sections:
     content: >
       We help companies get their strategy for digital change right, and we help
       make it happen.
-
-
-      We're independent and impartial, and "on your side" working with you and
-      your suppliers.
     actions:
       - label: Get in touch
         url: /contact
