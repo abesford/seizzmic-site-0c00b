@@ -42,7 +42,6 @@ sections:
         actions: []
         type: pricing_plan
       - title: Make better use of data
-        subtitle: 'establish your vision for data, get quick results'
         price: ''
         details: >
           strategy, identify key areas, collect and analyse, insight into action
