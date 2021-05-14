@@ -92,6 +92,9 @@ sections:
 
 
           Continuously innovate and think digitally.
+
+
+          Understand the skills you need to develop
         highlight: false
         actions: []
         type: pricing_plan
