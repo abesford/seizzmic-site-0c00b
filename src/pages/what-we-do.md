@@ -104,22 +104,20 @@ sections:
       - title: Design your future
         price: ''
         details: >
-          We help you design your organisation to get all the elements of your
-          business working brilliantly together, especially around your
-          technology architecture and organisation design.
+          We help you get all the elements of your business working brilliantly
+          together, especially around your technology architecture and
+          organisation design.
 
 
-          so that your organisation is ready to meet its biggest challenges.
+          so that your organisation is ready to meet its biggest challenges as
+          you deliver your plans.
 
 
           make sense of how your  business operations need to change in response
 
           bring together all the elements of your business in a seamless design,
           including how you serve your customers, organise and operate, use
-          technology, and make money
-
-          deliver your plans by ensuring the improvements are embedded deep in
-          your business so they have lasting impact.
+          technology
 
 
           We can help you set up a Business Design team to make sure these
