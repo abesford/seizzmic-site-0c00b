@@ -61,7 +61,6 @@ sections:
         actions: []
         type: pricing_plan
       - title: Support your digital leadership
-        subtitle: Culture / how do you work to be successful
         price: ''
         details: >
           Understanding your customers/users and  meet their needs
