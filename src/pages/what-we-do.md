@@ -27,7 +27,6 @@ sections:
     background: gray
     pricing_plans:
       - title: Develop your digital strategy
-        subtitle: Create a strategy for success in the digital era.
         price: ''
         details: >
           We do the hard work to make it simple. See what's next
