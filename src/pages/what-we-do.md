@@ -12,8 +12,8 @@ sections:
     image_alt: App preview on a phone and tablet
     title: What we do
     content: >
-      We help companies get their strategy for digital change right, and we help
-      make it happen.
+      We help ambitious businesses and public sector organisations get their
+      strategy for digital change right, and we help make it happen.
     actions:
       - label: Get in touch
         url: /contact
