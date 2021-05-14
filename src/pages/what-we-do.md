@@ -95,7 +95,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Architecture
+      - title: Design your future
         price: ''
         details: |
           Be better by design
