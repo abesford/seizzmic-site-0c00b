@@ -42,6 +42,9 @@ sections:
           determine / be prepared for the future.
 
 
+          focus on the right innovation
+
+
           link to inside / outside
 
 
