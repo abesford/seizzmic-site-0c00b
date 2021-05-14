@@ -98,6 +98,10 @@ sections:
       - title: Architecture
         price: ''
         details: |
+          Be better by design
+
+          Architecture
+
           Set up a Business Design team.
         highlight: false
         actions: []
