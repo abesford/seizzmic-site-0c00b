@@ -108,9 +108,9 @@ sections:
           its biggest challenges and deliver your vision.
 
 
-          We help you get all the elements of your business working brilliantly
-          together: the ways you serve your customers, how you operate, your
-          organisation design, and your technology architecture.
+          We'll help you get all the elements of your business working
+          brilliantly together: the ways you serve your customers, how you
+          operate, your organisation design, and your technology architecture.
 
 
           We can support setting up a Business Design team to make sure these
