@@ -38,18 +38,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Assess your digital readiness
-        subtitle: Culture / how do you work to be successful
-        price: ''
-        details: |
-          Understanding your customers/users and  meet their needs
-
-          We know how to deliver change in complex environments
-
-          Prioritising business improvements
-        highlight: false
-        actions: []
-        type: pricing_plan
       - title: Use your data better
         subtitle: 'establish your vision for data, get quick results'
         price: ''
@@ -66,6 +54,18 @@ sections:
 
 
           data is the underlying capability that makes all this stuff possible
+        highlight: false
+        actions: []
+        type: pricing_plan
+      - title: Assess your digital readiness
+        subtitle: Culture / how do you work to be successful
+        price: ''
+        details: |
+          Understanding your customers/users and  meet their needs
+
+          We know how to deliver change in complex environments
+
+          Prioritising business improvements
         highlight: false
         actions: []
         type: pricing_plan
