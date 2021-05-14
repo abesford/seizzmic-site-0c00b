@@ -97,10 +97,12 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
-    content: |
-      All of these can be tailored to as much or as little as you need.
-
+    content: >
       We don't "land and expand".
+
+
+      We're independent and impartial, and "on your side" working with you and
+      your suppliers.
     image_alt: lorem-ipsum
     background: gray
     actions: []
