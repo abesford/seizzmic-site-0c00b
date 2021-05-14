@@ -29,9 +29,11 @@ sections:
       - title: Develop your digital strategy
         price: ''
         details: >
-          Create a strategy for success in the digital era. We do the hard work
-          to make it simple. We can help you make sense of how your world is
-          changing, and see what's next.
+          **Create a strategy for success in the digital era.**
+
+
+          We do the hard work to make it simple. We can help you make sense of
+          how your world is changing, and see what's next.
 
 
           Redefine what's possible, give shape to the future—and get there.
