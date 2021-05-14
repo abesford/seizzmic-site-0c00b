@@ -60,12 +60,18 @@ sections:
       - title: Assess your digital readiness
         subtitle: Culture / how do you work to be successful
         price: ''
-        details: |
+        details: >
           Understanding your customers/users and  meet their needs
+
 
           We know how to deliver change in complex environments
 
+
           Prioritising business improvements
+
+
+          Help your leadership be more digital and confident about their
+          decisions.
         highlight: false
         actions: []
         type: pricing_plan
