@@ -104,24 +104,21 @@ sections:
       - title: Design your future
         price: ''
         details: >
-          We help you get all the elements of your business working brilliantly
-          together, 
-
-
-          bring together all the elements of your business in a seamless design,
-          including the ways you serve your customers, how you operate, your
-          organisation design, and your technology architecture.
+          We help you make sense of how your  business operations need to change
+          in response
 
 
           so that your organisation is ready to meet its biggest challenges as
           you deliver your plans.
 
 
-          make sense of how your  business operations need to change in response
+          We help you get all the elements of your business working brilliantly
+          together: the ways you serve your customers, how you operate, your
+          organisation design, and your technology architecture.
 
 
-          We can help you set up a Business Design team to make sure these
-          skills are embedded in your organisation so they have lasting impact.
+          We can support setting up a Business Design team to make sure these
+          skills are embedded in your organisation and have lasting impact.
         highlight: false
         actions: []
         type: pricing_plan
