@@ -74,25 +74,22 @@ sections:
         type: pricing_plan
       - title: Support your digital leadership
         price: ''
-        details: >
-          Culture / how do you work to be successful
+        details: |
+          **Help your leadership be more digital.**
 
+           and confident about their decisions.
+
+          Culture / how do you work to be successful
 
           Understanding your customers/users and  meet their needs
 
-
           We know how to deliver change in complex environments
-
 
           Prioritising business improvements, how you do procurement
 
 
-          Help your leadership be more digital and confident about their
-          decisions.
-
 
           Continuously innovate and think digitally.
-
 
           Understand the skills you need to develop
         highlight: false
