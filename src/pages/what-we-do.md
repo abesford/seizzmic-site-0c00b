@@ -84,7 +84,11 @@ sections:
           and confident about their decisions.
 
 
-          Culture / how do you work to be successful /agile
+          Culture / how do you work to be successful /
+
+
+          agile - within the commercial realities and constraints of large
+          organisations
 
 
           Understanding your customers/users and  meet their needs
