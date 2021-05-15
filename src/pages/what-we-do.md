@@ -56,27 +56,23 @@ sections:
       - title: Make better use of data
         price: ''
         details: >
-          **Get greater insight and make better decisions.**
+          **Get greater insight and make confident decisions.**
 
 
-          We'll help you use your data 
+          We help you identify where you can get rapid business improvements
+          from your data, as well as establishing your bigger vision for how
+          this can reshape your business model.
 
 
-          Establish your bigger vision for data.
+          We'll support building your understanding of collecting and governing
+          data, building underlying technology capabilities, and the skills and
+          culture you need to develop.
 
+           identify key areas, collect and analyse, insight into action
 
-          identify where to get results and how this can reshape your business
-          model
-
-
-          get quick results, demonstrate progress quickly
-
-
-          strategy, identify key areas, collect and analyse, insight into action
-
-           "what if we could ...", build predictive models
-
-          underlying capability 
+          where you can use artificial intelligence and machine learning
+          techniques to predict demand and use that to help you plan for the
+          future.
         highlight: false
         actions: []
         type: pricing_plan
