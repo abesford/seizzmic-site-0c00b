@@ -69,9 +69,9 @@ sections:
           culture you need to develop.
 
 
-          We can help identify areas where you can use artificial intelligence
-          and machine learning techniques to predict demand, and use that to
-          plan for the future.
+          We can help identify where you can use artificial intelligence and
+          machine learning techniques to predict demand, and use that to plan
+          for the future.
         highlight: false
         actions: []
         type: pricing_plan
