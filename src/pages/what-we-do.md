@@ -84,7 +84,7 @@ sections:
           and confident about their decisions.
 
 
-          Culture / how do you work to be successful
+          Culture / how do you work to be successful /agile
 
 
           Understanding your customers/users and  meet their needs
@@ -94,8 +94,6 @@ sections:
 
 
           Prioritising business improvements, how you do procurement
-
-
 
 
           We'll help you understand the skills your teams need to develop, so
