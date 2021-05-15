@@ -59,22 +59,24 @@ sections:
           **Get greater insight and make better decisions.**
 
 
-          Establish your vision for data.
+          We'll help you use your data 
 
 
-          get quick results
+          Establish your bigger vision for data.
+
+
+          identify where to get results and how this can reshape your business
+          model
+
+
+          get quick results, demonstrate progress quickly
 
 
           strategy, identify key areas, collect and analyse, insight into action
 
+           "what if we could ...", build predictive models
 
-          we're all on a journey with data - hep you move along - identify where
-          to get results and how this can reshape your business model.
-          demonstrate progress quickly and establish the bigger vision. "what if
-          we could ...", build predictive models
-
-
-          data is the underlying capability that makes all this stuff possible
+          underlying capability 
         highlight: false
         actions: []
         type: pricing_plan
