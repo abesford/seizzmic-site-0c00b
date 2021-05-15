@@ -56,23 +56,22 @@ sections:
       - title: Make better use of data
         price: ''
         details: >
-          **Get greater insight and make confident decisions.**
+          **Gain greater insight and make confident decisions.**
 
 
-          We help you identify where you can get rapid business improvements
-          from your data, as well as establishing your bigger vision for how
-          this can reshape your business model.
+          We help you identify where you can drive rapid performance
+          improvements using your data, as well as establishing your bigger
+          vision for how this can reshape your business model.
 
 
-          We'll support building your understanding of collecting and governing
-          data, building underlying technology capabilities, and the skills and
+          We'll support building your organisation's understanding of collecting
+          and governing data, the underlying technology, and the skills and
           culture you need to develop.
 
-           identify key areas, collect and analyse, insight into action
 
-          where you can use artificial intelligence and machine learning
-          techniques to predict demand and use that to help you plan for the
-          future.
+          We can help identify areas where you can use artificial intelligence
+          and machine learning techniques to predict demand, and use that to
+          plan for the future.
         highlight: false
         actions: []
         type: pricing_plan
