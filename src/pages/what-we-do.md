@@ -108,11 +108,21 @@ sections:
       - title: Stay cyber-secure
         price: ''
         details: >
-          **Keep your organisation and your customers safe as you deliver
-          services online.**
+          **Keep your organisation and your customers safe.**
 
 
-          We'll help you ... Security by Design
+          You don’t "do" security. You do a range of things to become more
+          secure.  The nature of the threats you need to protect against is
+          changing all the time.
+
+
+          We can help you become more secure by design, especially as you
+          deliver more services online.
+
+
+          We're also able to help with more complex environments, including at
+          very large scale, where security can't just be designed in, but is an
+          emergent property of a complex system.
         highlight: false
         actions:
           - label: Our cyber-security services
