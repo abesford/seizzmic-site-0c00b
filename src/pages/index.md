@@ -2,7 +2,7 @@
 title: Home
 sections:
   - section_id: lorem-ipsum
-    title: Do extraordinary things
+    title: Do extraordinary things.
     content: >
       More than ever, organisations need to become more digital to survive and
       thrive.
