@@ -37,7 +37,7 @@ sections:
 
 
           Building a new digital business from scratch is easier than ever. And
-          people outside of traditional institutions frequently stand up viable
+          people outside of traditional institutions can stand up viable
           alternatives to the status quo.
 
 
