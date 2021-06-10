@@ -6,7 +6,7 @@ canonical_url: ''
 no_index: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Where we work
     content: >-
       ## Lorem ipsum
 
