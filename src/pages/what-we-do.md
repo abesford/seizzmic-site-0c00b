@@ -5,7 +5,7 @@ meta_description: ''
 canonical_url: ''
 no_index: false
 sections:
-  - section_id: features
+  - section_id: what-we-do
     type: section_content
     background: gray
     image: images/responsive-web-design.png
