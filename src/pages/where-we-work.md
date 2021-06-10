@@ -47,7 +47,6 @@ sections:
             url: /sectors/enterprise
             style: secondary
       - title: Public sector
-        subtitle: Central and local government
         price: ''
         details: >
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
