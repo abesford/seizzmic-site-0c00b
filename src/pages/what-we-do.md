@@ -20,6 +20,7 @@ sections:
         style: secondary
         has_icon: true
         icon: arrow-right
+        icon_position: right
   - section_id: services
     background: gray
     pricing_plans:
