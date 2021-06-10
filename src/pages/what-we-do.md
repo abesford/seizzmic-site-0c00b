@@ -12,8 +12,8 @@ sections:
     image_alt: App preview on a phone and tablet
     title: 'Get your strategy for digital change right, and make it happen.'
     content: >
-      We help ambitious businesses and public sector organisations get their
-      strategy for digital change right, and we help make it happen.
+      Whether you're just starting out, or taking it to the next level, we have
+      a wealth of experience to support your digital change journey.
     actions:
       - label: Get in touch
         url: /contact
