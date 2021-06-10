@@ -6,7 +6,7 @@ canonical_url: ''
 no_index: false
 sections:
   - section_id: where-we-work
-    title: Where we work
+    title: We work with all kinds of ambitious organisations.
     content: >
       We help public and private sector organisations, large and small, and we
       understand the very different challenges they face. There's no
