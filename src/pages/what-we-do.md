@@ -154,8 +154,7 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-  - section_id: lorem-ipsum
-    content: >
+  - content: >
       ## Support when you need it.
 
 
