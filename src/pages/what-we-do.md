@@ -108,6 +108,10 @@ sections:
           **Keep your organisation and your customers safe.**
 
 
+          Now is the time to weave technology and cybersecurity through your
+          strategy deeper than you may ever have done before.
+
+
           You don’t "do" security. You do a range of things to become more
           secure.  The nature of the threats you need to protect against is
           changing all the time.
