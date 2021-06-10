@@ -41,10 +41,10 @@ sections:
           alternatives to the status quo.
 
 
-          If your organisation has been around for a while, you'll have built up
-          an array of technologies and processes which can hold you back. We
-          help you unravel this and become more digital [on the inside as well
-          as the outside](/blog/digital-inside-and-outside).
+          But if your organisation has been around for a while, you'll have
+          built up an array of technologies and processes which can hold you
+          back. We help you unravel this and become more digital [on the inside
+          as well as the outside](/blog/digital-inside-and-outside).
         actions:
           - label: What we do
             url: /what-we-do
