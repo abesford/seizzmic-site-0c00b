@@ -45,4 +45,4 @@ Recent world events highlight how tech companies have become involved in areas l
 
 The time when all tech ideas came from within 50 miles of Silicon Valley is now over: China has more people online than the USA and Europe combined. We are in a process of rebuilding, and we can no longer ignore the challenges of inequality, misinformation and climate change.
 
-**seizzmic** helps [all kinds of organisations](https://) adapt to the digital era. [Read more about what we do]().
+**seizzmic** helps [all kinds of organisations](https://) make the most of all this change. [Read more about what we do]().
