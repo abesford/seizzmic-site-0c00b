@@ -16,6 +16,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/1.jpg
   - section_id: pricing
     type: section_pricing
     background: gray
