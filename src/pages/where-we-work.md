@@ -14,7 +14,7 @@ sections:
       answers for your specific context.
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: Get in touch
         url: lorem-ipsum
         style: link
         has_icon: false
