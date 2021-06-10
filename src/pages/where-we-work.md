@@ -15,7 +15,7 @@ sections:
     background: gray
     actions:
       - label: Get in touch
-        url: lorem-ipsum
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
