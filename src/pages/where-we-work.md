@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Get in touch
         url: /contact
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: left
