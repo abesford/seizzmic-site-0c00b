@@ -18,6 +18,23 @@ sections:
       - label: Get in touch
         url: /contact
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: services
     subtitle: >-
       Whether you're just starting out, or taking it to the next level, we have
@@ -160,23 +177,6 @@ sections:
 
       We'll give you advice that makes sense in your organisation, and we'll
       support your teams to prioritise and take action.
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
