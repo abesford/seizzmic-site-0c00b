@@ -160,6 +160,10 @@ sections:
       with your colleagues and your suppliers.
 
 
+      There's no "one-size-fits-all" and we'll always tailor what we do to as
+      much or as little as you need.
+
+
       We'll give you advice that makes sense in your organisation, and we'll
       support your teams to prioritise and take action.
     image_alt: lorem-ipsum
