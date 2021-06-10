@@ -5,7 +5,7 @@ meta_description: ''
 canonical_url: ''
 no_index: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: where-we-work
     title: Where we work
     content: >-
       ## Lorem ipsum
