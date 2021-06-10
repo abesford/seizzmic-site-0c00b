@@ -18,6 +18,7 @@ sections:
       - label: Get in touch
         url: /contact
         style: secondary
+        has_icon: true
   - section_id: services
     background: gray
     pricing_plans:
