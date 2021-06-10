@@ -24,7 +24,6 @@ sections:
       a wealth of experience to support your digital change journey. There's no
       "one-size-fits-all" and we'll always tailor what we do to as much or as
       little as you need.
-    image_alt: lorem-ipsum
     background: gray
     actions: []
     type: section_content
