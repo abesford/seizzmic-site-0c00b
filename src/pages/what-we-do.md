@@ -18,8 +18,7 @@ sections:
       - label: Get in touch
         url: /contact
         style: secondary
-  - title: lorem-ipsum
-    content: >
+  - content: >
       Whether you're just starting out, or taking it to the next level, we have
       a wealth of experience to support your digital change journey. There's no
       "one-size-fits-all" and we'll always tailor what we do to as much or as
