@@ -97,8 +97,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-  - section_id: lorem-ipsum
-    content: |
+  - content: |
       ## Lorem ipsum.
 
       Share values and objectives
