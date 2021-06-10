@@ -19,7 +19,6 @@ sections:
         url: /contact
         style: secondary
   - section_id: services
-    title: What we do
     subtitle: >-
       Whether you're just starting out, or taking it to the next level, we have
       a wealth of experience to support your digital change journey. There's no
