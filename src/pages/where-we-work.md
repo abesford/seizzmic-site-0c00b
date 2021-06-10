@@ -82,9 +82,10 @@ sections:
       - title: Mid-sized businesses
         price: ''
         details: >
-          We help mid-size businesses create a digital vision appropriate to
-          their size and ambitions, and put actions in place to support their
-          long-term success.
+          Turnover £25m-£500m per year, or around 250 employees. We help
+          mid-size businesses create a digital vision appropriate to their size
+          and ambitions, and put actions in place to support their long-term
+          success.
         highlight: false
         actions:
           - label: Our work in mid-sized businesses
