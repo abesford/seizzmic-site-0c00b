@@ -53,7 +53,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/responsive-web-design.png
-      - title: Think and work digitally
+      - title: Stay relevant in a changing world
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
