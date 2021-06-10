@@ -10,7 +10,7 @@ sections:
     background: gray
     image: images/responsive-web-design.png
     image_alt: App preview on a phone and tablet
-    title: What we do
+    title: 'Get your strategy for digital change right, and make it happen.'
     content: >
       We help ambitious businesses and public sector organisations get their
       strategy for digital change right, and we help make it happen.
