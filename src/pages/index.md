@@ -36,12 +36,15 @@ sections:
           that [adapt to the digital era](/blog/what-we-mean-by-internet-era/).
 
 
-          Building a new digital business from scratch is easier than ever. But
-          any organisation that's been around for a while, doing anything
-          complicated, will have built up an array of technologies and processes
-          which can hold you back. We help you unravel this and become more
-          digital [on the inside as well as the
-          outside](/blog/digital-inside-and-outside).
+          Building a new digital business from scratch is easier than ever. And
+          people outside of traditional institutions frequently stand up viable
+          alternatives to the status quo.
+
+
+          But if your organisation has been around for a while, you'll have
+          built up an array of technologies and processes which can hold you
+          back. We help you unravel this and become more digital [on the inside
+          as well as the outside](/blog/digital-inside-and-outside).
         actions:
           - label: What we do
             url: /what-we-do
