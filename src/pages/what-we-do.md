@@ -75,6 +75,9 @@ sections:
           **Help your leadership be more digital.**
 
 
+          Make sure you are talking the same language at the top table
+
+
           and confident about their decisions.
 
 
