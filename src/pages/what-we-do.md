@@ -36,11 +36,6 @@ sections:
     actions: []
     type: section_content
   - section_id: services
-    subtitle: >-
-      Whether you're just starting out, or taking it to the next level, we have
-      a wealth of experience to support your digital change journey. There's no
-      "one-size-fits-all" and we'll always tailor what we do to as much or as
-      little as you need.
     background: gray
     pricing_plans:
       - title: Develop your digital strategy
