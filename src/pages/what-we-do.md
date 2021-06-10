@@ -20,7 +20,7 @@ sections:
         style: secondary
   - content: >
       Whether you're just starting out, or taking it to the next level, we have
-      a wealth of experience to support your digital change journey. 
+      a wealth of experience to support your digital change journey.
     background: gray
     actions: []
     type: section_content
