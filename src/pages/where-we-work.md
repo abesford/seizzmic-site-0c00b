@@ -80,7 +80,6 @@ sections:
             type: action
         type: pricing_plan
       - title: Mid-sized businesses
-        subtitle: 'Turnover £25m-£500m per year, or around 250 employees'
         price: ''
         details: >
           We help mid-size businesses create a digital vision appropriate to
