@@ -28,6 +28,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    section_id: Intro
   - section_id: services
     background: gray
     pricing_plans:
