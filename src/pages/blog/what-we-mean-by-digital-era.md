@@ -21,7 +21,7 @@ thumb_image: images/9.jpg
 ---
 **The internet used to be a niche interest for academics and enthusiasts. Now it's part of almost everyone's day-to-day life.**
 
-When the world wide web was created in 1989, only 0.5% of the world's population were online.
+When the world wide web was created in 1989, only 0.5% of the world's population could get online.
 
 By the 2010s, the rapid development of the internet created a period where "[Software ate the world](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)", with businesses in all industries being disrupted, bringing winners (Amazon, Netflix, Spotify, PayPal) and losers (Blockbuster, Borders, Kodak). Communication and commerce via the internet have become a central focus for businesses, consumers, government, and the media.
 
