@@ -18,8 +18,7 @@ sections:
       - label: Get in touch
         url: /contact
         style: secondary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     content: >
       Whether you're just starting out, or taking it to the next level, we have
       a wealth of experience to support your digital change journey. There's no
