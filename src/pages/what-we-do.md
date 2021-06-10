@@ -64,8 +64,8 @@ sections:
 
 
           We can help identify where you can use artificial intelligence and
-          machine learning techniques to predict demand, and use that to plan
-          for the future.
+          machine learning techniques, for example to predict demand, and use
+          that to plan for the future.
         highlight: false
         actions: []
         type: pricing_plan
