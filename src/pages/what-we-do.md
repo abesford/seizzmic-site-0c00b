@@ -156,8 +156,8 @@ sections:
       with your colleagues and your suppliers.
 
 
-      There's no "one-size-fits-all" and we'll always tailor what we do to as
-      much or as little as you need.
+      We don't believe in "one-size-fits-all" and we'll always tailor what we do
+      to as much or as little as you need.
 
 
       We give advice that makes sense in your organisation, and we'll support
