@@ -7,17 +7,8 @@ no_index: false
 sections:
   - section_id: where-we-work
     title: Where we work
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      We work with all kinds of ambitious organisations.
     image_alt: lorem-ipsum
     background: gray
     actions: []
