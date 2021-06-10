@@ -98,7 +98,6 @@ sections:
             type: action
         type: pricing_plan
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: |
       ## Lorem ipsum.
 
