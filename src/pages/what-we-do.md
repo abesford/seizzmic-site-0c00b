@@ -108,8 +108,9 @@ sections:
           **Keep your organisation and your customers safe.**
 
 
-          Now is the time to weave technology and cybersecurity through your
-          strategy deeper than you may ever have done before.
+          Cyber incidents are no longer just online and increasingly disrupt the
+          'real world'. Now is the time to weave technology and cybersecurity
+          through your strategy deeper than you may ever have done before.
 
 
           You don’t "do" security. You do a range of things to become more
@@ -119,11 +120,6 @@ sections:
 
           We can help you become more secure by design, especially as you
           deliver more services online.
-
-
-          We're also able to help with more complex environments, including at
-          very large scale, where security can't just be designed in, but is an
-          emergent property of a complex system.
         highlight: false
         actions:
           - label: Our cyber-security services
