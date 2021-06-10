@@ -149,6 +149,9 @@ sections:
     type: section_pricing
   - section_id: lorem-ipsum
     content: >
+      # What you can expect
+
+
       Because we're independent and impartial, we can be "on your side" working
       with your colleagues and your suppliers.
 
