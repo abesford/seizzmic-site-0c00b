@@ -12,7 +12,7 @@ sections:
       understand the very different challenges they face. There's no
       one-size-fits-all. We bring our deep expertise to help you find the right
       answers for your specific context.
-    background: gray
+    background: white
     actions: []
     type: section_content
     image: images/1.jpg
