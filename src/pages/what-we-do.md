@@ -20,17 +20,11 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Whether you're just starting out, or taking it to the next level, we have
+      a wealth of experience to support your digital change journey. There's no
+      "one-size-fits-all" and we'll always tailor what we do to as much or as
+      little as you need.
     image_alt: lorem-ipsum
     background: gray
     actions: []
