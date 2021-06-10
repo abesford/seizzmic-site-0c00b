@@ -7,8 +7,11 @@ no_index: false
 sections:
   - section_id: where-we-work
     title: Where we work
-    content: |
-      We work with all kinds of ambitious organisations.
+    content: >
+      We help public and private sector organisations, large and small, and we
+      understand the very different challenges they face. There's no
+      one-size-fits-all. We bring our deep expertise to help you find the right
+      answers for your specific context.
     image_alt: lorem-ipsum
     background: gray
     actions: []
