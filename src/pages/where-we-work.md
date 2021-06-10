@@ -100,6 +100,8 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: |
+      ## Lorem ipsum.
+
       Share values and objectives
     image_alt: lorem-ipsum
     background: gray
