@@ -84,10 +84,6 @@ sections:
           Lasting change depends on you setting out a compelling vision for the
           future, and getting everyone working towards it. Automate or rebuild?
           What can you do with your data? How to stay secure?
-
-
-          We're impartial, and help you make the best choices for your
-          situation.
         actions:
           - label: Our thinking
             url: /blog
