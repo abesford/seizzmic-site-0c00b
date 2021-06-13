@@ -10,7 +10,7 @@ sections:
     background: gray
     image: images/responsive-web-design.png
     image_alt: App preview on a phone and tablet
-    title: 'Get your strategy for digital change right, and make it happen.'
+    title: Get your strategy for digital change right. And make it happen.
     content: >
       We support your digital change journey, whether you're just starting out,
       or taking it to the next level.
