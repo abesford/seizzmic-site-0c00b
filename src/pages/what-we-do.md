@@ -12,8 +12,8 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Get your strategy for digital change right. And make it happen.
     content: >
-      We support your digital change journey, whether you're just starting out,
-      or taking it to the next level.
+      Whether you're just starting out, or taking it to the next level, we can
+      support your digital change journey,
     actions:
       - label: Get in touch
         url: /contact
