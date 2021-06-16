@@ -35,8 +35,8 @@ sections:
 
 
           Building a new digital business from scratch is easier than ever.
-          People outside traditional institutions are standing up viable
-          alternatives.
+          Traditional institutions face the threat of outsiders standing up
+          viable alternatives.
 
 
           All successful organisations eventually build up technologies and
