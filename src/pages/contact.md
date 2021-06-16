@@ -40,15 +40,19 @@ sections:
       - title: Company
         subtitle: ''
         price: ''
-        details: |
+        details: >
           **seizzmic** is a trading name of 55th Parallel Ltd.
+
 
           Registered in England and Wales.
 
+
           Company number: 11125102
 
-          Registered office:
-          42 Baronswood, Gosforth, Newcastle upon Tyne NE3 3UB
+
+          Registered office: 42 Baronswood, Gosforth, Newcastle upon Tyne NE3
+          3UB
+
 
           VAT Registration Number: 287 8133 63
         highlight: false
