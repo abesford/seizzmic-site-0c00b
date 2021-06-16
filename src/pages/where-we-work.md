@@ -24,7 +24,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-    image: images/1.jpg
+    image: 'images/Canary_Wharf_Wide_View,_London_-_July_2009.jpg'
   - section_id: pricing
     type: section_pricing
     background: gray
