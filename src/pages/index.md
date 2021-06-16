@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: lorem-ipsum
     title: Do extraordinary things.
-    content: "More than ever, organisations need to become more digital to survive and thrive.\n\nBeing digital is about much more than your website. It is the way to radically improve how your organisation works, and how you interact with your customers.\n\nLead your organisation through digital change.\n\nOur goal is to help get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
+    content: "More than ever, organisations need to become more digital to survive and thrive.\n\nBeing digital is about much more than your website. It is the way to radically improve how your organisation works, and how you interact with your customers.\n\nWe help lead your organisation through digital change. Our goal is to help get you ready for the future - in a way that your customers and colleagues will really notice. We're experts in business change. We'll help you plot out your digital journey, and support you to get there -\_modernising complex technology estates, making better use of data, and staying cyber-secure.\n"
     image_alt: Navigation
     actions: []
     type: section_hero
