@@ -10,7 +10,7 @@ canonical_url: ''
 no_index: false
 template: page
 ---
-At **seizzmic** we're building a diverse bunch of people with a strong blend of skills. As a new company we've got a start-up mindset, as well as the credentials of operating internationally and at scale.
+At **seizzmic** we're building a diverse group of people with a strong blend of skills. As a new company we've got a start-up mindset, as well as the credentials of operating internationally and at scale.
 
 We don't follow the big consultancy model of an exhausting up-or-out career where what you need to do to progress might differ from what's best for your client. Instead we want to do the right thing, and achieve a sense of balance. The opportunity to work on high-impact projects as well as enjoy your life.
 
