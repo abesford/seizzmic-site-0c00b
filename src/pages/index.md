@@ -11,6 +11,11 @@ sections:
       Being digital is about much more than your website. It is the way to
       radically improve how your organisation works, and how you interact with
       your customers.
+
+
+
+
+      Lead your organisation through digital change.
     image_alt: Navigation
     actions: []
     type: section_hero
