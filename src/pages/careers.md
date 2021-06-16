@@ -20,7 +20,7 @@ If you're interested in working together please get in touch <info@seizzmic.com>
 
 *   Experience delivering and helping to lead client engagements, working with senior client teams and developing strong, trusting relationships.
     [Read more about where we work](/where-we-work).
-*   Credibility to develop new business
+*   Credibility to develop new business.
     [Read more about what we do](/what-we-do).
 
 #### We're looking for
