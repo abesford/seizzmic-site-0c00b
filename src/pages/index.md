@@ -80,7 +80,9 @@ sections:
     type: section_reviews
     background: white
     title: We work with all kinds of ambitious organisations.
-    subtitle: 'Making change happen, together.'
+    subtitle: >-
+      We're experts in business change. We work with you to making change
+      happen.
     reviews:
       - author: Chief Executive
         avatar: images/review1.jpg
