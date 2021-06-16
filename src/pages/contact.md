@@ -9,9 +9,8 @@ sections:
       - title: Contact
         subtitle: ''
         price: ''
-        details: >-
-          Email us [info@seizzmic.com](mailto:info@seizzmic.com) to set up a
-          chat.
+        details: |
+          Email us at <info@seizzmic.com> to set up a chat.
         highlight: false
         actions: []
         type: pricing_plan
