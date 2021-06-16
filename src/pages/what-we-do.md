@@ -8,7 +8,7 @@ sections:
   - section_id: what-we-do
     type: section_content
     background: gray
-    image: images/responsive-web-design.png
+    image: images/roadmap.jpeg
     image_alt: App preview on a phone and tablet
     title: Get your strategy for digital change right. And make it happen.
     content: |
