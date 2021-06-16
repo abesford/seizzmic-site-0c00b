@@ -19,15 +19,13 @@ If you're interested in working together please get in touch <info@seizzmic.com>
 #### You'll have
 
 *   Experience delivering and helping to lead client engagements, working with senior client teams and developing strong, trusting relationships.
-    [Read more about where we work](/where-we-work)
-    .
+    [Read more about where we work](/where-we-work).
 *   Credibility to develop new business
-    [Read more about what we do](/what-we-do)
-    .
+    [Read more about what we do](/what-we-do).
 
 #### We're looking for
 
-*   Consultancy experience and a willingness to pitch in. We're still new and our credibilty is paramount, so at this stage we need experienced people.
+*   Consultancy experience and a willingness to pitch in. We're still new and our credibility is paramount, so at this stage we need experienced people.
 
 *   Someone who 'gets' and is passionate about digital transformation, data, organisational change, and/or digital government and public service delivery.
 
