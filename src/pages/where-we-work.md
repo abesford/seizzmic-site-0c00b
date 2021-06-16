@@ -97,6 +97,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
+    subtitle: Which best describes your organisation?
   - content: |
       ## Lorem ipsum.
 
