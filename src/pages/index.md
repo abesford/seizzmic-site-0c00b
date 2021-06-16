@@ -57,7 +57,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Understand what's going on
+      - title: Understand what's going on.
         image: images/22668400901_ead3441fd4_k.jpg
         image_alt: App user profile preview
         content: >
