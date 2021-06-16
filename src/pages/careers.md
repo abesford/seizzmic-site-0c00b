@@ -10,7 +10,7 @@ canonical_url: ''
 no_index: false
 template: page
 ---
-At **seizzmic** we're building a diverse bunch of people with a strong blend of skills. As a new company we've got a start-up mindset, as well as the credentials of operating internationally and at scale.
+At **seizzmic** we're building a diverse group of people with a strong blend of skills. As a new company we've got a start-up mindset, as well as the credentials of operating internationally and at scale.
 
 We don't follow the big consultancy model of an exhausting up-or-out career where what you need to do to progress might differ from what's best for your client. Instead we want to do the right thing, and achieve a sense of balance. The opportunity to work on high-impact projects as well as enjoy your life.
 
@@ -19,15 +19,13 @@ If you're interested in working together please get in touch <info@seizzmic.com>
 #### You'll have
 
 *   Experience delivering and helping to lead client engagements, working with senior client teams and developing strong, trusting relationships.
-    [Read more about where we work](/where-we-work)
-    .
-*   Credibility to develop new business
-    [Read more about what we do](/what-we-do)
-    .
+    [Read more about where we work](/where-we-work).
+*   Credibility to develop new business.
+    [Read more about what we do](/what-we-do).
 
 #### We're looking for
 
-*   Consultancy experience and a willingness to pitch in. We're still new and our credibilty is paramount, so at this stage we need experienced people.
+*   Consultancy experience and a willingness to pitch in. We're still new and our credibility is paramount, so at this stage we need experienced people.
 
 *   Someone who 'gets' and is passionate about digital transformation, data, organisational change, and/or digital government and public service delivery.
 
