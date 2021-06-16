@@ -72,7 +72,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Understand what's going on
-        image: images/feature3.png
+        image: images/22668400901_ead3441fd4_k.jpg
         image_alt: App user profile preview
         content: >
           We bring together digital strategy and technology expertise. We help
