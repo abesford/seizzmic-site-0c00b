@@ -11,9 +11,8 @@ sections:
     image: images/responsive-web-design.png
     image_alt: App preview on a phone and tablet
     title: Get your strategy for digital change right. And make it happen.
-    content: >
-      Whether you're just starting out, or taking it to the next level, we can
-      support your digital change journey,
+    content: |
+      We help you make sense of how your world is changing, and see what's next.
     actions:
       - label: Get in touch
         url: /contact
