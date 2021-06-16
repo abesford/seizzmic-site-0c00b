@@ -18,12 +18,16 @@ sections:
       - title: Join us
         subtitle: ''
         price: ''
-        details: >-
+        details: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
           **Partnerships**
+
+
+          We're always on the look-out for partners who share our values, and
+          can collaborate to make our clients successful.
         highlight: false
         actions:
           - label: Working together
