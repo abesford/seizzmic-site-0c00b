@@ -13,7 +13,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Make digital change happen
+      - title: Make digital change happen.
         image_alt: App preview on a phone and tablet
         content: >
           Covid-19 accelerated trends that had been emerging for many years. The
