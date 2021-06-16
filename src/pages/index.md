@@ -53,7 +53,7 @@ sections:
             icon_position: right
         image: images/responsive-web-design.png
       - title: Stay relevant in a changing world
-        image: images/feature2.png
+        image: images/23800593301_f003f0a416_b.jpg
         image_alt: App users welcoming a new member
         content: >
           People make change happen. We bring your teams together, to plot a
