@@ -34,9 +34,9 @@ sections:
           the digital era](/blog/what-we-mean-by-internet-era/).
 
 
-          Building a new digital business from scratch is easier than ever. And
-          people outside of traditional institutions can stand up viable
-          alternatives to the status quo.
+          Building a new digital business from scratch is easier than ever.
+          People outside traditional institutions are standing up viable
+          alternatives.
 
 
           All successful organisations eventually build up technologies and
