@@ -30,9 +30,9 @@ sections:
       - title: Make digital change happen
         image_alt: App preview on a phone and tablet
         content: >
-          The Covid-19 pandemic accelerated trends that had been emerging for
-          many years. The organisations to survive and thrive will be the ones
-          that [adapt to the digital era](/blog/what-we-mean-by-internet-era/).
+          Covid-19 accelerated trends that had been emerging for many years. The
+          organisations to survive and thrive will be the ones that [adapt to
+          the digital era](/blog/what-we-mean-by-internet-era/).
 
 
           Building a new digital business from scratch is easier than ever. And
