@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - section_id: get
+  - section_id: get-in-touch
     title: Get in touch
     subtitle: We're all about having a conversation and working in collaboration.
     background: gray
