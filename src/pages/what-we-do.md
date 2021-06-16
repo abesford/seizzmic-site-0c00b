@@ -30,14 +30,12 @@ sections:
 
 
           Redefine what's possible, give shape to the future—and get there.
-          improve the way you deliver your products and services.
+          Improve the way you deliver your products and services, and focus on
+          the right kinds of innovation.
 
 
-          and focus on the right kinds of innovation
-
-
-          We'll help you create a compelling vision, and bring it to life around
-          your organisation.
+          We can help you create a compelling vision, and bring it to life all
+          around your organisation.
         highlight: false
         actions: []
         type: pricing_plan
