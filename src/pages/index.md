@@ -16,8 +16,7 @@ sections:
       We help lead your organisation through digital change. Our goal is to help
       get you ready for the future - in a way that your customers and colleagues
       will really notice. We'll help you plot out your digital journey, and
-      support you to get there - modernising complex technology estates, making
-      better use of data, and staying cyber-secure.
+      support you to get there.
     image_alt: Navigation
     actions: []
     type: section_hero
