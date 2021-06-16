@@ -27,23 +27,19 @@ sections:
       - title: Develop your digital strategy
         price: ''
         details: >
-          **Create a strategy for success in the digital era.**
+          **Create your strategy for success in the digital era.**
 
 
-          We do the hard work to make it simple. We can help you make sense of
-          how your world is changing, and see what's next.
+          We help you make sense of how your world is changing, and see what's
+          next.
 
 
           Redefine what's possible, give shape to the future—and get there.
-          improve the way you deliver your products and services. Help you
-          determine / be prepared for the future.
+          improve the way you deliver your products and services. 
 
 
-          focus on the right innovation
 
-
-          link to inside / outside
-
+           and focus on the right kinds of innovation
 
           We'll help you create a compelling vision, and bring it to life around
           your organisation.
