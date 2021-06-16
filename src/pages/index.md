@@ -112,7 +112,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Our latest thinking.
 meta_title: seizzmic
 meta_description: >-
   Leading your organisation through digital change can be difficult. We help you
