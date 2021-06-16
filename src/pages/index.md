@@ -79,7 +79,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: We work with all kinds of ambitious organisations
+    title: We work with all kinds of ambitious organisations.
     subtitle: 'Making change happen, together.'
     reviews:
       - author: Chief Executive
